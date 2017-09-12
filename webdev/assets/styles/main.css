@@ -71,7 +71,7 @@ main > div:first-child {
   padding-top: 0;
 }
 
-main > div h3 {
+main > div h3, .dataviz main h3 {
   font-weight: 900;
   text-transform: uppercase;
 }
@@ -110,11 +110,24 @@ main div .canvas {
   margin: 30px auto;
 }
 
-main div p code {
+main div p code, .dataviz code {
   background-color: #FAFAFA;
   padding: 2px 8px;
   margin: 0 2px;
   border-radius: 3px;
+}
+
+.dataviz main {
+  width: 100%;
+  min-height: 70vh;
+}
+
+.dataviz main p {
+  margin-top: 30px;
+}
+
+.dataviz main h3 {
+  margin-bottom: 30px;
 }
 
 @media only screen and (max-width: 700px) {
