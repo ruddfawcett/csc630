@@ -36,7 +36,8 @@ hr {
 }
 
 .nav-container {
-  width: 19.7vw;
+  width: 20vw;
+  box-sizing: border-box;
   margin-right: 5vw;
   background-color: #F8F8F8;
   border: 1px solid #E9E9E9;
