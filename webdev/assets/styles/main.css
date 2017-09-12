@@ -20,8 +20,8 @@ header h3 {
 }
 
 .container {
-  width: 90vw;
   padding: 50px 0;
+  box-sizing: border-box;
 }
 
 hr {
@@ -30,12 +30,13 @@ hr {
   border: 0;
 }
 
-.nav-container, main {
+nav, main {
   float: left;
   overflow: hidden;
 }
-
-.nav-container {
+nav {
+  padding: 0 20px;
+  margin: 0 auto;
   width: 20vw;
   box-sizing: border-box;
   margin-right: 5vw;
@@ -43,22 +44,17 @@ hr {
   border: 1px solid #E9E9E9;
 }
 
-.nav-container nav {
-  padding: 0 20px;
-  margin: 0 auto;
-}
-
-.nav-container nav ul {
+nav ul {
   margin: 20px 0;
   list-style: none;
 }
 
-.nav-container nav ul a {
+nav ul a {
   text-decoration: none;
   color: black;
 }
 
-.nav-container nav ul li {
+nav ul li {
   padding: 7px 0;
 }
 
