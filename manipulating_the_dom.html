@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset='utf-8'>
+  <title>JavaScript Basics</title>
+  </title>
+  <link href='styles.css' type='text/css' rel='stylesheet'>
+  <style>
+    body {
+      font-family: sans-serif;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    div {
+      margin: 0 auto;
+    }
+
+    main {
+      width: 80%;
+      margin: 0 auto;
+    }
+
+    .well {
+      background-color: #ddd;
+      width: 50%;
+      padding: 10px;
+    }
+
+    #solution {
+      width: 90%;
+      background-color: #efefef;
+      min-height: 30em;
+      margin-top: 20px;
+    }
+
+    #keyboard {
+      min-width: 80%;
+      min-height: 10em;
+      border: 1px solid #aaa;
+      border-radius: 10px;
+      margin: 10px auto;
+      padding: 10px;
+    }
+
+    #output {
+      text-align: center;
+      border: 1px solid #aaa;
+      border-radius: 10px;
+      width: 75%;
+    }
+  </style>
+</head>
+
+<body>
+  <div id='container'>
+    <header>
+      <h1>JavaScript Basics</h1>
+    </header>
+    <main>
+      <div class='well'>
+        <p>
+          <strong>Our task:</strong> create a simple virtual keyboard tool that could:
+        </p>
+        <ul>
+          <li> Have a button for each of the standard characters one might need to type, </li>
+          <li> Can visualize what you've typed, and </li>
+          <li> Once done, copy that text to the keyboard </li>
+        </ul>
+      </div>
+
+      <div id='solution'>
+        <div id='keyboard'></div>
+        <div id='output'>
+          <h3>Output</h3>
+          <p id='display'>(Your text should be displayed here as you 'type' with the keys of your keyboard.)</p>
+        </div>
+      </div>
+    </main>
+  </div>
+
+
+  <script type='text/javascript'>
+    var alphabet = 'abcdefghijklmnopqrstuvwxyz';
+    var keyboard = document.getElementById('keyboard');
+    alphabet.split('').forEach(function(letter) {
+      keyboard.innerHTML += `<button>${letter}</button>`;
+    });
+  </script>
+</body>
+
+</html>
