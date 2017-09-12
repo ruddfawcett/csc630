@@ -121,7 +121,7 @@ main div p code {
   body {
     padding: 10vw;
   }
-  .nav-container, main {
+  nav, main {
     width: 80vw;
     margin: 0 auto 40px auto;
   }
