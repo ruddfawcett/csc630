@@ -96,7 +96,7 @@ main > div ul.tags {
   margin-top: 20px;
 }
 
-main > div ul.tags li {
+main > div ul.tags li, input {
   display: inline-block;
   list-style: none;
   margin-right: 20px;
@@ -120,6 +120,7 @@ main div p code, .dataviz code {
 .dataviz main {
   width: 100%;
   min-height: 70vh;
+  padding-bottom: 50px;
 }
 
 .dataviz main p {
@@ -130,6 +131,16 @@ main div p code, .dataviz code {
   margin-bottom: 30px;
 }
 
+.dataviz main > div {
+  border-bottom: none;
+  padding: 40px 0 140px 0;
+}
+
+.dataviz main .left, .dataviz main .right {
+  float: left;
+  width: 50%;
+}
+
 @media only screen and (max-width: 700px) {
   body {
     padding: 10vw;
@@ -137,5 +148,9 @@ main div p code, .dataviz code {
   nav, main {
     width: 80vw;
     margin: 0 auto 40px auto;
+  }
+  .dataviz main .left, .dataviz main .right {
+    width: 100%;
+    margin-bottom: 20px;
   }
 }

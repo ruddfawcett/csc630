@@ -1,0 +1,49 @@
+main .inputs {
+  width: 100%;
+  padding: 25px 0;
+}
+
+main .inputs div {
+  margin-bottom: 25px;
+}
+
+main .inputs div:nth-last-child(2) {
+  margin-bottom: 50px;
+}
+main input {
+  outline: none;
+  margin-top: 10px;
+  display: block;
+  border-radius: 0;
+}
+
+main .inputs label {
+  font-weight: bolder;
+}
+
+main .inputs button {
+  background-color: black;
+  color: white;
+  outline: none;
+  border: none;
+  padding: 8px 30px;
+  font-size: 14px;
+}
+
+main .inputs button:hover {
+  cursor: pointer;
+}
+
+.right svg {
+  margin-top: 30px;
+}
+
+@media only screen and (max-width: 700px) {
+  main .inputs div {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .right svg {
+    margin-top: 30px;
+  }
+}
