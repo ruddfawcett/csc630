@@ -3,6 +3,7 @@ var canvas = document.getElementById('result');
 var canvas_width = 500;
 var canvas_height = 325;
 var histogram_height = 300;
+var padding_left = 20;
 
 button.addEventListener('click', function() {
   var samples = +document.getElementById('samples').value;
@@ -61,13 +62,18 @@ function makeGraph(numSamples, normalcy, numBins) {
     }
   }
 
+  canvas.appendChild(makeText(0, 15, `${max_count}`));
+  canvas.appendChild(makeText(0, canvas_height-20, '0'));
+
   for (i = 0; i < numBins; i++) {
     var height = counts[i]/max_count;
     var width = canvas_width/numBins;
     var rect = makeRect(i, width, height);
-    canvas.appendChild(rect);
     var label_text = Math.floor((1/numBins)*i*100)/100;
-    canvas.appendChild(makeText(i*width, canvas_height-5, `${label_text}`));
+
+    canvas.appendChild(rect);
+    // the offset below of `-5` is to account for the length of the label string overflowing its bounds.
+    canvas.appendChild(makeText(((i*width+padding_left)-5), canvas_height-5, `${label_text}`));
   }
 
   makeAxes();
@@ -80,7 +86,7 @@ function makeRect(idx, width, height) {
   rect.setAttribute('fill', 'black');
   rect.setAttribute('width', width);
   rect.setAttribute('height', height);
-  rect.setAttribute('x', idx*width);
+  rect.setAttribute('x', (idx*width)+padding_left);
   rect.setAttribute('stroke-width', 2);
   rect.setAttribute('stroke', 'white');
   rect.setAttribute('y', histogram_height-height);
@@ -108,8 +114,8 @@ function makeText(x, y, val) {
 }
 
 function makeAxes() {
-  var x_axis = makeLine(0, canvas_width, histogram_height, histogram_height);
-  var y_axis = makeLine(1, 1, 0, histogram_height);
+  var x_axis = makeLine(padding_left, canvas_width, histogram_height, histogram_height);
+  var y_axis = makeLine(padding_left, padding_left, 0, histogram_height);
   canvas.appendChild(makeText(canvas_width-7, canvas_height-5, '1'));
 
   canvas.appendChild(x_axis);
@@ -121,4 +127,13 @@ function destroyGraph() {
 }
 
 makeAxes();
-makeGraph(5, 24, 10);
+
+var rand_sample = Math.floor(Math.random() * (9-1) + 1);
+var rand_normalcy = Math.floor(Math.random() * (100-1) + 1);
+var rand_bins = Math.floor(Math.random() * (10-2) + 2);
+
+document.getElementById('rand_samples').innerHTML = rand_sample;
+document.getElementById('rand_normalcy').innerHTML = rand_normalcy;
+document.getElementById('rand_bins').innerHTML = rand_bins;
+
+makeGraph(rand_sample, rand_normalcy, rand_bins);

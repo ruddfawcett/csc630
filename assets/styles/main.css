@@ -141,6 +141,11 @@ main div p code, .dataviz code {
   width: 50%;
 }
 
+.dataviz main .left {
+  padding-right: 80px;
+  box-sizing: border-box;
+}
+
 @media only screen and (max-width: 700px) {
   body {
     padding: 10vw;
@@ -152,5 +157,8 @@ main div p code, .dataviz code {
   .dataviz main .left, .dataviz main .right {
     width: 100%;
     margin-bottom: 20px;
+  }
+  .dataviz main .left {
+    padding-right: 0;
   }
 }

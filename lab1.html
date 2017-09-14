@@ -15,18 +15,18 @@
       <main>
         <div class='left'>
           <h3>Instructions</h3>
-          <p>Instructions</p>
+          <p>This project seeks to demonstrate normal distribution by way of the Central Limit Theorem. Below, enter values for the number of samples to generate a histogram, teh number of random numbers to use in each sample (&ldquo;normalcy&rdquo;), and the number of bins &mdash; bars &mdash; you want the histogram to display.</p>
           <div class='inputs'>
             <div>
               <label for='samples'>Samples</label>
               <input type='text' id='samples' />
             </div>
             <div>
-              <label for='samples'>Normalcy</label>
+              <label for='normalcy'>Normalcy</label>
               <input type='text' id='normalcy' />
             </div>
             <div>
-              <label for='samples'>Bins</label>
+              <label for='bins'>Bins</label>
               <input type='text' id='bins' />
             </div>
             <div>
@@ -37,6 +37,7 @@
         <div class='right'>
           <h3>Result</h3>
           <svg id='result' xmlns:svg='http://www.w3.org/2000/svg' version='1.2' width='500px' height='325px'></svg>
+          <p>This random uniform distribution above (generated when the page loaded), shows a histogram with <code id='rand_samples'></code> samples, a normalcy of <code id='rand_normalcy'></code>, and <code id='rand_bins'></code> bins.</p>
         </div>
       </main>
     </div>
