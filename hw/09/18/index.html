@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang='en'>
+  <head>
+    <meta charset='utf-8' />
+    <style>
+      * {
+        padding: 0;
+        margin: 0;
+      }
+
+      body {
+        text-align: center;
+        font-family: -apple-system, system-ui, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+        padding: 5% 10%;
+      }
+
+      h1 {
+        font-weight: 700;
+        text-transform: uppercase;
+        font-size: 18px;
+      }
+
+      #container {
+        margin: 50px auto;
+        width: 90%;
+        min-height: 600px;
+      }
+    </style>
+    <title>CSC630: HW 9/19</title>
+  </head>
+  <body>
+    <h1>D3 Bar Chart</h1>
+    <div id='container'></div>
+    <p>Homework: September 19th, 2017.</p>
+    <script src='https://d3js.org/d3.v4.min.js'></script>
+    <script type='text/javascript'>
+
+      var data = [8,6,2,6,8,1,3,6,2];
+
+      // https://stackoverflow.com/a/1379560/6669540
+      var largest = Math.max.apply(Math, data);
+
+      const svg_width = 1000,
+            svg_height = 600.
+            rect_padding = 30;
+
+      var rect_width = (svg_width/data.length) - rect_padding;
+
+      var svg = d3.select('#container').append('svg')
+          .attr('width', svg_width)
+          .attr('height', svg_height)
+          .style('display', 'block')
+          .style('margin', '0 auto');
+
+      var calc_height = function(d, i) {
+        return (data[i]/largest)*svg_height;
+      }
+
+      svg.selectAll('rect')
+        .data(data)
+        .enter()
+        .append('rect')
+        .attr('x', function(d, i) { return (rect_width*i)+(i*rect_padding); })
+        .attr('y', function(d, i) { return svg_height - calc_height(d, i); })
+        .attr('width', rect_width)
+        .attr('height', calc_height)
+        .attr('fill', 'black');
+    </script>
+  </body>
+</html>
