@@ -15,7 +15,7 @@
       text-align: center;
       font-family: -apple-system, system-ui, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
       padding: 5% 10%;
-      background-color: black;
+      background-color: #111111;
       color: white;
     }
 
@@ -35,6 +35,10 @@
       fill: white;
     }
 
+    path,line {
+      stroke: transparent;
+    }
+
     #container {
       margin: 50px auto;
       width: 90%;
@@ -42,15 +46,15 @@
     }
 
     .setosa {
-      fill: red;
+      fill: #FF4136;
     }
 
     .versicolor {
-      fill: yellow;
+      fill: #FFDC00;
     }
 
     .virginica {
-      fill: blue;
+      fill: #0079D9;
     }
 
 
@@ -122,8 +126,24 @@
         .call(d3.axisBottom(x));
 
       svg.append('g')
-        .attr('transform', `translate(0,0)`)
+        .attr('transform', `translate(90,0)`)
         .call(d3.axisLeft(y));
+
+      // ******* Axis Labels *******
+
+      svg.append('text')
+        .attr('class', 'x label')
+        .attr('text-anchor', 'end')
+        .attr('transform', 'translate('+ (width/2) +','+(height-10)+')')
+        .text('Sepal Length');
+
+      svg.append('text')
+        .attr('class', 'y label')
+        .attr('text-anchor', 'middle')
+        .attr('y', 6)
+        .attr('dy', '.75em')
+        .attr('transform', 'translate(0,'+(height/2)+')rotate(-90)')
+        .text('Sepal Width');
     });
   </script>
 </body>
