@@ -1,151 +1,196 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <meta charset='utf-8'>
+    <title>Iris Dataset</title>
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+    <style>
+      * {
+        padding: 0;
+        margin: 0;
+      }
 
-<head>
-  <meta charset='utf-8'>
-  <title>Iris Dataset</title>
-  <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
-  <style>
-    * {
-      padding: 0;
-      margin: 0;
-    }
+      body {
+        text-align: center;
+        font-family: -apple-system, system-ui, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+        padding: 5% 10%;
+        background-color: #111111;
+        color: white;
+      }
 
-    body {
-      text-align: center;
-      font-family: -apple-system, system-ui, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
-      padding: 5% 10%;
-      background-color: #111111;
-      color: white;
-    }
+      h1 {
+        font-weight: 700;
+        text-transform: uppercase;
+        font-size: 18px;
+      }
 
-    h1 {
-      font-weight: 700;
-      text-transform: uppercase;
-      font-size: 18px;
-    }
+      a {
+        text-decoration: none;
+        color: white;
+        border-bottom: 1px solid white;
+      }
 
-    a {
-      text-decoration: none;
-      color: white;
-      border-bottom: 1px solid white;
-    }
+      text {
+        fill: white;
+      }
 
-    text {
-      fill: white;
-    }
+      path,
+      line {
+        stroke: transparent;
+      }
 
-    path,line {
-      stroke: transparent;
-    }
+      #container {
+        margin: 50px auto;
+        width: 90%;
+        min-height: 600px;
+      }
 
-    #container {
-      margin: 50px auto;
-      width: 90%;
-      min-height: 600px;
-    }
+      .setosa {
+        fill: #FF4136;
+      }
 
-    .setosa {
-      fill: #FF4136;
-    }
+      .versicolor {
+        fill: #FFDC00;
+      }
 
-    .versicolor {
-      fill: #FFDC00;
-    }
+      .virginica {
+        fill: #0079D9;
+      }
+    </style>
+    <script src='https://d3js.org/d3.v4.min.js'></script>
+  </head>
 
-    .virginica {
-      fill: #0079D9;
-    }
+  <body>
+    <h1> The Iris dataset</h1>
+    <div id='container'></div>
+    <p>
+      This is a first attempt at a visualization of the <a href='https://en.wikipedia.org/wiki/Iris_flower_data_set'>Iris dataset.</a>
+    </p>
+    <script>
+      // ******* Constants *******
+      const width = 1000,
+        height = 600,
+        margin = {
+          top: 10,
+          bottom: 100,
+          left: 100,
+          right: 10,
+        };
 
+      // Use this link if trying to do this locally:
+      // https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh-pages/data/iris.csv
+      d3.csv('iris.csv', function(error, data) {
+        // ******* Set Ranges *******
 
-  </style>
-  <script src='https://d3js.org/d3.v4.min.js'></script>
-</head>
+        var x_range = d3.extent(data, function(d) {
+          return d.sepal_length
+        });
+        var y_range = d3.extent(data, function(d) {
+          return d.sepal_width
+        });
 
-<body>
-  <h1> The Iris dataset</h1>
-  <div id='container'></div>
-  <p>
-    This is a first attempt at a visualization of the <a href='https://en.wikipedia.org/wiki/Iris_flower_data_set'>Iris dataset.</a>
-  </p>
-  <script>
-    // ******* Constants *******
-    const width = 1000,
-      height = 600,
-      margin = {
-        top: 10,
-        bottom: 100,
-        left: 100,
-        right: 10,
-      };
+        // ******* Scales *******
 
-    // Use this link if trying to do this locally:
-    // https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh-pages/data/iris.csv
-    d3.csv('iris.csv', function(error, data) {
-      // ******* Set Ranges *******
+        var x = d3.scaleLinear()
+          .domain(x_range)
+          .range([margin.left, width - margin.right]);
 
-      var x_range = d3.extent(data, function(d) {return d.sepal_length});
-      var y_range = d3.extent(data, function(d) {return d.sepal_width});
+        var y = d3.scaleLinear()
+          .domain(y_range)
+          .range([height - margin.bottom, margin.top]);
 
-      // ******* Scales *******
-
-      var x = d3.scaleLinear()
-            .domain(x_range)
-            .range([margin.left, width - margin.right]);
-
-      var y = d3.scaleLinear()
-            .domain(y_range)
-            .range([height - margin.bottom, margin.top]);
-
-      // ******* Create SVG *******
-      var svg = d3.select('#container').append('svg')
+        // ******* Create SVG *******
+        var svg = d3.select('#container').append('svg')
           .attr('width', width)
           .attr('height', height)
           .style('margin', '0 auto')
           .style('display', 'block')
           .style('overflow', 'visible');
 
-      // ******* Add data *******
+        // ******* Add data *******
 
-      var circles = svg.selectAll('circle')
-        .data(data);
+        var circles = svg.selectAll('circle')
+          .data(data);
 
-      circles.exit().remove();
+        circles.exit().remove();
 
-      circles.enter().append('circle')
-        .attr('r', 2.5)
-        .merge(circles)
-        .attr('cx', function(d) { return x(d.sepal_length); })
-        .attr('cy', function(d) { return y(d.sepal_width); })
-        .attr('class', function(d) { return d.species });
+        circles.enter().append('circle')
+          .attr('r', 3.5)
+          .merge(circles)
+          .attr('cx', function(d) {
+            return x(d.sepal_length);
+          })
+          .attr('cy', function(d) {
+            return y(d.sepal_width);
+          })
+          .attr('class', function(d) {
+            return d.species
+          });
 
-      // ******* Axes *******
+        // ******* Axes *******
 
-      svg.append('g')
-        .attr('transform', `translate(0,${height - margin.bottom})`)
-        .call(d3.axisBottom(x));
+        svg.append('g')
+          .attr('transform', `translate(0,${height - margin.bottom})`)
+          .call(d3.axisBottom(x));
 
-      svg.append('g')
-        .attr('transform', `translate(90,0)`)
-        .call(d3.axisLeft(y));
+        svg.append('g')
+          .attr('transform', `translate(90,0)`)
+          .call(d3.axisLeft(y));
 
-      // ******* Axis Labels *******
+        // ******* Axis Labels *******
 
-      svg.append('text')
-        .attr('class', 'x label')
-        .attr('text-anchor', 'end')
-        .attr('transform', 'translate('+ (width/2) +','+(height-10)+')')
-        .text('Sepal Length');
+        svg.append('text')
+          .attr('text-anchor', 'end')
+          .attr('transform', 'translate(' + (width / 2) + ',' + (height - 10) + ')')
+          .text('Sepal Length');
 
-      svg.append('text')
-        .attr('class', 'y label')
-        .attr('text-anchor', 'middle')
-        .attr('y', 6)
-        .attr('dy', '.75em')
-        .attr('transform', 'translate(0,'+(height/2)+')rotate(-90)')
-        .text('Sepal Width');
-    });
-  </script>
-</body>
+        svg.append('text')
+          .attr('text-anchor', 'middle')
+          .attr('y', 6)
+          .attr('dy', '.75em')
+          .attr('transform', 'translate(0,' + (height / 2) + ')rotate(-90)')
+          .text('Sepal Width');
 
+        // Add legend
+
+        var geni = [
+          "Setosa",
+          "Versicolor",
+          "Virginica"
+        ]
+
+        var legend = svg.append('g')
+          .attr('class', 'legend')
+          .attr('height', 100)
+          .attr('width', 100)
+          .attr('transform', 'translate(-20, 20)')
+
+
+        legend.selectAll('rect')
+          .data(geni)
+          .enter()
+          .append('circle')
+          .attr('cx', width - 65)
+          .attr('cy', function(d, i) {
+            return i * 20 - 5;
+          })
+          .attr('r', 4)
+          .attr('class', function(d) {
+            return d.toLowerCase();
+          });
+
+        legend.selectAll('text')
+          .data(geni)
+          .enter()
+          .append('text')
+          .attr('x', width - 45)
+          .attr('y', function(d, i) {
+            return i * 20;
+          })
+          .text(function(d, i) {
+            return geni[i];
+          });
+      });
+    </script>
+  </body>
 </html>
