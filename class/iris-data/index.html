@@ -24,6 +24,10 @@
         font-size: 18px;
       }
 
+      p {
+        margin-bottom: 10px;
+      }
+
       a {
         text-decoration: none;
         color: white;
@@ -34,8 +38,7 @@
         fill: white;
       }
 
-      path,
-      line {
+      path,line {
         stroke: transparent;
       }
 
@@ -56,6 +59,10 @@
       .virginica {
         fill: #0079D9;
       }
+
+      .hidden {
+        fill: transparent;
+      }
     </style>
     <script src='https://d3js.org/d3.v4.min.js'></script>
   </head>
@@ -63,9 +70,8 @@
   <body>
     <h1> The Iris dataset</h1>
     <div id='container'></div>
-    <p>
-      This is a first attempt at a visualization of the <a href='https://en.wikipedia.org/wiki/Iris_flower_data_set'>Iris dataset.</a>
-    </p>
+    <p>This is a first attempt at a visualization of the <a href='https://en.wikipedia.org/wiki/Iris_flower_data_set'>Iris dataset.</a></p>
+    <p>Click on the legend to toggle the visibility of dots.</p>
     <script>
       // ******* Constants *******
       const width = 1000,
@@ -155,14 +161,22 @@
           .attr('width', 100)
           .attr('transform', 'translate(-20, 20)')
 
-        legend.selectAll('rect')
+          var handle_click = function(d, i) {
+            var all_circles = d3.selectAll(`.${d.toLowerCase()}`)
+              .classed('hidden', d3.select(`.${d.toLowerCase()}`).classed('hidden') ? false : true);
+            d3.selectAll('.legend').classed('hidden', false);
+          }
+
+        legend.selectAll('circle')
           .data(geni)
           .enter()
           .append('circle')
           .attr('cx', width - 65)
           .attr('cy', function(d, i) { return i * 20 - 5; })
           .attr('r', 4)
-          .attr('class', function(d) { return d.toLowerCase(); });
+          .attr('class', function(d) { return d.toLowerCase(); })
+          .classed('legend', 'true')
+          .on('click', handle_click);
 
         legend.selectAll('text')
           .data(geni)
@@ -170,9 +184,8 @@
           .append('text')
           .attr('x', width - 45)
           .attr('y', function(d, i) { return i * 20; })
-          .text(function(d, i) { return geni[i]; });
-
-
+          .text(function(d, i) { return geni[i]; })
+          .on('click', handle_click);
       });
     </script>
   </body>
