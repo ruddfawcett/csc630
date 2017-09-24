@@ -1,17 +1,4 @@
 var Helpers = {
-  mouseover: function(d, i) {
-    Helpers.displayData(d);
-    d3.select(this)
-      .transition()
-      .duration(500)
-      .attr('r', 15);
-  },
-  mouseout: function(d, i) {
-    d3.select(this)
-    .transition()
-    .duration(500)
-    .attr('r', 3);
-  },
   displayData: function(data) {
     var description = document.getElementById('description');
     description.textContent = `${data.institution} was ranked ${data.world_rank} in the world in ${data.year}.`

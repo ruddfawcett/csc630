@@ -72,13 +72,14 @@ text {
   font-size: 10px;
 }
 
-path {
+path,line {
   stroke: transparent;
 }
 
 .svg-container {
   height: 100%;
   overflow: visible;
+  min-height: 300px;
 }
 
 svg {
