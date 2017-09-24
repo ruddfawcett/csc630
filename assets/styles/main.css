@@ -6,6 +6,12 @@
 body {
   padding: 5vw;
   font-family: -apple-system, system-ui, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+  height: 100%;
+}
+
+body.dark {
+  background-color: #111;
+  color: white;
 }
 
 header {
@@ -34,6 +40,7 @@ nav, main {
   float: left;
   overflow: hidden;
 }
+
 nav {
   padding: 0 20px;
   margin: 0 auto;
@@ -60,6 +67,7 @@ nav ul li {
 
 main {
   width: 65vw;
+  height: 100%;
 }
 
 main > div {
@@ -131,19 +139,66 @@ main div p code, .dataviz code {
   margin-bottom: 30px;
 }
 
+.dataviz main h3:nth-child(3) {
+  margin-top: 40px;
+}
+
 .dataviz main > div {
   border-bottom: none;
   padding: 40px 0 140px 0;
 }
 
 .dataviz main .left, .dataviz main .right {
-  float: left;
   width: 50%;
+  padding: 5%;
+  box-sizing: border-box;
+}
+
+.dataviz main .top, .dataviz main .bottom {
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .dataviz main .left {
   padding-right: 80px;
-  box-sizing: border-box;
+  float: left;
+}
+
+/* usually both elements should float left, but this way i can choose how they arrange themselves on mobile */
+
+.dataviz main .right {
+  float: right;
+}
+
+.dataviz main .left h4 {
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+.dataviz main .left table {
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+.dataviz main .left table th,td {
+  padding: 10px;
+}
+
+.dataviz main .left table td:first-child {
+  text-transform: capitalize;
+}
+
+.dataviz main .left table th {
+  font-weight: 600;
+}
+
+.dataviz main .left table tr {
+  border-bottom: 1px solid #E9E9E9;
+}
+
+.dataviz main .left table tr:nth-child(even) {
+  background-color: #FAFAFA;
 }
 
 @media only screen and (max-width: 700px) {
@@ -155,10 +210,10 @@ main div p code, .dataviz code {
     margin: 0 auto 40px auto;
   }
   .dataviz main .left, .dataviz main .right {
-    width: 100%;
+    width: 100% !important;
     margin-bottom: 20px;
   }
   .dataviz main .left {
-    padding-right: 0;
+    padding-right: 5%;
   }
 }
