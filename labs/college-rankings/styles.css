@@ -6,41 +6,44 @@ body.college-rankings {
   padding-bottom: 0;
 }
 
-main .inputs {
-  width: 100%;
-  padding: 25px 0;
-}
-
-main .inputs div {
-  margin-bottom: 25px;
-}
-
-main .inputs div:nth-last-child(2) {
-  margin-bottom: 50px;
-}
-
-main input {
-  outline: none;
-  margin-top: 10px;
+.selections {
+  margin-bottom: 30px;
   display: block;
-  border-radius: 0;
-  width: 200px;
-  box-sizing: border-box;
 }
 
-main .inputs label {
-  font-weight: bolder;
+.selections div {
+  width: 30%;
+  margin-right: 2%;
+  float: left;
+  margin-bottom: 30px;
 }
 
-main .inputs button {
+.selections div label {
+  margin-bottom: 10px;
+  display: block;
+  font-size: 13px;
+  margin-top: 10px;
+}
+
+.selections select, .selections button, .selections input, button {
+  width: 100%;
+  outline: none;
   background-color: black;
   color: white;
   outline: none;
   border: none;
   padding: 8px 30px;
+  height: 40px;
   font-size: 14px;
-  width: 200px;
   letter-spacing: .5px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button {
+  width: 94%;
+  margin-bottom: 30px;
 }
 
 main .inputs button:hover {
@@ -55,8 +58,9 @@ main .inputs button:hover {
 .dataviz main .left {
   width: 40%;
   height: auto;
-  overflow: visible;
+  overflow: scroll;
   background-color: white;
+  max-height: 100vh;
 }
 
 .dataviz main .right {
@@ -69,7 +73,8 @@ line, rect, text {
 }
 
 text {
-  font-size: 10px;
+  text-transform: capitalize;
+  font-size: 14px;
 }
 
 path,line {

@@ -1,7 +1,41 @@
 var Helpers = {
+  addKeys: function(keys) {
+    console.log(keys);
+
+    var key_x_select = document.getElementById('key_x')
+    var key_y_select = document.getElementById('key_y')
+    var key_z_select = document.getElementById('key_z')
+
+    keys.forEach(function(key) {
+      var option = document.createElement('option');
+      option.value = key;
+      option.innerHTML = key.split('_').join(' ');
+      if (key == 'world_rank') {
+        option.selected = true;
+      }
+
+      key_x_select.appendChild(option);
+
+      var option_y = option.cloneNode()
+      if (key == 'influence') {
+        option_y.selected = true;
+      }
+
+      option_y.innerHTML = key.split('_').join(' ');
+      key_y_select.appendChild(option_y);
+
+      var option_z = option.cloneNode()
+      if (key == 'quality_of_faculty') {
+        option_z.selected = true;
+      }
+
+      option_z.innerHTML = key.split('_').join(' ');
+      key_z_select.appendChild(option_z);
+    });
+  },
   displayData: function(data) {
     var description = document.getElementById('description');
-    description.textContent = `${data.institution} was ranked ${data.world_rank} in the world in ${data.year}.`
+    description.innerHTML = `In ${data.year}, ${data.institution} was ranked <b>${data.world_rank} in the world</b> and <b>${data.national_rank} in ${data.country}</b>.`
 
     var table = document.getElementById('info-table');
     table.innerHTML = '';
@@ -18,7 +52,7 @@ var Helpers = {
     table.appendChild(header_row);
 
     for (key in data) {
-      if (key == 'world_rank' || key == 'institution') {
+      if (key == 'world_rank' || key == 'institution' || key == 'year' || key == 'country' || key == 'national_rank') {
         continue;
       }
 
@@ -30,6 +64,9 @@ var Helpers = {
       tr.appendChild(category_td);
       tr.appendChild(rank_td);
       table.appendChild(tr);
+
+      var info_pane = document.getElementById('info_pane');
+      info_pane.scrollTop = info_pane.scrollHeight;
     }
   },
   colorScore: function(criteria, criteria_max) {

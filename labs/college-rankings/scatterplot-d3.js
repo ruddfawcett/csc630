@@ -1,8 +1,8 @@
 const POINT_RATIO = 0.005;
 const margin = {
   top: 20,
-  bottom: 80,
-  left: 80,
+  bottom: 60,
+  left: 60,
   right: 20
 };
 class Scatterplot {
@@ -30,8 +30,8 @@ class Scatterplot {
   }
 
   render(data, key_x, key_y, key_z) {
-    if (this.svg === 'undefined') {
-      this.svg.innerHTML = '';
+    if (this.svg != 'undefined') {
+      document.getElementById('result').innerHTML = '';
     }
 
     this.working_data = data, this.key_x = key_x, this.key_y = key_y, this.key_z = key_z;
@@ -47,8 +47,8 @@ class Scatterplot {
     this.x_range = d3.extent(data, function(d) { return +d[key_x]; });
     this.y_range = d3.extent(data, function(d) { return +d[key_y]; });
 
-    this.x = d3.scaleLinear().domain(this.x_range);
-    this.y = d3.scaleLinear().domain(this.y_range);
+    this.x = d3.scaleLinear().domain(this.x_range).nice();
+    this.y = d3.scaleLinear().domain(this.y_range).nice();
 
     this.svg = d3.select('#result').append('svg');
     this.wrapper = this.svg.append('g');
@@ -56,7 +56,10 @@ class Scatterplot {
     this.x_axis = this.wrapper.append('g');
     this.y_axis = this.wrapper.append('g');
 
-    this.graph = this.wrapper.append('g')
+    this.graph = this.wrapper.append('g');
+
+    this.x_label = this.svg.append('text').text(key_x.split('_').join(' '));
+    this.y_label = this.svg.append('text').text(key_y.split('_').join(' '));
 
     this.resize();
 
@@ -77,28 +80,44 @@ class Scatterplot {
 
   resize() {
     var self = this;
+    var width = this.bounds.width, height = this.bounds.height;
+    var margin_left = margin.left;
+    if (width < 600) {
+      margin_left = margin.left/1.5;
+    }
 
-    this.x.range([0, this.bounds.width-(margin.left + margin.right)]);
-    this.y.range([this.bounds.height-(margin.top+margin.bottom), 0]);
+    this.x.range([0, width-(margin_left + margin.right)]);
+    this.y.range([height-(margin.top+margin.bottom), 0]);
 
-    this.svg.attr('width', this.bounds.width)
-      .attr('height', this.bounds.height);
+    this.svg.attr('width', width)
+      .attr('height', height);
 
-    this.wrapper.attr('width', self.bounds.width - (margin.left+margin.right))
-      .attr('height', this.bounds.height - (margin.top + margin.bottom))
-      .attr('transform', `translate(${margin.left}, ${margin.top})`);
+    this.wrapper.attr('width', width - (margin_left+margin.right))
+      .attr('height', height - (margin.top + margin.bottom))
+      .attr('transform', `translate(${margin_left}, ${margin.top})`);
 
-    this.x_axis.attr('transform', `translate(0,${self.bounds.height-(margin.bottom)})`)
+    this.graph.attr('transform', `translate(${margin_left/4}, 0)`)
+      .attr('width', this.wrapper.attr('width')-(margin_left/4))
+
+    this.x_axis.attr('transform', `translate(0,${height-(margin.bottom*1.2)})`)
       .transition()
       .call(d3.axisBottom(self.x));
 
-    this.y_axis.attr('transform', `translate(0, 0)`)
+    this.y_axis.attr('transform', 'translate(0, 0)')
       .transition()
       .call(d3.axisLeft(self.y));
 
+    this.x_label
+      .attr('text-anchor', 'end')
+      .attr('transform', `translate(${width / 2},${height})`);
+
+    this.y_label
+      .attr('text-anchor', 'middle')
+      .attr('transform', `translate(0, ${height / 2})rotate(-90)`);
+
     var points = this.wrapper.selectAll('circle')
       .transition()
-      .attr('r', this.bounds.width*POINT_RATIO)
+      .attr('r', width*POINT_RATIO)
       .attr('cx', function(d) { return self.x(+d[self.key_x]); })
       .attr('cy', function(d) { return self.y(+d[self.key_y]); });
   }
@@ -141,25 +160,14 @@ class Scatterplot {
     d3.select(this).transition()
       .duration(500)
       .attr('r-old', d3.select(this).attr('r'))
-      .attr('r', 15)
-      .attr('fill-tmp', d3.select(this).attr('fill'))
-
-    d3.select('.right')
-    .transition()
-      .duration(500)
-    .style('background-color', d3.select(this).attr('fill'));
+      .attr('r', 30);
 
     Helpers.displayData(d);
   }
 
   mouseout(d) {
-    d3.select('.right')
-    .transition()
-    .style('background-color', '#111');
-
     d3.select(this).transition()
     .duration(500)
     .attr('r', d3.select(this).attr('r-old'))
-    .attr('fill', d3.select(this).attr('fill-tmp'))
   }
 }

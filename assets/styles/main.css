@@ -173,6 +173,7 @@ main div p code, .dataviz code {
 .dataviz main .left h4 {
   text-transform: uppercase;
   font-size: 14px;
+  margin: 10px 0;
 }
 
 .dataviz main .left table {
