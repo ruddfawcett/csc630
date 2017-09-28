@@ -17,6 +17,9 @@ document.getElementById('graph_data').addEventListener('click', function() {
   key_y = document.getElementById('key_y').value;
   key_z = document.getElementById('key_z').value;
 
+  var key_z_span = document.getElementById('key_z_span');
+  key_z_span.textContent = key_z;
+
   var data = scatterplot.data(count, year, random);
 
   scatterplot.render(data, key_x, key_y, key_z);
