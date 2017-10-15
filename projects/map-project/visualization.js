@@ -31,13 +31,13 @@ d3.json('https://unpkg.com/world-atlas@1/world/110m.json', function(error, world
 
     var container = svg.append('g');
 
-    var ocean = container.append('circle')
-      .attr('r', scale)
-      .attr('cx', width/2)
-      .attr('cy', height/2)
-      .attr('fill', '#65BDE8')
-      .attr('stroke-color', 'black')
-      .attr('stroke-width', 3);
+    // var ocean = container.append('circle')
+    //   .attr('r', scale)
+    //   .attr('cx', width/2)
+    //   .attr('cy', height/2)
+    //   .attr('fill', '#65BDE8')
+    //   .attr('stroke-color', 'black')
+    //   .attr('stroke-width', 3);
 
     var world = container.append('g');
 
@@ -60,15 +60,13 @@ d3.json('https://unpkg.com/world-atlas@1/world/110m.json', function(error, world
     });
 
 
-    var countries = topojson.feature(world_data, world_data.objects.countries).features,
-    neighbors = topojson.neighbors(world_data.objects.countries.geometries);
-    var color =  d3.scaleOrdinal(d3.schemePastel1);
+    var countries = topojson.feature(world_data, world_data.objects.land).features;
 
     country_paths = world.selectAll('path.country').data(countries);
     country_paths.exit().remove();
     country_paths.enter().append('path')
       .attr('d', mapPath)
-      .attr('fill', function(d, i) { return color(d.color = d3.max(neighbors[i], function(n) { return countries[n].color; }) + 1 | 0); })
+      .attr('fill', '#82e398')
       .attr('stroke-width', 0.3)
       .attr('stroke', '#819680')
       .on('click', click)

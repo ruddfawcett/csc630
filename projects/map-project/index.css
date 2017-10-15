@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+}
+
+svg {
+  margin: 5px;
+}
+
+.land {
+  fill: #82e398;
+  stroke: none;
+}
+
+.graticule {
+  fill: none;
+  stroke: #636B62;
+  stroke-width: .5px;
+  stroke-dasharray: 2, 2;
+}
+
+.mesh {
+  stroke: #50576A;
+  stroke-width: .5px;
+  fill: none;
+}
+
+.sphere {
+  fill: none;
+  stroke: #000;
+  stroke-width: 1px;
+  pointer-events: all;
+  cursor: -webkit-grab;
+}
