@@ -2,16 +2,24 @@
 <html lang='en'>
   <head>
     <meta charset='utf-8' />
-    <title>CSC630: </title>
+    <title>Endangered Languages</title>
     <link rel='stylesheet' href='index.css' type='text/css'></link>
   </head>
   <body>
-    <div class='container dataviz'>
+    <h3>Mapping The World's</h3>
+    <h1>Endangered Languages</h1>
+    <div class='visualization'>
+      <ul class='legend'></ul>
+      <div class='container'></div>
+      <p>Hover over globe to pause, drag to rotate, and click on country to isolate.</p>
     </div>
+    <h5>Attributions</h5>
+    <p><em>Extinct Languages</em>. V1. December 7, 2016. Distributed by The Guardian via Kaggle. <a href='https://www.kaggle.com/the-guardian/extinct-languages'>https://www.kaggle.com/the-guardian/extinct-languages</a>.</p>
+    <p><em>World Atlas TopoJSON 110m</em>. April 1, 2017. Distributed by Mike Bostock. <a href='http://bl.ocks.org/mbostock/raw/4090846/world-110m.json'>http://bl.ocks.org/mbostock/raw/4090846/world-110m.json</a>.</p>
+    <p><em>World Country Names TopoJSON</em>. Date unkown. Distributed by Mike Bostock. <a href='http://bl.ocks.org/mbostock/raw/4090846/world-country-names.tsv'>http://bl.ocks.org/mbostock/raw/4090846/world-country-names.tsv</a>.</p>
     <script src='js/d3.min.js'></script>
     <script src='js/d3-queue.min.js'></script>
     <script src='js/topojson.min.js'></script>
-    <script src='js/d3-scale-chromatic.min.js'></script>
     <script src='viz.js'></script>
   </body>
 </html>
