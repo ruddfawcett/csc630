@@ -17,9 +17,9 @@ var active = d3.select(null);
 var andover_coordinates = [-71.1323190, 42.6471420];
 
 d3.queue(3)
-    .defer(d3.json, 'data/world.min.json')
-    .defer(d3.tsv, 'data/world-country-names.tsv')
-    .defer(d3.csv, 'data/endangered-languages.csv')
+    .defer(d3.json, '../shared/data/world.min.json')
+    .defer(d3.tsv, '../shared/data/world-country-names.tsv')
+    .defer(d3.csv, 'endangered-languages.csv')
     .await(ready);
 
 var rotate = [0, -30];
