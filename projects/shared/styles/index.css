@@ -64,8 +64,6 @@ section:first-child {
 }
 
 section.side-by-side, section.full {
-  /*min-height: 50vw;
-  height: 50vw;*/
   border-top: 1px solid black;
   border-bottom: 1px solid black;
   overflow: visible;
@@ -149,18 +147,6 @@ section:first-child .visualization {
   line-height: 30px;
   text-indent: 40px;
 }
-
-/* First section information. */
-
-/*.visualization-container {
-  width: 100vw;
-  height: 73vh;
-}
-
-.visualization-container .visualization {
-  width: 100vw;
-}*/
-
 
 #instructions {
   display: none;

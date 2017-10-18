@@ -4,15 +4,6 @@ const WIDTH = 500,
   SCALE = HEIGHT / 2.1,
   SPIN_VELOCITY = [0.005, -.001];
 
-var bounds = [document.getElementById('africa').clientWidth,
-              document.getElementById('africa').clientHeight];
-
-var refresh_bounds = function() {
-  bounds[0] = document.getElementById('africa').clientWidth;
-  bounds[1] = document.getElementById('africa').clientHeight;
-  // maps update
-}
-
 var active = d3.select(null);
 
 var sphere = {
@@ -113,7 +104,7 @@ function draw_africa(countries, languages) {
 
   var container = d3.select('#africa');
   var svg = container.append('svg');
-  svg.attr('width', bounds[0]).attr('height', bounds[1]);
+  svg.attr('width', width).attr('height', height);
 
   var graticule = d3.geoGraticule().step([10, 10]);
 
@@ -182,13 +173,8 @@ function draw_africa(countries, languages) {
         speakers: +d['Number of speakers']
       }
     }).attr('d', path.pointRadius(function(d) {
-      // return 1;
-      // speakers = d['speakers'] == 0 ? 100 : d['speakers'];
-      // return (100/speakers);
       return 5;
     }));
 
   return svg;
 }
-
-window.onresize = refresh_bounds;
