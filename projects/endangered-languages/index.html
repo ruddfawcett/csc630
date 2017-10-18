@@ -3,23 +3,72 @@
   <head>
     <meta charset='utf-8' />
     <title>Endangered Languages</title>
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.4/jquery.fullpage.min.css' type='text/css'></link>
     <link rel='stylesheet' href='../shared/styles/index.css' type='text/css'></link>
+    <link rel='stylesheet' href='../shared/styles/svg.css' type='text/css'></link>
   </head>
   <body>
-    <h3>Mapping The World's</h3>
-    <h1>Endangered Languages</h1>
-    <div class='visualization'>
-      <ul class='legend'></ul>
-      <div class='container'></div>
-      <p>Hover over globe to pause, drag to rotate, and click on country to isolate.</p>
-    </div>
-    <h5>Attributions</h5>
+    <main>
+      <section class='full'>
+        <div class='content-container'>
+          <header>
+            <h3>Mapping The World's</h3>
+            <h1>Endangered Languages</h1>
+          </header>
+          <div class='visualization-container'>
+            <div class='visualization' id='globe'></div>
+            <p class='subtitle' id='instructions'>Hover over globe to pause, drag to rotate, and click on country to isolate.</p>
+            <p>At one point in time, there were over 7,000 languages in the world. Now, some of them are going extinct.</p>
+          </div>
+        </div>
+      </section>
+      <section class='side-by-side no-border'>
+        <div class='content-container'>
+          <div class='text-container container left'>
+            <div class='text'>
+              <h2>Introduction</h2>
+              <hr />
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              <p>Nulla facilisi. Etiam a erat iaculis, eleifend velit et, pharetra augue. Proin quis ex eu nunc vulputate fermentum. Duis mauris nibh, tincidunt convallis dui quis, imperdiet rutrum lectus. Ut scelerisque dictum magna in tincidunt. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam at consequat mi. Morbi ornare eros vitae lorem viverra, vel eleifend dui auctor. Donec pretium, dolor at ultricies volutpat, eros ante vestibulum elit, in cursus risus magna a nisl. Nulla neque urna, interdum a rutrum in, tristique quis est. Quisque a sodales velit. Morbi ornare, nibh eu tempus blandit, justo justo porttitor ipsum, at tempor enim odio non sem.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class='side-by-side'>
+        <div class='text-container container right'>
+          <div class='text'>
+            <h2>Dying African Languages</h2>
+            <hr />
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>Nulla facilisi. Etiam a erat iaculis, eleifend velit et, pharetra augue. Proin quis ex eu nunc vulputate fermentum. Duis mauris nibh, tincidunt convallis dui quis, imperdiet rutrum lectus. Ut scelerisque dictum magna in tincidunt. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam at consequat mi. Morbi ornare eros vitae lorem viverra, vel eleifend dui auctor. Donec pretium, dolor at ultricies volutpat, eros ante vestibulum elit, in cursus risus magna a nisl. Nulla neque urna, interdum a rutrum in, tristique quis est. Quisque a sodales velit. Morbi ornare, nibh eu tempus blandit, justo justo porttitor ipsum, at tempor enim odio non sem.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          </div>
+        </div>
+        <div class='visualization-container container left'>
+          <div class='visualization' id='africa'></div>
+        </div>
+      </section>
+
+      <section class='map'>
+        <div class='visualization-container' id='full-map-container'>
+          <div class='visualization'></div>
+        </div>
+      </section>
+    </main>
+    <!-- <h5>Attributions</h5>
     <p><em>Extinct Languages</em>. V1. December 7, 2016. Distributed by The Guardian via Kaggle. <a href='https://www.kaggle.com/the-guardian/extinct-languages'>https://www.kaggle.com/the-guardian/extinct-languages</a>.</p>
     <p><em>World Atlas TopoJSON 110m</em>. April 1, 2017. Distributed by Mike Bostock. <a href='http://bl.ocks.org/mbostock/raw/4090846/world-110m.json'>http://bl.ocks.org/mbostock/raw/4090846/world-110m.json</a>.</p>
-    <p><em>World Country Names TopoJSON</em>. Date unkown. Distributed by Mike Bostock. <a href='http://bl.ocks.org/mbostock/raw/4090846/world-country-names.tsv'>http://bl.ocks.org/mbostock/raw/4090846/world-country-names.tsv</a>.</p>
+    <p><em>World Country Names TopoJSON</em>. Date unkown. Distributed by Mike Bostock. <a href='http://bl.ocks.org/mbostock/raw/4090846/world-country-names.tsv'>http://bl.ocks.org/mbostock/raw/4090846/world-country-names.tsv</a>.</p> -->
     <script src='../shared/js/d3.min.js'></script>
+    <script src='../shared/js/d3-geo.min.js'></script>
+    <script src='../shared/js/d3-geo-projection.min.js'></script>
     <script src='../shared/js/d3-queue.min.js'></script>
     <script src='../shared/js/topojson.min.js'></script>
-    <script src='viz.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.4/jquery.fullpage.min.js'></script>
+    <script src='visualizations.js'></script>
+    <script src='viz-actions.js'></script>
+    <script src='libraries.js'></script>
   </body>
 </html>
