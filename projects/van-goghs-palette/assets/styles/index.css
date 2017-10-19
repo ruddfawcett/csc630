@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,700');
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  padding: 5vw 20vw;
+  border-top: 10px solid black;
+  font-family: 'New York Times', serif;
+}
+
+h1,h3 {
+  font-family: 'Playfair Display', serif;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+h3 {
+  margin-top: 30px;
+  /*text-transform: uppercase;*/
+  font-size: 14px;
+  font-weight: 700;
+}
+
+p {
+  line-height: 28px;
+  margin: 30px auto;
+}
+
+h2 + p {
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  border-bottom: 1px dashed rgba(0,0,0,0.3);
+}
+
+a:hover {
+  border-bottom: 1px solid black;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+hr {
+  margin-top: 100px;
+  color: black;
+  border: 1px solid black;
+  outline: none;
+  background-color: black;
+}
+
+/* Visualization */
+
+.visualization-container {
+  margin-top: 100px;
+}
+
+svg {
+  display: block;
+  max-width: 60vw;
+}
+
+.hover {
+  fill: black;
+}
+
+rect {
+  stroke: white;
+}
+
+text {
+  font-size: 13px;
+  fill: rgba(0,0,0,0.4);
+  letter-spacing: 0.5px;
+  font-weight: normal;
+  text-overflow: ellipsis;
+}
+
+@media only screen and (max-width: 768px) {
+  h1 {
+    font-size: 35px;
+  }
+
+  body {
+    padding-left: 10vw;
+    padding-right: 10vw;
+  }
+}

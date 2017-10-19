@@ -1,0 +1,914 @@
+number,title,image,year,location
+1,Still Life with Cabbage and Clogs,Still_Life_with_Cabbage_and_Clogs.jpg,1881,"Van Gogh Museum, Amsterdam (F1)"
+2,"Crouching Boy with Sickle, Black chalk and watercolor",Van_Gogh_-_Kauernder_Junge_mit_Sichel.jpeg,1881,"Kröller-Müller Museum, Otterlo, Netherlands (F851)"
+3,"Old Man at the Fireside, Black chalk, reddish brown and grey wash, orange red chalk, opaque watercolor on laid paper",An_Old_Man_Putting_Dry_Rice_on_the_Hearth_1881_Vincent_van_Gogh.jpg, 1881 ,"Kröller-Müller Museum, Otterlo, Netherlands (F868)"
+4,"Woman Sewing, Watercolor","Van_Gogh_1881-12,_Etten_-_Scheveningen_Woman_Sewing_F_869_JH_83.jpg",1881-82,"P. and N. de Boer Foundation, Amsterdam (F869)"
+5,Woman with White Shawl,Woman_with_White_Shawl_in_a_Wood.jpg,1882,"Teheran, Collection A. Farmanformaian (F949) "
+6,"Beach at Scheveningen in Calm Weather, oil on paper on wood",Van_Gogh_-_Strand_von_Schevenigen_bei_Windstille.jpeg,1882,Private collection (F2)
+7,Dunes,Van_Gogh_-_Landschaft_mit_Dünen.jpeg,1882,Private collection (F2a)
+8,Dunes with Figures,Dunes_with_Figures.jpg,1882, Private Collection (F3)
+9,Beach at Scheveningen in Stormy Weather,Van_Gogh_-_Strand_von_Scheveningen_bei_stürmischen_Wetter.jpeg,1882,"Van Gogh Museum, Amsterdam (F4)"
+10,Fisherman on the Beach,Fisherman_on_the_Beach.jpg,1882,"Kröller-Müller Museum, Otterlo (F5)"
+11,Fisherman's Wife on the Beach,Fisherman's_Wife_on_the_Beach.jpg,1882,"Kröller-Müller Museum, Otterlo (F6)"
+12,Women Mending Nets in the Dunes,Women_Mending_Nets_in_the_Dunes.jpg,1882,"Collection: François Odermatt, Montreal (F7)"
+13,"Annotated by the artist in ink at lower left: ""At Eternity's gate"" lithograph,",Old_Man_with_his_Head_in_his_Hands_(At_Eternity's_Gate).jpg,1882, Tehran Museum of Contemporary Art (F1662)
+14,Girl in White in the Woods,Girl_in_White_in_the_Woods.jpg,1882,"Kröller-Müller Museum, Otterlo, Netherlands (F8)"
+15,Girl in the Woods,Girl_in_the_Woods.jpg,1882,Private collection (F8a)
+16,Man Stooping with Stick or Spade,Man_Stooping_with_Stick_or_Spade.jpg,1882,"Kuboso Memorial Museum of Arts, Izumi, Japan (F12)"
+17,"A Girl in the Street, Two Coaches in the Background","Girl_in_the_Street,_Two_Coaches_in_the_Background,_A.jpg",1882,Private collection (F13)
+18,Edge of a Wood,Edge_of_a_Wood.jpg,1882,"Kröller-Müller Museum, Otterlo, Netherlands (F192)"
+19,Cluster of Old Houses with the New Church in The Hague,Cluster_of_Old_Houses_with_the_New_Church_in_The_Hague.jpg,1882,Private collection (F204)
+20,"The Iron Mill in The Hague, watercolor",Iron_Mill_in_The_Hague.jpg,1882,Private collection (F926) 
+21,"Meadows near Rijswijk, watercolor",Meadows_near_Rijswijk.jpg,1882,Private collection (F927) 
+22,"Sorrow, drawing",Vincent_van_Gogh_-_Sorrow.jpg,1882, Garman Ryan Collection (F929a) 
+23,"Back Garden of Sien's Mother's House, the Hague, drawing","Sien's-Mother's-House,-Closer-View_F942_Vincent_van_Gogh.jpg",1882,"Norton Simon Museum, Pasadena, California (F942) "
+24,"Rooftops, View from the Atelier, watercolor with white",Vincent_Willem_van_Gogh_016.jpg,1882,Private collection (F943)
+25,"Bleaching Ground at Scheveningen also Bleaching Ground, watercolor",Vincent_van_Gogh_-_Bleaching_Ground_at_Scheveningen_-_Google_Art_Project.jpg,1882,"J. Paul Getty Museum, Los Angeles (F946r) "
+26,"Pollard Willow, watercolor","Vincent_van_Gogh_-_Knotwilg,_1882_(Van_Gogh_Museum).jpg",1882,"Van Gogh Museum in Amsterdam, Netherlands.  (F947) "
+27,"Portrait of a Man in a Top Hat also Orphan Man with Top Hat, drawing",Vincent_van_Gogh_-_Orphan_Man_with_Top_Hat_(F954).jpg,1882,"Worcester Art Museum, Worcester, Massachusetts (F954) "
+28,"In Church also Church Pew with Worshippers, watercolor",Vincent_van_Gogh_-_Church_Pew_with_Worshippers_(F967).jpg,1882,"Kröller-Müller Museum, Otterlo, Netherlands (F967) "
+29,The State Lottery also The Poor and Money,Vincent_van_Gogh_-_The_State_Lottery_Office_(F970).jpg,1882,"Van Gogh Museum, Amsterdam (F970)"
+30,"Portrait of Jozef Blok also The Bookseller Blok, watercolor","Jozef_Blok,_by_Vincent_van_Gogh.jpg",1882,"Van Gogh Museum, Amsterdam (F993)"
+31,"Sien Nursing Baby, watercolor and chalk",Sien_Nursing_Baby.jpg,1882,Private collection (F1068)
+32,"The Potato Market, watercolor",Potato_Market.jpg,1882,Private collection (F1091) 
+33,Two Women in the Woods,Two_women_in_a_wood_-_VINCENT_VAN_GOGH_(1853-1890)_12_1-4_x_9_7-16in._(31_x_24cm).jpg,1882,Private Collection (F1665)
+34,Lying Cow,Van_Gogh_-_Liegende_Kuh2.jpeg,1883,Private collection (F1b)
+35,Lying Cow,Van_Gogh_-_Liegende_Kuh.jpeg,1883,Location unknown (F1c)
+36,Potato Digging (Five Figures),Potato_Digging_(Five_Figures).jpg,1883,Private collection (F9)
+37,A Wind-Beaten Tree,"Wind-Beaten_Tree,_A.jpg",1883,Location unknown (stolen from private collection) (F10)
+38,The Sower (study),Van_Gogh_-_Der_Sämann_(Studie).jpeg,1883,Location Unknown (F11)
+39,Cows in the Meadow,Vincent_van_Gogh_-_Cows_in_the_Meadow_(1883).jpg,1883,Private collection (F15)
+40,Landscape with Dunes,Landscape_with_Dunes.jpg,1883,Private collection (F15a)
+41,Farmhouses in Loosduinen near The Hague at Twilight,Farmhouses_in_Loosduinen_near_The_Hague_at_Twilight.jpg,1883,"Centraal Museum, Utrecht, Netherlands (F16)"
+42,Cottages,Van_Gogh_-_Bauernhäuser.jpeg,1883,"Van Gogh Museum, Amsterdam (F17)"
+43,Farmhouse Among Trees,Farmhouses_Among_Trees.jpg,1883,"Museum Kolekcji Jana Pawla II, Warsaw, Poland (F18)"
+44,Two Women in the Moor,WLANL_-_h3m3ls_-_Vincent_van_Gogh_Two_women_in_the_moor_1883.jpg,1883,"Van Gogh Museum, Amsterdam (F19)"
+45,Peasant Burning Weeds,Peasant_Burning_Weeds.jpg,1883,Private collection (F20)
+46,Peat Boat with Two Figures,Van_Gogh_-_Torfboot_mit_zwei_Figuren.jpeg,1883,"Drents Museum, Assen, Netherlands (F21)"
+47,Farm with Stacks of Peat,Farm_with_Stacks_of_Peat.jpg,1883,"Van Gogh Museum, Amsterdam (F22)"
+48,Bulb Fields also Flower Beds in Holland,Bulb_Fields.jpg,1883," National Gallery of Art, Washington D.C. (F186)"
+49,Landscape with a Church at Twilight,Landscape_with_a_Church_at_Twilight.jpg,1883,Private collection (F188)
+50,Footbridge across a Ditch,Footbridge_across_a_Ditch.jpg,1883,Private collection (F189)
+51,"Woman on Her Deathbed, watercolor",Woman_on_her_Deathbed.jpg,1883,"Kröller-Müller Museum, Otterlo, Netherlands (F841)"
+52,"Woman with Wheelbarrow, watercolor",Scheveningen_Woman_with_Wheeelbarrow.jpg,1883,"Kröller-Müller Museum, Otterlo, Netherlands (F1021)"
+53,"Saying Grace (van Gogh) also Woman Praying, drawing",Woman-praying-1883_van_Gogh.jpg,1883,"Kröller-Müller Museum, Otterlo, Netherlands (F1053)"
+54,"Woman Seated also Woman with White Cloth around her Head, Sitting on a Bench, drawing",Woman-with-white-cloth-around-her-head-sitting-on-a-bench-1883.jpg,1883,"Kröller-Müller Museum, Otterlo, Netherlands (F1056)"
+55,"Woman Feeding Chickens, drawing",Woman-feeding-chickens-1883.jpg,1883,"Kröller-Müller Museum, Otterlo, Netherlands (F1080)"
+56,"Peatery in Drenthe also Peat Bog, watercolor","Van_Gogh_-_Paisaje_en_Drenthe,_1883.jpg",1883,Private collection (F1094)
+57,"Drawbridge in Nieuw New Amsterdam, watercolor",Vincent_van_Gogh_Ophaalbrug_in_Nieuw-Amsterdam.jpg,1883,"Groninger Museum, Groningen, Netherlands (F1098)"
+58,"Landscape with Wheelbarrow also Heath with a Wheelbarrow, watercolor",Van_Gogh_-_Heide_mit_Schubkarren.jpeg,1883,"Cleveland Museum of Art, Cleveland, Ohio (F1100)"
+59,"A Wood Auction also Lumber Sale, watercolor",A_Wood_Auction.jpg,1883,"Kröller-Müller Museum, Otterlo, Netherlands (F1113)"
+60,"Three Figures near a Canal with Windmill, drawing",Three_Figures_near_a_Canal_with_Windmill.jpg,1883,Location unknown (F1666)
+61,"Landscape with Trees, Black chalk, ink and watercolour",Landscape_with_Trees_(1883)_van_Gogh.jpg,1883,"Private collection (No F number, JH Add. 21)"
+62,Marshy Landscape,Marshy_Landscape.jpg,1883,"Private collection (No F number, JH 394)"
+63,Weaver Near an Open Window,Van_Gogh_-_Weber_vor_offenem_Fenster_mit_Blick_auf_den_Turm_von_Nuenen.jpeg,1884,"Neue Pinakothek, Munich (F24)"
+64,Congregation Leaving the Reformed Church in Nuenen,Van_Gogh_-_Die_Kirche_von_Nuenen_mit_Kirchgängern.jpeg,1884,"Van Gogh Museum, Amsterdam (F25)"
+65,Weaver Facing Right (Half-Figure),Van_Gogh_-_Weber_am_Webstuhl_-_(Profil_nach_rechts)1.jpeg,1884,Private collection (F26)
+66,"Weaver, Seen from the Front",Vincent_van_Gogh_0141.jpg,1884,"Museum Boijmans Van Beuningen, Rotterdam (F27)"
+67,Weaver Facing Left with Spinning Wheel,Van_Gogh_-_Weber_am_Webstuhl_mit_Haspel.jpeg,1884,"Museum of Fine Arts, Boston (F29)"
+68,Loom With Weaver,Van_Gogh_-_Weber_am_Webstuhl_(von_vorn).jpeg,1884,"Kröller-Müller Museum, Otterlo, Netherlands (F30)"
+69,Landscape with Pollard Willows (b/w copy of painting),Van_Gogh_-_Landschaft_mit_Weiden.jpeg,1884,Private collection (F31) 
+70,Weaver Standing in Front of a Loom,"Van_Gogh_-_Weber_am_Webstuhl,_das_Gewebe_prüfend2.jpeg",1884,Private collection (F32)
+71,Weaver Facing Right also Weaver Standing in Front of the Loom,"Van_Gogh_-_Weber_am_Webstuhl,_das_Gewebe_Prüfend1.jpeg",1884,Private collection (F33)
+72,The Old Tower at Nuenen with a Ploughman,Van_Gogh_-Der_alte_Friedhofsturm_in_Nuenen_mit_plügenden_Bauern.jpeg,1884,"Kröller-Müller Museum, Otterlo, Netherlands (F34)"
+73,Loom With Weaver also Weaver Arranging Threads,"Van_Gogh_-_Weber,_am_Webstuhl_stehend.jpeg",1884,"Kröller-Müller Museum, Otterlo, Netherlands (F35)"
+74,"Loom With Weaver also Weaver, Interior with Three Small Windows",Van_Gogh_-_Weber_in_einem_Raum_mit_drei_schmalen_Fenstern.jpeg,1884,"Kröller-Müller Museum, Otterlo, Netherlands (F37)"
+75,Cart with Red and White Ox,Van_Gogh_-_Karren_mit_rotbraunem_Ochsen.jpeg,1884,"Kröller-Müller Museum, Otterlo, Netherlands (F38)"
+76,Cart with Black Ox,Van_Gogh_-_Karren_mit_schwarzem_Ochsen.jpeg,1884,"Portland Art Museum, Portland, Oregon (F39)"
+77,The Old Tower in the Fields,Van_Gogh_-_Der_alte_Friedhofsturm_in_Nuenen2.jpeg,1884,Private collection (F40)
+78,Farmers Planting Potatoes,Van_Gogh_-_Bauern_beim_Kartoffelsetzen.jpeg,1884,"Kröller-Müller Museum, Otterlo, Netherlands (F41)"
+79,Shepherd with a Flock of Sheep (b/w copy of painting),Van_Gogh_-_Hirte_mit_Schafsherde_(Nach_dem_Gewitter).jpeg,1884,"Soumaya Museum, Tizapán, Mexico (F42) "
+80,Wood Gatherers in the Snow,Van_Gogh_-_Holzsammler_im_Schnee.jpeg,1884,Private collection (F43)
+81,Water Mill at Gennep,F46-Raderen-Genneper-watermolen.jpg,1884,"Noordbrabants Museum, 's-Hertogenbosch, Netherlands - on loan from the Netherlands Office for Fine Arts (F46)"
+82,Water Mill at Gennep,Van_Gogh_-_Wassermühle_in_Gennep2.jpeg,1884,Private collection (F47)
+83,Water Mill at Opwetten,Vincent_van_Gogh_-_Water_mill_at_Opwetten_(1884).jpg,1884,Private collection (F48)
+84,Water Mill at Kollen Near Nuenen,Van_Gogh_-_Wassermühle_in_Kollen_bei_Nuenen.jpeg,1884,Private collection (F48a)
+85,"Still Life with Four Stone Bottles, Flask and White Cup","Van_Gogh_-_Stillleben_mit_vier_Krügen,_Flasche_und_weißen_Napf.jpeg",1884,"Kröller-Müller Museum, Otterlo (F50)"
+86,"Still Life with Coffee Mill, Pipe Case and Jug also Still Life with a Bearded-Man Jar","Van_Gogh_-_Stillleben_mit_Bartmannkrug,_Kaffeemühle_und_Pfeifenetui.jpeg",1884,"Kröller-Müller Museum, Otterlo (F52)"
+87,Still Life with Clogs and Pots,Van_Gogh_-_Stillleben_mit_Steingut_und_Holzschuhen.jpeg,1884,"Centraal Museum, Utrecht, Netherlands (on loan) (F54)"
+88,Still Life with Two Sacks and a Bottle (b/w copy),Van_Gogh_-_Stillleben_mit_zwei_Tüten_und_Flasche.jpeg,1884,Private collection (F55)
+89,Still Life with Five Bottles,Van_Gogh_-_Stillleben_mit_Flaschen.jpeg,1884,"Österreichische Galerie Belvedere, Vienna (F56)"
+90,Still Life with Pottery and Two Bottles,Van_Gogh_-_Stillleben_mit_Steingut_und_Flaschen.jpeg,1884,"Norton Simon Museum, Pasadena, California (F57)"
+91,"Still Life with Pottery, Beer Glass and a Bottle","Van_Gogh_-_Stillleben_mit_Steingut,_Bierglas_und_Flasche.jpeg",1884,Private Collection (F58)
+92,Still Life with Paintbrushes in a Pot,Van_Gogh_-_Stillleben_mit_Pinseln_in_einem_Blumentopf.jpeg,1884,Private collection (F60)
+93,Still Life with Bottles and Earthenware,Stilleven_met_flessen_en_aardewerk_-_s0060V1962r_-_Van_Gogh_Museum.jpg,1884–85,"Van Gogh Museum, Amsterdam (F61r)"
+94,Still Life with Bottles and a Cowrie Shell,"Van_Gogh_-_Stillleben_mit_Flaschen,_Vase_und_Muschel.jpeg",1884,Private collection (F64)
+95,Head of an Old Peasant Woman with White Cap,Van_Gogh_-_Kopf_einer_alten_Bäuerin_mit_weißer_Haube.jpeg,1884,"Von der Heydt Museum, Wuppertal, Germany (F75)"
+96,Vase with Honesty,Van_Gogh_-_Vase_mit_Mondviolen.jpeg,1884–85,"Van Gogh Museum, Amsterdam (F76)"
+97,Old Church Tower at Nuenen,Van_Gogh_-_Der_alte_Friedhofsturm_in_Nuenen.jpeg,1884,"Foundation E.G. Bührle Collection, Zürich (F88)"
+98,Lane in Autumn,Lane-in-autumn-1884.jpg,1884,Private collection (F120)
+99,Avenue of Poplars in Autumn,Van_Gogh_-_Pappelallee_im_Herbst.jpeg,1884,"Van Gogh Museum, Amsterdam (F122)"
+100,Avenue of Poplars at Sunset,Van_Gogh_-Pappelallee_bei_Sonnenuntergang.jpeg,1884,"Kröller-Müller Museum, Otterlo, Netherlands (F123)"
+101,Water Mill at Gennep (b/w copy),Van_Gogh_-_Wassermühle_in_Gennep.jpeg,1884,"Museo Thyssen-Bornemisza, Madrid, Spain (F125)"
+102,Head of a Peasant Woman,Van_Gogh_-_Kopf_einer_Bäuerin.jpeg,1884,Private collection (F132)
+103,Head of a Peasant Woman with Dark Cap,Van_Gogh_-_Kopf_einer_Bäuerin_mit_dunkler_Haube1.jpeg,1884,Private collection (F136a)
+104,"Peasant Woman, Half Figure, Seated with White Cap","Van_Gogh_-_Bäuerin,_sitzend,_mit_weißer_Haube.jpeg",1884,"Morohashi Museum of Modern Art: Kita-Shiobara-Mura (Fukushima), Japan (F143)"
+105,Head of a Peasant Woman with White Cap,Van_Gogh_-_Kopf_einer_Bäuerin_mit_weißer_Haube3.jpeg,1884,"Galerie Nathan, Zurich (F144)"
+106,Head of an Old Peasant Woman with White Cap,Van_Gogh_-_Kopf_einer_alten_Bäuerin_mit_weißer_Haube2.jpeg,1884,Private collection (F146)
+107,Head of a Peasant Woman with White Cap,Van_Gogh_-_Kopf_einer_Bäuerin_mit_weißer_Haube.jpeg,1884,"Saint Louis Art Museum, St Louis, Missouri (F146a)"
+108,Head of a Peasant with Cap (b/w copy),Van_Gogh_-_Kopf_eines_Bauern_mit_Mütze.jpeg,1884,"Art Gallery of New South Wales, Sydney, Australia (F160a)"
+109,Weaver Facing Right (Half-Figure),Van_Gogh_-_Weber_am_Webstuhl_-_(Profil_nach_rechts)3.jpeg,1884,Private collection (F162)
+110,Potato Planting,Van_Gogh_-_Kartoffelsetzen.jpg,1884,"Von der Heydt Museum, Wuppertal, Germany (F172)"
+111,Two Rats,Van_Gogh_-_Zwei_Ratten.jpeg,1884,Private collection (F177)
+112,"Still Life with Pots, Jar and Bottles","Van_Gogh_-_Stilleben_mit_Steingut,_Bierglas_und_Flaschen.jpeg",1884,"Gemeentemuseum Den Haag, The Hague (F178r)"
+113,The Old Tower of Nuenen with People Walking,Van_Gogh_-_Der_alte_Friedhofsturm_in_Nuenen_mit_drei_Figuren.jpeg,1884,Private collection (F184)
+114,"Parsonage Garden at Nuenen, The",Van_Gogh_-_Der_Pfarrgarten_in_Nuenen_mit_weiblicher_Figur.jpeg,1884,"Groninger Museum, Groningen, Netherlands (F185)"
+115,Village at Sunset also Farmer Town in the Evening,Van_Gogh_-_Dorf_bei_Sonnenuntergang.jpeg,1884,Rijksmuseum Amsterdam (F190)
+116,Vase with Dead Leaves,Van_Gogh_-_Vase_mit_verwelkten_Blätter.jpeg,1884,Private collection (F200)
+117,"Loom With Weaver also Weaver at the Loom, drawing",Van_Gogh_-_Weber_am_Webstuhl_-_(Profil_nach_rechts)2.jpeg,1884,"Kröller-Müller Museum, Otterlo, Netherlands (F1122)"
+118,"Weaver Standing in front of the Loom, drawing",Van_Gogh_-_Weber_am_Webstuhl.jpeg,1884,"Kröller-Müller Museum, Otterlo, Netherlands (F1134)"
+119,Head of a Woman,Van_Gogh_-_Kopf_einer_Bäuerin_mit_weißer_Haube2.jpeg,1884–85,"Van Gogh Museum, Amsterdam (F156)"
+120,Head of a Woman,Van_Gogh_-_Kopf_einer_Bäuerin_mit_dunkler_Haube3.jpeg,1884–85,"Van Gogh Museum, Amsterdam (F159)"
+121,Head of a Man,Van_Gogh_-_Kopf_eines_jungen_Bauern_mit_Pfeife.jpeg,1884–85,"Van Gogh Museum, Amsterdam (F164)"
+122,Woman Winding Yarn,Van_Gogh_-_Frau_am_Spinnrad.jpeg,1885,"Van Gogh Museum, Amsterdam (F36)"
+123,Autumn Landscape with Four Trees,Autumn_landscape.jpg,1885,"Kröller-Müller Museum, Otterlo, Netherlands (F44)"
+124,Lane with Poplars,Van_Gogh_-_Pappelallee_bei_Nuenen.jpeg,1885,"Museum Boijmans Van Beuningen, Rotterdam (F45)"
+125,Beer Tankards,Van_Gogh_-_Stillleben_mit_drei_Bierkrügen.jpeg,1885,"Van Gogh Museum, Amsterdam (F49)"
+126,Still Life with Brass Cauldron and Jug,"Van_Gogh_-_Stillleben_mit_Kupferkessel,_Krug_und_Kartoffeln.jpeg",1885,"Van Gogh Museum, Amsterdam (F51)"
+127,Still Life with Earthenware and Bottles,Van_Gogh_-_Stillleben_mit_drei_Flaschen_und_Steingut.jpeg,1885,"Van Gogh Museum, Amsterdam (F53)"
+128,Still Life with Two Jars and Two Pumpkins,Van_Gogh_-_Stillleben_mit_zwei_Krügen_und_Kürbissen.jpeg,1885,Private collection (F59)
+129,Still Life with Straw Hat also Still Life with Yellow Straw Hat,Vincent_Willem_van_Gogh_129.jpg,1885,"Kröller-Müller Museum, Otterlo (F62)"
+130,"Still Life with Earthenware, Bottle and Clogs","Van_Gogh_-_Stillleben_mit_Tontopf,_Flasche_und_Holzschuhen.jpeg",1885,"Kröller-Müller Museum, Otterlo, Netherlands (F63)"
+131,Head of a Peasant Woman with White Cap,Van_Gogh_-_Kopf_einer_Bäuerin_mit_weißer_Haube1.jpeg,1885,Location unknown (F65)
+132,Two Hands,Van_Gogh_-_Zwei_Hände.jpeg,1885,Private collection (F66)
+133,The Parsonage Garden at Nuenen in the Snow,Van_Gogh_-_Der_Pfarrgarten_in_Nuenen_im_Schnee.jpeg,1885,"Hammer Museum, Los Angeles (F67)"
+134,"Old Station at Eindhoven, The",Van_Gogh_-_Der_alte_Bahnhof_in_Eindhoven.jpeg,1885,Private Collection (F67a)
+135,Head of a Woman,Van_Gogh_-_Kopf_einer_Bäurin_mit_dunkler_Haube20.jpeg,1885,"Van Gogh Museum, Amsterdam (F69)"
+136,"Peasant Woman, Seen against the Window",Van_Gogh_-_Kopf_einer_Bäuerin_vor_dem_Fenster.jpeg,1885,"Private collection, Tokyo (F70)"
+137,Head of a Woman,Van_Gogh_-_Kopf_einer_Bäuerin_vor_dem_Fenster2.jpeg,1885,"Van Gogh Museum, Amsterdam (F70a)"
+138,Woman Sewing,"Van_Gogh_-_Bäuerin,_nähend,_vor_einem_Fenster.jpeg",1885,"Van Gogh Museum, Amsterdam (F71)"
+139,Peasant Woman Taking her Meal,Van_Gogh_-_Bäuerin_bei_der_Mahlzeit.jpeg,1885,"Kröller-Müller Museum, Otterlo, Netherlands (F72)"
+140,"Peasant Woman Seated before an Open Door, Peeling Potatoes (b/w copy of painting)","Van_Gogh_-_Bäuerin_vor_einer_Tür,_kartoffelschälend.jpeg",1885,Private collection (F73)
+141,Head of a Woman with Greenish Lace Cap,Van_Gogh_-_Kopf_einer_Bäuerin_mit_grünlicher_Haube.jpeg,1885,"Kröller-Müller Museum, Otterlo, Netherlands (F74)"
+142,Study for The Potato Eaters,Van_Gogh_-_Vier_Bauern_beim_Essen_(Erste_Studie_zu_den_-Karoffelessern-).jpeg,1885,Private collection (F77r)
+143,Study for The Potato Eaters,Van_Gogh_-_Die_Kartoffelesser2.jpeg,1885,"Kröller-Müller Museum, Otterlo (F78)"
+144,Landscape at Sunset,Van_Gogh_-_Landschaft_bei_Sonnenuntergang.jpeg,1885,Private collection (F79)
+145,Head of a Peasant Woman with a White Cap,Van_Gogh_-_Kopf_einer_Bäuerin_mit_weißer_Haube11.jpeg,1885,"Foundation E.G. Bührle, Zurich (F80)"
+146,Head of a Woman,Van_Gogh_-_Kopf_einer_Bäuerin_mit_weißer_Haube10.jpeg,1885,"Van Gogh Museum, Amsterdam (F80a)"
+147,Head of a Peasant Woman with White Cap,Van_Gogh_-_Kopf_einer_Bäuerin_mit_weißer_Haube26.jpeg,1885,"Kunstmuseum Bern, Switzerland (F81)"
+148,The Potato Eaters,Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg,1885,"Van Gogh Museum, Amsterdam (F82)"
+149,Cottage,Van_Gogh_-_Strohhütte_bei_Einbruch_der_Dämmerung.jpeg,1885,"Van Gogh Museum, Amsterdam (F83)"
+150,Old Church Tower at Nuenen,VanGogh_F84.jpg,1885,"Van Gogh Museum, Amsterdam (F84)"
+151,Head of a Woman Wearing a White Cap,Van_Gogh_-_Kopf_einer_Bäuerin_mit_weißer_Haube12.jpeg,1884–85,"Kröller-Müller Museum, Otterlo, Netherlands (F85)"
+152,Head of a Peasant Woman in a White Bonnet,Van_Gogh_-_Kopf_einer_Bäuerin_mit_weißer_Haube27.jpeg,1885,"Norton Simon Museum, Pasadena, California (F85a)"
+153,Head of a Peasant Woman,Van_Gogh_-_Kopf_einer_Bäuerin3.jpeg,1885,"Kröller-Müller Museum, Otterlo, Netherlands (F86)"
+154,The Old Cemetery Tower at Nuenen in the Snow,Van_Gogh_-_Der_alte_Friedhofsturm_in_Nuenen_im_Schnee.jpeg,1885,"Tate, London (F87)"
+155,Cottage with Peasant Woman Digging,Van_Gogh_-_Bauernhaus_mit_umgrabender_Bäuerin1.jpeg,1885,Private collection (F89)
+156,Cottage and Woman with Goat,Van_Gogh_-_Bauernhaus_und_Frau_mit_Ziege.jpeg,1885,"Städel, Frankfurt, Germany (F90)"
+157,Cottage with Trees also Cottage,Van_Gogh_-_Bauernhaus.jpeg,June 1885,Private collection (F91) 
+158,Cottage with Trees,Van_Gogh_-_Bauernhaus_mit_Bäumen1.jpeg,1885,Private collection (F92)
+159,Cottage with Trees,Van_Gogh_-_Bauernhaus_mit_Bäumen2.jpeg,1885,Private collection (F92a)
+160,Cottage with Trees,Van_Gogh_-_Bauernhaus_mit_Bäumen.jpeg,1885,"Wallraf-Richartz Museum, Cologne (F93)"
+161,Peasant Woman Digging,Van_Gog_-_Bäuerin_beim_Umgraben1.jpeg,1885," 's-Hertogenbosch, North Brabant (F94)"
+162,"Peasant Woman Digging also Woman with a Spade, Seen from Behind",Vincent_van_Gogh_-_Bäuerin_beim_Umgraben.jpg,1885,"Art Gallery of Ontario, Toronto (F95)"
+163,Peasant Woman Digging,Vincent_van_Gogh_-_Bäuerin_beim_Umgraben2.jpg,1885,"Barber Institute of Fine Arts, Birmingham (F95a)"
+164,Two Peasant Women Digging (b/w copy of painting),Van_Gogh_-_Zwei_Bäuerin_bei_Umgraben.jpeg,1885,Private collection (F96)
+165,Two Peasant Women Digging Potatoes,Van_Gogh_-_Zwei_Bäuerinnen_beim_Kartoffelgraben.jpeg,1885,"Kröller-Müller Museum, Otterlo, Netherlands (F97 - also F129)"
+166,Peasant Woman Digging Up Potatoes,Vincent_van_Gogh_-_Boerin_aardappelen_opgravend.JPG,1885,"Royal Museum of Fine Arts, Antwerp, Belgium (F98)"
+167,Basket of Apples,Van_Gogh_-_Stillleben_mit_Apfelkorb2.jpeg,1885,"Van Gogh Museum, Amsterdam (F99)"
+168,Baskets of Potatoes,Van_Gogh_-_Stillleben_mit_Karoffelkorb.jpeg,1885,"Van Gogh Museum, Amsterdam (F100)"
+169,Basket of Apples,Van_Gogh_-_Stillleben_mit_Apfelkorb1.jpeg,1885,"Van Gogh Museum, Amsterdam (F101)"
+170,"Still Life with a Basket of Potatoes, Surrounded by Autumn Leaves and Vegetables","Van_Gogh_-_Stillleben_mit_Kohlköpfen,_Kartoffelkorb_und_Blättern.jpeg",1885,Private collection (F102)
+171,Still Life with Vegetables and Fruit,Van_Gogh_-_Stillleben_mit_Gemüse_und_Früchten.jpeg,1885,"Van Gogh Museum, Amsterdam (F103)"
+172,Still Life with Ginger Jar and Apples (b/w copy of painting),Van_Gogh_-_Stillleben_mit_Ingwertopf_und_Äpfeln.jpeg,1885,Private collection (F104)
+173,Still Life with Ginger Jar and Onions,Van_Gogh_-_Stillleben_mit_Ingwertopf_und_Zwiebeln.jpeg,1885,"The McMaster Art Gallery, Hamilton, Ontario (F104a)"
+174,Still Life with an Earthen Bowl and Pears,Van_Gogh_-_Stillleben_mit_Birnen_in_einer_Schale.jpeg,1885,"Centraal Museum, Utrecht, Netherlands (F105)"
+175,Still Life with a Basket of Apples and Two Pumpkins,Van_Gogh_-_Stillleben_mit_Apfelkorb_und_zwei_Kürbissen.jpeg,1885,"Kröller-Müller Museum, Otterlo, Netherlands (F106)"
+176,Basket of Potatoes,Van_Gogh_-_Stillleben_mit_zwei_Kartoffelkörben.jpeg,1885,"Van Gogh Museum, Amsterdam (F107)"
+177,Still Life with Three Birds' Nests,Van_Gogh_-_Stillleben_mit_drei_Vogelnestern2.jpeg,1885,"Kröller-Müller Museum, Otterlo, Netherlands (F108)"
+178,Still Life with Birds' Nests,Van_Gogh_-_Stillleben_mit_zwei_Vogelnestern.jpeg,1885,"Van Gogh Museum, Amsterdam (F109r)"
+179,Still Life with Three Birds' Nests,Van_Gogh_-_Stillleben_mit_drei_Vogelnestern.jpeg,1885,"Gemeentemuseum Den Haag, Netherlands (on loan) (F110)"
+180,Still Life with Birds' Nests,Van_Gogh_-_Stillleben_mit_fünf_Vogelnestern.jpeg,1885,"Van Gogh Museum, Amsterdam (F111)"
+181,Still Life with Three Birds' Nests,Van_Gogh_-_Stillleben_mit_drei_Vogelnestern3.jpeg,1885,"Kröller-Müller Museum, Otterlo, Netherlands (F112)"
+182,View of Amsterdam from Central Station,Van_Gogh_-_Blick_auf_Amsterdam_vom_Hauptbahnhof.jpeg,1885,"Private collection, Amsterdam (F113)"
+183,Still Life with a Basket of Apples,Van_Gogh_-_Stillleben_mit_Apfelkorb.jpeg,1885,Private collection (F115)
+184,Basket with Potatoes,Van_Gogh_-_Stillleben_mit_Karoffelkorb1.jpeg,1885,"Van Gogh Museum, Amsterdam (F116)"
+185,"Still Life with Open Bible, Extinguished Candle and Novel also Still Life with Bible",Libro_Vincent_van_Gogh.jpg,1885,"Van Gogh Museum, Amsterdam, Netherlands (F117)"
+186,Still Life with an Earthen Bowl and Potatoes,Van_Gogh_-_Stillleben_mit_Kartoffeln_in_einer_Schüssel.jpeg,1885,"Museum Boijmans-van Beuningen, Rotterdam (on loan) (F118)"
+187,Autumn Landscape,Van_Gogh_-_Herbstlandschaft.jpeg,1885,"Fitzwilliam Museum, University of Cambridge, England (F119)"
+188,Autumn Landscape at Dusk,Van_Gogh_-_Herbstlandschaft_in_der_Abenddämmerung.jpeg,1885,"Centraal Museum, Utrecht, Netherlands (F121)"
+189,"Parsonage Garden at Nuenen with Pond and Figures, The",Van_Gogh_-_Der_Pfarrgarten_in_Nuenen_mit_Teich_und_Figuren.jpeg,1885,"Destroyed by fire in World War Two, Rotterdam (F124)"
+190,Peasant Woman Sitting on a Chair,"Van_Gogh_-_Bäuerin,_auf_einem_Stuhl_sitzend.jpeg",1885,Private collection (F126)
+191,Peasant Woman Sewing,"Van_Gogh_-_Bäuerin,_nähend.jpeg",1885,Private collection (F126a)
+192,"Peasant Woman, Seated (Half-Figure)","Van_Gogh_-_Bäuerin,_sitzend,_mit_gefalteten_Händen.jpeg",1885,Private collection (F127)
+193,Peasant Woman Standing Indoors,Van_Gogh_-_Bäuerin_im_Hausflur_stehend.jpeg,1885,"National Museum of Serbia, Belgrade (F128)"
+194,Two Peasant Women Digging Potatoes,Van_Gogh_-_Zwei_Bäuerinnen_beim_Kartoffelgraben.jpeg,1885,"Kröller-Müller Museum, Otterlo, Netherlands (F129 - also F97)"
+195,Peasant and Peasant Woman Planting Potatoes,Van_Gogh_-_Bauer_und_Bäuerin_beim_Kartoffelsetzen.jpeg,1885,Kunsthaus Zürich (F129a)
+196,Head of a Woman,WLANL_-_artanonymous_-_Head_of_a_Woman.jpg,1885,"Van Gogh Museum, Amsterdam (F130)"
+197,Head of a Peasant Woman with White Cap,Van_Gogh_-_Kopf_einer_Bäuerin_mit_weißer_Haube24.jpeg,1885,"Woodone Museum of Art, Yoshiwa, Japan (F131)"
+198,Head of a Peasant Woman with Dark Cap (b/w copy of painting),Van_Gogh_-_Kopf_einer_Bäuerin_mit_dunkler_Haube.jpeg,1885,Private collection (F133)
+199,Head of a Peasant Woman with Dark Cap,Van_Gogh_-_Kopf_einer_Bäuerin_mit_roter_Haube.jpeg,1885,"Musée d'Orsay, Paris (F134)"
+200,Head of a Peasant Woman with Dark Cap,Van_Gogh_-_Kopf_einer_Barbanter_Bäuerin_mit_dunkler_Haube2.jpeg,1885,"Cincinnati Art Museum, Cincinnati, Ohio (F135)"
+201,Head of a Peasant Woman with Brownish Cap,Van_Gogh_-_Kopf_einer_Bäuerin_mit_dunkler_Haube9.jpeg,1885,"Dufresne Art Gallery, Paris (F136)"
+202,Head of a Peasant Woman with Dark Cap,Van_Gogh_-_Kopf_einer_Bäuerin_mit_dunkler_Haube5.jpeg,1885,National Gallery London (F137)
+203,Head of a Peasant Woman with Dark Cap (b/w copy of painting),Van_Gogh_-_Kopf_einer_jungen_Bäuerin_mit_dunkler_Haube8.jpeg,1885,"Hecht Museum, Haifa, Israel (F138)"
+204,Peasant Woman Raking,"Van_Gogh_-_Bäuerin,_einen_Kanal_säubern.jpeg",1885,Private collection (F139)
+205,Head of a Peasant Woman with White Cap,Van_Gogh_-_Kopf_einer_Bäuerin_mit_weißer_Haube28.jpeg,1885,"National Gallery of Scotland, Edinburgh (F140)  "
+206,"Gordina de Groot, Head",Van_Gogh_-_Kopf_einer_Bäuerin_mit_weißer_Haube29.jpeg,1885,Private collection (F141)
+207,Peasant Woman Digging in Front of Her Cottage,Van_Gogh_-_Bauernhaus_mit_umgrabender_Bäuerin.jpeg,1885,Art Institute of Chicago (F142)
+208,"Peasant Woman, Seated with White Cap","Van_Gogh_-_Bäuerin,_sitzend,_mit_weißer_Haube3.jpeg",1885,"Noordbrabants, Den Bosch (F144a)  "
+209,Peasant Woman Peeling Potatoes,Van_Gogh_-_Bäuerin_beim_Kartoffelschälen.jpeg,1885,Private collection (F145)
+210,Woman Lifting Potatoes,WLANL_-_artanonymous_-_Woman_Lifting_Potatoes.jpg,1885,"Van Gogh Museum, Amsterdam (F147)"
+211,Peasant Woman Laundering,Van_Gogh_-_Bäuerun_beim_Wäschebleichen.jpeg,1885,Private collection (F148)
+212,Peasant Woman with Child on Her Lap,Van_Gogh_-_Bäuerin_mit_Kind_auf_dem_Schoß.jpeg,1885,Private collection (F149)
+213,Head of a Young Peasant Woman with Dark Cap,Van_Gogh_-_Kopf_einer_jungen_Bäuerin_mit_dunkler_Haube.jpeg,1885,"Kröller-Müller Museum, Otterlo, Netherlands (F150)"
+214,Head of a Woman,Van_Gogh_-_Kopf_einer_alten_Bäuerin_mit_dunkler_Haube.jpeg,1885,"Kröller-Müller Museum, Otterlo, Netherlands (F151)"
+215,Woman with a Broom also Woman Sweeping the Floor,"Van_Gogh_-_Bäuerin,_den_Flur_fegend.jpeg",1885,"Kröller-Müller Museum, Otterlo, Netherlands (F152)"
+216,Head of a Woman,Van_Gogh_-_Kopf_einer_Barbanter_Bäuerin_mit_dunkler_Haube.jpeg,1885,"Kröller-Müller Museum, Otterlo, Netherlands (F153)"
+217,Head of a Peasant Woman with Dark Cap,Van_Gogh_-_Kopf_einer_Bäuerin_mit_dunkler_Haube2.jpeg,1885,Private collection (F153a)
+218,Head of a Woman with Brownish Cap,Van_Gogh_-_Kopf_einer_Bäuerin_mit_bräunlicher_Haube.jpeg,1885,"Kröller-Müller Museum, Otterlo, Netherlands (F154)"
+219,Head of a Peasant Woman in a Green Shawl,Van_Gogh_-_Bäuerin_mit_grünem_Schal.jpeg,1885,"Museum of Fine Arts of Lyon, France (F155)"
+220,Peasant Woman Darning Stockings (b/w copy of a very dark painting),Van_Gogh_-_Bäuerin_beim_Strümpfestopfen.jpeg,1885,Private collection (F157)
+221,Peasant Woman by the Fireplace,"Van_Gogh_-_Bäuerin,_am_Herdfeuer_sitzend.jpeg",1885,"Musée d'Orsay, Paris (F158)"
+222,Head of a Woman,Van_Gogh_-_Kopf_einer_Bäuerin_mit_roter_Haube2.jpeg,1885,"Van Gogh Museum, Amsterdam (F160)"
+223,Woman with a Mourning Shawl (b/w copy of painting),Van_Gogh_-_Kopf_einer_Bäuerin_mit_grünem_Schal.jpeg,1885,"Van Gogh Museum, Amsterdam (F161)"
+224,Head of a Young Peasant in a Peaked Cap,Vincent_van_Gogh_Head_of_a_Young_Peasant_in_a_Peaked_Cap.jpg,1885,"Royal Museums of Fine Arts of Belgium, Brussels (F163)"
+225,Head of a Young Peasant in a Peaked Cap,Van_Gogh_-_Kopf_eines_jungen_Bauern_mit_Mütze2.jpeg,1885,"Nelson-Atkins Museum of Fine Art, Kansas City (F165)"
+226,Peasant Digging,Van_Gogh_-_Bauer_beim_Umgraben1.jpeg,1885,"Kröller-Müller Museum, Otterlo, Netherlands (F166)"
+227,Woman at Table also Peasant Sitting at a Table,"Van_Gogh_-_Bauer,_am_Tisch_sitzend.jpeg",1885,"Kröller-Müller Museum, Otterlo, Netherlands (F167)"
+228,Head of a Man,Van_Gogh_-_Kopf_eines_Bauern.jpeg,1885,"Kröller-Müller Museum, Otterlo, Netherlands (F168)"
+229,Head of a Man with a Pipe,Van_Gogh_-_Kopf_eines_Bauern_mit_Tonpfeife.jpeg,1885,"Kröller-Müller Museum, Otterlo, Netherlands (F169)"
+230,Head of a Peasant with a Cap,Van_Gogh_-_Kopf_eines_Bauern_mit_Mütze2.jpeg,1885,Collection Niarchos (F169a)
+231,Cottage with Peasant Coming Home,Van_Gogh_-_Cabaña_con_campesino_regresando_a_casa.jpg,1885,"Soumaya Museum, Mexico City (F170)"
+232,Peasant Making a Basket,"Van_Gogh_-_Bauer,_sitzend_beim_Korbflechten.jpeg",1885,"Musée des Beaux-Arts, La-Chaux-de-Fonds, Switzerland (F171)"
+233,Peasant Making a Basket,"Van_Gogh_-_Bauer,_sitzend_beim_Korbflechten2.jpeg",1885,Private collection (F171a)
+234,Head of an Old Woman with White Cap (The Midwife),Van_Gogh_-_Kopf_einer_alten_Frau_mit_weißer_Haube_(Die_Amme).jpeg,1885,"Van Gogh Museum, Amsterdam (F174)"
+235,Bobbin Winder,Van_Gogh_-_Spinnrad.jpeg,1885,"Van Gogh Museum, Amsterdam (F175)"
+236,Peasant Woman Cooking by a Fireplace (b/w copy of painting),Peasant_Woman_Cooking_by_a_Fireplace.jpeg,1885,"Metropolitan Museum of Art, New York (F176)"
+237,Flying Fox,Van_Gogh_-_Die_Fledermaus.jpeg,1885,"Van Gogh Museum, Amsterdam (F177a)"
+238,Head of a Man,Kop_van_een_man_-_s0068V1962r_-_Van_Gogh_Museum.jpg,1885,"Van Gogh Museum, Amsterdam (F179r)"
+239,The Vicarage at Nuenen,Van_Gogh_-_Das_Pfarrhaus_in_Nuenen.jpeg,1885,"Van Gogh Museum, Amsterdam (F182)"
+240,"Parsonage at Nuenen by Moonlight, The",Van_Gogh_-_Das_Pfarrhaus_in_Nuenen_bei_Mondschein.jpeg,1885,Private collection (F183)
+241,Cottage with Trees and Peasant Woman,Van_Gogh_-_Bauernhaus_mit_zwei_Bäumen_und_Bäuerin.jpeg,1885,Private collection (F187)
+242,Landscape at Dusk,Van_Gogh_-_Landschaft_in_der_Abenddämmerung.jpeg,1885,"Thyssen-Bornemisza Museum, Madrid (F191)"
+243,Country Lane with Two Figures,Van_Gogh_-_Allee_mit_zwei_Figuren.jpeg,1885,Private collection (F191a)
+244,Sheaves of Wheat in a Field,Van_Gogh_-_Weizengarben_auf_einem_Feld.jpeg,1885,"Kröller-Müller Museum, Otterlo, Netherlands (F193)"
+245,"Parsonage Garden at Nuenen in the Snow, The",Van_Gogh_-_Der_Pfarrgarten_in_Nuenen_im_Schnee1.jpeg,1885,"Norton Simon Museum, Pasadena (F194)"
+246,"Willow, The (b/w copy of painting)",Van_Gogh_-_Weide.jpeg,1885,"Private Collection, previously stolen but recovered (F195) "
+247,Landscape with Windblown Trees,Van_Gogh_-_Landschaft_mit_Bäumen_im_Wind.jpeg,1885,Location unknown (F196)
+248,Still Life with Copper Coffeepot and Two White Bowls (b/w copy of painting),Van_Gogh_-_Stillleben_mit_Kaffeekanne_und_zwei_Bechern.jpeg,1885,Private collection (F202)
+249,Portrait of an Old Man with Beard,Van_Gogh_-_Bildnis_eines_alten_Mannes_mit_Bart.jpeg,1885,"Van Gogh Museum, Amsterdam (F205)"
+250,Head of a Woman with her Hair Loose,Van_Gogh_-_Kopf_einer_Frau_mit_offenem_Haar.jpeg,1885,"Van Gogh Museum, Amsterdam (F206)"
+251,Portrait of a Woman with Red Ribbon,Van_Gogh_-_Bildnis_einer_Frau_mit_rotem_Haarband.jpeg,1885,Private collection (F207)
+252,Portrait of Woman in Blue,Van_Gogh_-_Bildnis_einer_Frau_in_Blau.jpeg,1885,"Van Gogh Museum, Amsterdam (F207a)"
+253,View of a Town with Drawbridge,Van_Gogh_-_Stadtansicht_mit_Gracht_und_Zugbrücke.jpeg,1885,Private collection (F210)
+254,The De Ruijterkade in Amsterdam,Van_Gogh_-_Kai_in_Antwerpen_mit_Schiffen.jpeg,1885,"Van Gogh Museum, Amsterdam (F211)"
+255,Still Life with a Basket of Vegetables,Still_life_with_a_basket_of_vegetables_by_Vincent_Van_Gogh.jpg,1885,"Collection Anneliese Brand, Landsberg/Lech (F212a) "
+256,Backyards of old Houses in Antwerp in the Snow,VanGogh-Houses_Seen_from_the_Back.jpg,1885,"Van Gogh Museum, Amsterdam (F260)"
+257,Head of a Woman,Van_Gogh_-_Kopf_einer_Bäuerin_mit_dunkler_Haube20.jpeg,1885,"Van Gogh Museum, Amsterdam (F269r)"
+258,Peasant Woman Peeling Potatoes (b/w copy of painting),Van_Gogh_-_Bäuerin_beim_Kartoffelschälen1.jpeg,1885,"Metropolitan Museum of Art, New York (F365r)"
+259,Head of a Woman,Van_Gogh_-_Kopf_einer_Bäuerin_mit_weißer_Haube_28.jpeg,1885,"Van Gogh Museum, Amsterdam (F388r)"
+260,"The Parsonage Garden at Nuenen with Pond and Figures, watercolor",Van_Gogh_-_Der_Pfarrgarten_in_Nuenen_mit_Teich_und_Figuren1.jpeg,1885, Private collection (F1234)
+261,"Head of a Man, Drawing",HeadOfAManVanGogh.jpg,1885,"Van Gogh Museum, Amsterdam (F1358)"
+262,"Head of an Old Man, Drawing",Head_of_an_Old_Man_(F1359)_Van_Gogh.jpg,1885,"Van Gogh Museum, Amsterdam (F1359)"
+263,"Study for The Potato Eaters, Lithograph",Van_Gogh_-_Die_Kartoffelesser1.jpeg,1885,"Museo Thyssen-Bornemisza, Madrid, Spain or Location unknown (F1661)"
+264,Head of a Peasant Woman with Dark Cap,Van_Gogh_-_Kopf_einer_Bäuerin_mit_dunkler_Haube4.jpeg,1885,Private collection (F1667)
+265,"Gordina de Groot, Head",Van_Gogh_-_Kopf_einer_Bäuerin_mit_weißer_Haube15.jpeg,1885,Private collection (F1668)
+266,Cottage with Decrepit barn and Stooping Woman,Van_Gogh_-_Bauernhaus_mit_gebückter_Bäuerin_in_blauem_Kleid.jpeg,1885,Private collection (F1669)
+267,Cottage,Van_Gogh_-_Bauernhaus1.jpeg,June–July 1885,"Private collection (No F number, JH Add. 23)"
+268,The Green Parrot,Van_Gogh_-_Der_grüne_Papagei.jpeg,1886,Private collection (F14)
+269,The Kingfisher,Van_Gogh_-_Eisvogel.jpeg,1886,"Van Gogh Museum, Amsterdam (F28) [Artist disputed]"
+270,Self-Portrait,Van_Gogh_-_Selbstbildnis.jpeg,1886,"Gemeentemuseum Den Haag, The Hague (F178v)"
+271,Self-Portrait with Pipe,Van_Gogh_-_Selbstbildnis_mit_Pfeife1.jpeg,1886,"Van Gogh Museum, Amsterdam (F180)"
+272,Self-Portrait with Dark Felt Hat at the Easel,Van_Gogh_-_Selbstbildnis_mit_Filzhut_vor_der_Staffelei.jpeg,1886,"Van Gogh Museum, Amsterdam (F181)"
+273,Still Life with a Bouquet of Daisies,Vase-with-Daisies_F197.jpg,1886,Philadelphia Museum of Art (F197)
+274,Ginger Jar Filled with Chrysanthemums,Van_Gogh_-_Ingwertopf_mit_Chrysantemen.jpeg,1886,Private collection (F198)
+275,Glass with Hellebores,Van_Gogh_-_Glas_mit_Nieswurz.jpeg,1886,Private collection (F199)
+276,Geranium in a Flowerpot,Van_Gogh_-_Geranie_in_einem_Blumentopf.jpeg,1886,Private collection (F201)
+277,Still Life with Bloaters also Smoked Herrings,Van_Gogh_-_Stillleben_mit_Bücklingen.jpeg,1886,"Kröller-Müller Museum, Otterlo (F203)"
+278,Self-Portrait with Pipe,Van_Gogh_-_Selbstbildnis_mit_Pfeife.jpeg,1886,"Van Gogh Museum, Amsterdam (F208)"
+279,Self-Portrait with Dark Felt Hat,Van_Gogh_-_Selbstbildnis_mit_dunklem_Filzhut.jpeg,1886,"Van Gogh Museum, Amsterdam (F208a)"
+280,Skull of a Skeleton with Burning Cigarette,Vincent_van_Gogh_-_Head_of_a_skeleton_with_a_burning_cigarette_-_Google_Art_Project.jpg,1886,"Van Gogh Museum, Amsterdam (F212)"
+281,Fritillaries,Van_Gogh_-_Büschel_von_Schachbrettblumen.jpeg,1886,Location unknown (F214)
+282,"Nude Study of a Little Girl, Seated",Van_Gogh_-_Akt_eines_sitzenden_kleinen_Mädchens.jpeg,1886,"Van Gogh Museum, Amsterdam (F215)"
+283,"Portrait of a Woman, Facing Right",Van_Gogh_-_Bildnis_einer_Frau.jpeg,1886,"Van Gogh Museum, Amsterdam (F215b)"
+284,Portrait of a Woman with Hat,Portrait_of_a_Woman_with_Hat_f_0215c.jpg,1886,"Van Gogh Museum, Amsterdam (F215c)"
+285,Portrait of a Woman Seated,Portrait_of_a_Woman_Seated_f_0215d.jpg,1886,"Van Gogh Museum, Amsterdam (F215d)"
+286,Plaster Statuette of a Female Torso,Van_Gogh_-_Gipstorso_(weiblich)_in_Rückenansicht.jpeg,1886,"Van Gogh Museum, Amsterdam (F216a)"
+287,Plaster Statuette of a Female Torso,WLANL_-_artanonymous_-_Plaster_Statuette_of_a_Female_Torso_(4).jpg,1886,"Van Gogh Museum, Amsterdam (F216b)"
+288,Plaster Statuette of a Horse,WLANL_-_artanonymous_-_Plaster_Statuette_of_a_Horse.jpg,1886,"Van Gogh Museum, Amsterdam (F216c)"
+289,Plaster Statuette of a Female Torso,WLANL_-_artanonymous_-_Plaster_Statuette_of_a_Female_Torso_(2).jpg,1886,"Van Gogh Museum, Amsterdam (F216d)"
+290,Plaster Statuette of a Male Torso,Van_Gogh_-_Gipstorso_(männlich).jpeg,1886,"Van Gogh Museum, Amsterdam (F216e)"
+291,Plaster Statuette of a Kneeling Man,WLANL_-_artanonymous_-_Plaster_Statuette_of_a_Kneeling_Man.jpg,1886,"Van Gogh Museum, Amsterdam (F216f)"
+292,Plaster Statuette of a Female Torso,WLANL_-_artanonymous_-_Plaster_Statuette_of_a_Female_Torso.jpg,1886,"Van Gogh Museum, Amsterdam (F216g)"
+293,Plaster Statuette of a Female Torso,WLANL_-_artanonymous_-_Plaster_Statuette_of_a_Female_Torso_(1).jpg,1886,"Van Gogh Museum, Amsterdam (F216h)"
+294,Plaster Statuette of a Female Torso,Van_Gogh_-_Gipstorso_(weiblich)1.jpeg,1886,"Van Gogh Museum, Amsterdam (F216i)"
+295,Plaster Statuette of a Female Torso,WLANL_-_artanonymous_-_Plaster_Statuette_of_a_Female_Torso_(3).jpg,1886,"Van Gogh Museum, Amsterdam (F216j)"
+296,Bowl with Chrysanthemums,Bowl-with-Chrysanthemums_F217.jpg,1886,Private Collection (F217)
+297,Glass with Roses,Van_Gogh_-_Glas_mit_Rosen.jpeg,1886,"Van Gogh Museum, Amsterdam (F218)"
+298,"Still Life with Apple, Meat, and Bread Rolls","Van_Gogh_-_Stillleben_mit_Apfelkorb,_Fleisch_und_Brötchen.jpeg", 1886," Kröller-Müller Museum, Otterlo (F219) (Attribution to Van Gogh doubtful)"
+299,Vase with Carnations,Van_Gogh_-_Vase_mit_Nelken1.jpeg,1886,"Museum Boijmans Van Beuningen, Rotterdam, Netherlands (F220)"
+300,"Pont du Carrousel and the Louvre, The",Van_Gogh_-_Pont_du_Carrousel_mit_Louvre.jpeg,1886,"Carlsberg Foundation, Copenhagen (F221)"
+301,"Fourteenth of July Celebration in Paris, The",Van_Gogh_-_Der_14._Juli_in_Paris.jpeg,1886,Private Collection (F222)
+302,Lane at the Jardin du Luxembourg,Van_Gogh_-_Allee_im_Jardin_du_Luxembourg.jpeg,1886,"Sterling & Francine Clark Art Institute, Williamstown, Massachusetts (F223)"
+303,"Bois de Boulogne with People Walking, The",Van_Gogh_-_Spaziergänger_im_Bois_de_Boulogne.jpeg,1886,Private Collection (F224)
+304,"Bois de Boulogne with People Walking, The",Van_Gogh_-_Spaziergänger_im_Bois_de_Boulogne1.jpeg,1886,"Noro Foundation, Curaçao, Netherlands Antilles (F225)"
+305,Le Moulin de la Galette,Van_Gogh_-_Le_Moulin_de_la_Galette1.jpeg,1886,"Stiftung Langmatt, Baden, Switzerland (F226)"
+306,Le Moulin de la Galette,Van_Gogh_-_Le_Moulin_de_la_Galette3.jpeg,1886,"Kröller-Müller Museum, Otterlo, Netherlands (F227)"
+307,Le Moulin de la Galette,Vincent_Willem_van_Gogh_066.jpg,1886,"Neue Nationalgalerie, Berlin (F228)"
+308,The Hill of Montmartre with Stone Quarry,Van_Gogh_-_Blick_auf_Montmartre_mit_Steinbruch_und_Mühlen.jpeg,1886,"Van Gogh Museum, Amsterdam (F229)"
+309,"Hill of Montmartre with Quarry, The",Van_Gogh_-_Blick_auf_Montmartre_mit_Steinbruch_und_Mühlen1.jpeg,1886,"Van Gogh Museum, Amsterdam (F230)"
+310,View of Roofs and Backs of Houses,Van_Gogh_-_Blick_auf_die_Dächer_von_Paris.jpeg,1886,"Van Gogh Museum, Amsterdam (F231)"
+311,Sloping Path in Montmartre,Van_Gogh_-_Kleiner_Weg_am_Montmartre.jpeg,1886,"Van Gogh Museum, Amsterdam (F232)"
+312,Vase with Autumn Asters also Vase with Asters and Phlox,Van_Gogh_-_Vase_mit_Astern_und_Phlox.jpeg,1886,"Van Gogh Museum, Amsterdam (F234)"
+313,Vase with Hollyhocks,Van_Gogh_-_Vase_mit_Rosenmalven.jpeg,1886,Kunsthaus Zürich (F235)
+314,Vase with White and Red Carnations,Vase-with-White-and-Red-Carnations_F236.jpg,1886,Private collection (F236)
+315,Vase with Gladioli and Carnations,Van_Gogh_-_Vase_mit_Gladiolen_und_Nelken1.jpeg,1886,"Museum Boijmans Van Beuningen, Rotterdam (F237)"
+316,Terrace of a Cafe on Montmartre (La Guinguette),Van_Gogh_-_Gartenlokal_-La_Guinguette-_auf_dem_Montmartre.jpg,1886,"Musée d'Orsay, Paris (F238)"
+317,Vase with Zinnias and Geraniums,Van_Gogh_-_Vase_mit_Zinnien_und_Geranien.jpeg,1886,"National Gallery of Canada, Ottawa, Canada (F241)"
+318,Vase with Gladioli and Carnations,Van_Gogh_-_Vase_mit_Gladiolen_und_Nelken.jpeg,1886,Private collection (F242)
+319,Vase with Carnations,Vase-with-Carnations_F243.jpg,1886,"Detroit Institute of Arts, Michigan (F243)"
+320,Vase with Myosotis and Peonies,Van_Gogh_-_Vase_mit_Vergißmeinnicht_und_Päonien.jpeg,1886,"Van Gogh Museum, Amsterdam (F243a)"
+321,Tambourine with Pansies,Van_Gogh_-_Tamburin_mit_Stiefmütterchen.jpeg,1886,"Van Gogh Museum, Amsterdam (F244)"
+322,Vase with Carnations,Van_Gogh_-_Vase_mit_Nelken.jpeg,1886,"Stedelijk Museum, Amsterdam (F245)"
+323,Vase of white carnations and roses and bottle,Van_Gogh_-_Vase_mit_weißen_Nelken_und_Röschen_und_Flasche.jpeg, 1886,"Kröller-Müller Museum, Otterlo (F246) (Attribution to Van Gogh doubtful)"
+324,Vase with Red Gladioli,Vincent_Willem_van_Gogh_124.jpg,1886,Private collection (F247)
+325,Vase with Red Gladioli,Van_Gogh_-_Vase_mit_roten_Gladiolen.jpeg,1886,Private collection (F248)
+326,Vase with Gladioli,Van_Gogh_-_Vase_mit_Gladiolen.jpeg,1886,"Van Gogh Museum, Amsterdam (F248a)"
+327,Vase with Red Gladioli,Van_Gogh_-_Vase_mit_roten_Gladiolen3.jpeg,1886,"Musée Jenisch, Vevey, Switzerland (F248b)"
+328,Bowl with Peonies and Roses,Van_Gogh_-_Schale_mit_Pfingstrosen_und_Rosen.jpeg,1886,"Kröller-Müller Museum, Otterlo, Netherlands (F249)"
+329,"Bowl with Sunflowers, Roses and Other Flowers",Vincent_Willem_van_Gogh_123.jpg,1886,"Kunsthalle Mannheim, Mannheim, Germany (F250)"
+330,Bowl with Zinnias and Other Flowers also Vase with Zinnias and Other Flowers,Van_Gogh_-_Vase_mit_Feldblumen.jpeg,1886,"National Gallery of Canada, Ottawa, Canada (F251)"
+331,Vase with Zinnias,Van_Gogh_-_Vase_mit_Zinnien.jpeg,1886,"Kreeger Museum, Washington D.C. (F252)"
+332,"Still life with bottle, two glasses, cheese and bread","Van_Gogh_-_Stillleben_mit_Flasche,_Zwei_Gläsern,_Käse_und_Brot.jpeg",  1886," Van Gogh Museum, Amsterdam (F253)"
+333,A Pair of Shoes,Vincent_Willem_van_Gogh_118.jpg,1886,"Van Gogh Museum, Amsterdam (F255)"
+334,Still Life with Mussels and Shrimps,Van_Gogh_-_Stillleben_mit_Muscheln_und_Garnelen.jpeg,1886,"Van Gogh Museum, Amsterdam (F256)"
+335,White Vase with Roses and Other Flowers,Van_Gogh_-_Vase_mit_Rosen_und_anderen_Blumen.jpeg,1886,Private collection (F258)
+336,Vase with Carnations and Zinnias,Vase-with-Carnations-and-Zinnias_F259.jpg,1886,Private collection (F259)
+337,View of the Roofs of Paris,Van_Gogh_-_Blick_auf_Paris_gegen_Meudon.jpeg,1886,"Van Gogh Museum, Amsterdam (F261)"
+338,View of Paris from Montmartre,Van_Gogh_-_Blick_auf_Paris_vom_Montemartre.jpeg,1886,"Kunstmuseum Basel, Basel, Switzerland (F262)"
+339,Portrait of Père Tanguy,Van_Gogh_-_Bildnis_Père_Tanguy.jpeg,1886–87,"Ny Carlsberg Glyptotek, Copenhagen (F263)"
+340,Outskirts of Paris,Van_Gogh_-_Am_Stadtrand_von_Paris.jpeg,1886,Private collection (F264)
+341,Shelter on Montmartre,Van_Gogh_-_Schuppen_am_Montmartre_mit_Sonnonblume.jpeg,1886,"Legion of Honor (museum), San Francisco (F264a)"
+342,View of Paris from near Montmartre,View-of-paris-from-near-montmartre-1886.jpg,1886,"National Gallery of Ireland, Dublin (F265)"
+343,The Hill of Montmartre also View of Montmartre with Windmills,Van_Gogh_-_Blick_auf_Montmartre_mit_Mühlen.jpeg,1886,"Kröller-Müller Museum, Otterlo, Netherlands (F266)"
+344,Windmill on Montmartre (b/w copy),Van_Gogh_-_Windmühle_auf_dem_Montmartre.jpeg,1886,Destroyed by fire in 1967 (F271)
+345,"Terrace and Observation Deck at the Moulin de Blute-Fin, Montmartre",Van_Gogh_-_Montmartre_bei_der_oberen_Mühle.jpeg,1886,Art Institute of Chicago (F272)
+346,Le Moulin de Blute-Fin,Van_Gogh_-_Montmartre_mit_Mühlen_und_Gemüsegärten.jpeg,1886,"Bridgestone Museum of Art, Tokyo (F273)"
+347,"Le Moulin de la Galette also The Blute-Fin Windmill, Montmartre",Van_Gogh_-_Le_Moulin_de_la_Galette.jpeg,1886,Kelvingrove Art Gallery and Museum Glasgow (F274)
+348,Le Moulin de blute-fin,Le-Blute-Fin-Windmill-1886.jpg,1886,"Museum de Fundatie, Zwolle, Netherlands[5]"
+349,"Vase with cornflowers and poppies, peonies and chrysanthemums","Van_Gogh_-_Vase_mit_Mohn-_und_Kornblumen,_Pfingstrosen_und_Chrysanthemen.jpeg",  1886," Kröller-Müller Museum, Otterlo (F278) "
+350,Vase with Red Poppies,Van_Gogh_-_Vase_mit_rotem_Klatschmohn.jpeg,1886,"Wadsworth Atheneum, Hartford (F279)  "
+351,Coleus Plant in a Flowerpot,Van_Gogh_-_Blumentopf_mit_Buntnessel.jpeg,1886,"Van Gogh Museum, Amsterdam (F281)"
+352,Cineraria in a Flowerpot,Van_Gogh_-_Blumentopf_mit_Aschenkraut.jpeg,1886,"Museum Boijmans Van Beuningen, Rotterdam, Netherlands (F282)"
+353,Still Life with Bloaters also Still Life: The Saurs Herrings,Van_Gogh_-_Stillleben_mit_Bücklingen1.jpeg,1886,"Kunstmuseum, Basel, Switzerland(F283)"
+354,"Vase with Asters, Salvia and Other Flowers","Van_Gogh_-_Vase_mit_Astern,_Salbei_und_anderen_Blumen.jpeg",1886,"Gemeentemuseum Den Haag, The Hague, Netherlands(F286)"
+355,Vase with Gladioli and Lilac,Van_Gogh_-_Vase_mit_Gladiolen_und_Flieder.jpeg,1886,Private collection (F286a)
+356,Poppy Flowers also Vase with Viscaria,Van_Gogh_-_Vase_mit_Pechnelken.jpeg,1886,"Stolen August 2010 from Mohammed Mahmoud Khalil palace, Cairo (F324a)"
+357,Vase with Red and White Carnation on a Yellow Background,Van_Gogh_-_Vase_mit_roten_und_weißen_Nelken_auf_gelbem_Hintergrund.jpeg,1886," Kröller-Müller Museum, Otterlo (F327) (Attribution to Van Gogh doubtful)"
+358,A Pair of Shoes,Van_Gogh_-_Ein_Paar_Schuhe3.jpeg,1886,"Van Gogh Museum, Amsterdam (F331)"
+359,Three Pairs of Shoes,Van_Gogh_-_Drei_Paar_Schuhe.jpeg,1886,"Harvard Art Museums (Fogg Art Museum), Harvard University, Cambridge (F332)"
+360,Le Moulin de la Galette,Van_Gogh_-_Le_Moulin_de_la_Galette5.jpeg,1886,"Museo Nacional de Bellas Artes (Buenos Aires), Argentina (F348)"
+361,Le Moulin de la Galette,Van_Gogh_-_Le_Moulin_de_la_Galette8.jpeg,1886,"Carnegie Museum of Art, Pittsburg (F348a)"
+362,Le Moulin de la Galette,Van_Gogh_-_Le_Moulin_de_la_Galette4.jpeg,1886,Private collection (F349)
+363,Vase with Carnations and Other Flowers,Van_Gogh_-_Vase_mit_Nelken_und_anderen_Blumen.jpeg,1886,"Kreeger Museum, Washington D.C. (F596)"
+364,Still Life with Scabiosa and Ranunculus,Van_Gogh_-_Stillleben_mit_Skabiosen_und_Ranunkeln.jpeg,1886,"Takahata Art Gallery, Osaka (F666)"
+365,Vase with Peonies,Van_Gogh_-_Vase_mit_Pfingstrosen.jpeg,1886,Private collection (F666a)
+366,"Still Life with Meat, Vegetables and Pottery","Van_Gogh_-_Stillleben_mit_Fleisch,_Gemüse_und_Steingut.jpeg",1886,Private collection (F1670)
+367,"Still Life with Two Herrings, a Cloth and a Glass","Van_Gogh_-_Stillleben_mit_Heringen,_Serviette_und_Glas.jpeg",1886,Private collection (F1671)
+368,"Twilight, before the Storm: Montmartre",Van_Gogh_-_Blick_auf_Montemartre_vor_einem_Gewitter.jpeg,1886,Private collection (F1672)
+369,Bowl with Daffodils,Bowl_with_Daffodils_van_Gogh_jh_add01.jpg,1886,"Private collection (F none, Add 1)"
+370,Vase with Gladioli,Bowl_with_Daffodils_van_Gogh_jh_add01.jpg,1886,"Private collection (F none, JH none)"
+371,Still life with meadow flowers and roses,Still_life_with_meadow_flowers_and_roses_Van_Gogh_1886.jpg,1886,"Kröller-Müller Museum, Otterlo, Netherlands"
+372,Portrait of the Art Dealer Alexander Reid; Sitting in an Easy Chair,Portrait_of_Alexander_Reid.jpg,1886–87,"Fred Jones Jr. Museum of Art, Norman, Oklahoma (F270) "
+373,Portrait of a Man with a Moustache,Van_Gogh_-_Bildnis_eines_Mannes_mit_Schnurrbart.jpeg,1886–87,Location unknown (F288)
+374,Portrait of a Man with a Skull Cap (Etienne-Lucien Martin),Van_Gogh_-_Bildnis_eines_Mannes_mit_Käppchen.jpeg,1886–87,"Van Gogh Museum, Amsterdam (F289)"
+375,Self-Portrait with Grey Felt Hat,Van_Gogh_Self-Portrait_with_Grey_Felt_Hat_1886-87_Rijksmuseum.jpg,1886-87,"Rijksmuseum, Amsterdam (F295)"
+376,Portrait of a Woman (Madame Tanguy?),Van_Gogh_-_Bildnis_einer_Frau_(Madame_Tangux).jpeg,1886–87?,"Kunstmuseum, Basel, Switzerland (F357)"
+377,Self-Portrait with Felt Hat (reverse image),Van_Gogh_-_Selbstbildnis_mit_Strohhut1.jpeg,1887,"Van Gogh Museum, Amsterdam, Netherlands (F61v)"
+378,Self-portrait,Self-Portrait9_Van_Gogh.jpg,1887,"Van Gogh Museum, Amsterdam (F77v)"
+379,Self-Portrait,Van_Gogh_-_Selbsbildnis13.jpeg,1887,"Van Gogh Museum, Amsterdam (F109v)"
+380,Self-Portrait with Straw Hat and a Pipe (reverse image),Van_Gogh_-_Selbstbildnis_mit_Strohhut_und_Pfeife.jpeg,1887,"Van Gogh Museum, Amsterdam (F179v)"
+381,Fritillaries in a Copper Vase,Van_Gogh_-_Kaiserkronen_in_einer_Kupfervase.jpeg,1887,"Musée d'Orsay, Paris (F213)"
+382,Plaster Statuette of a Female Torso,Van_Gogh_-_Gipstorso_(weiblich)8.jpeg,1887–88,Private collection (F216)
+383,Roadway with Underpass (The Viaduct),Van_Gogh_-_Viadukt_in_Paris.jpeg,1887,"Solomon R. Guggenheim Museum, New York (F239)"
+384,The Seine Bridge at Asnieres,Van_Gogh_-_Seinebrücke_bei_Asnières.jpeg,1887,Private collection (F240) 
+385,Still Life with Apples,Van_Gogh_-_Stillleben_mit_Äpfeln.jpeg,1887–88,"Van Gogh Museum, Amsterdam (F254)"
+386,Self-Portrait with Pipe and Glass,Van_Gogh_-_Selbstbildnis_mit_Pfeife_und_Glas.jpeg,1887,"Van Gogh Museum, Amsterdam (F263a)"
+387,Factories Seen from a Hillside in Moonlight,Van_Gogh_-_Landschaft_mit_Fabriken_im_Mondlicht.jpeg,1887,"Van Gogh Museum, Amsterdam (F266a)"
+388,Self-Portrait,Self-Portrait2.jpg,1887,"Van Gogh Museum, Amsterdam (F267)"
+389,Self-Portrait,Self-Portrait6.jpg,1887,"Wadsworth Atheneum, Hartford, Connecticut (F268)"
+390,Self-Portrait,Self-Portrait7.jpg,1887,"Van Gogh Museum, Amsterdam (F269v)"
+391,Chestnut Tree in Blossom,Van_Gogh_-_Blühender_Kastanienbaum.jpeg,1887,"Van Gogh Museum, Amsterdam (F270a)"
+392,Lane in Voyer d'Argenson Park at Asnieres,Van_Gogh_-_Weg_im_Park_Voyer_d'Argenson_in_Asnières.jpeg,1887,"Yale University Art Gallery, New Haven, Connecticut (F275)"
+393,Lane in Voyer d'Argenson Park at Asnieres,Van_Gogh_-_Weg_im_Park_Voyer_d'Argenson_in_Asniéres.jpeg,1887,"Yale University Art Gallery, New Haven, Connecticut (F276)"
+394,Avenue in Voyer d'Argenson Park at Asnieres,Van_Gogh_-_Allee_im_Park_d'Argenson_in_Asnierès.jpeg,1887,Private collection (F277)
+395,Still Life with Bloaters and Garlic,Van_Gogh_-_Stillleben_mit_Bücklingen_und_Knoblauchzwiebeln.jpeg,1887,"Bridgestone Museum of Art, Tokyo (F283b)"
+396,Lilacs,Van_Gogh_-_Flieder.jpeg,1887,"Hammer Museum, Los Angeles (286b)"
+397,Trees in a Field on a Sunny Day,Van_Gogh_-_Baumstämme_im_Sonnenlicht.jpeg,1887,"Private collection, Amsterdam (F291)"
+398,Boulevard de Clichy,Van_Gogh_-_Boulvard_de_Chlichy.jpeg,1887,"Van Gogh Museum, Amsterdam (F292)"
+399,The Banks of the Seine,Van_Gogh_-_Seineufer.jpeg,1887,"Van Gogh Museum, Amsterdam (F293)"
+400,Portrait of Theo van Gogh,"Vincent_van_Gogh,_Portrait_of_Theo_van_Gogh_(1887).jpg",1887,"Van Gogh Museum, Amsterdam (F294)"
+401,Self-Portrait with Grey Felt Hat,Vincent_Willem_van_Gogh_108.jpg,1887,"Van Gogh Museum, Amsterdam (F296)"
+402,Skull,Van_Gogh_-_Schädel1.jpeg,1887–88,"Van Gogh Museum, Amsterdam (F297)"
+403,Skull,Van_Gogh_-_Schädel.jpeg,1887–88,"Van Gogh Museum, Amsterdam (F297a)"
+404,The Seine with a Rowing Boat (b/w copy),Van_Gogh_-_Die_Seine_mit_Ruderboot.jpeg,1887,Private collection (F298)
+405,Walk Along the Banks of the Seine Near Asnieres,Van_Gogh_-_Spaziergang_am_Ufer_der_Seine_bei_Asnières.jpeg,1887,"Van Gogh Museum, Amsterdam (F299)"
+406,View of a River with Rowing Boats,Van_Gogh_-_Flußlandschaft_mit_Ruderbooten_am_Ufer.jpeg,1887,Private collection (F300)
+407,The Seine Bridge at Asnieres,Vincent_van_Gogh_-_Bridges_across_the_Seine_at_Asnieres.jpg,1887,"Foundation E.G. Bührle Collection, Zurich (F301)"
+408,Banks of the Seine with the Pont de Clichy,Van_Gogh_-_Seineufer_bei_der_Pont_de_Clichy.jpeg,1887,"Private collection of Philip Niarchos or Tate Gallery, London (F302)"
+409,Bridges at Asniers also The Seine with the Pont de Clichy,Van_Gogh_-_Die_Seine_mit_der_Pont_de_Clichy.jpeg,1887,"Wallraf-Richartz Museum, Cologne, Germany (F303)"
+410,The Seine with the Pont de la Grande Jatte,WLANL_-_artanonymous_-_De_Seine_met_de_Pont_de_la_Grande_Jatte.jpg,1887,"Van Gogh Museum, Amsterdam (F304)"
+411,Entrance of Voyer d'Argenson Park at Asnières,Entrata_Parco_Vincent_van_Gogh.jpg,1887,Private Collection (F305)
+412,Undergrowth,Van_Gogh_-_Unterholz.jpeg,1887,"Centraal Museum, Utrecht, Netherlands (F306)"
+413,Trees and Undergrowth,Van_Gogh_-_Bäume_und_Unterholz.jpeg,1887,"Van Gogh Museum, Amsterdam (F307)"
+414,Undergrowth,Van_Gogh_-Unterholz.jpeg,1887,"Van Gogh Museum, Amsterdam (F308)"
+415,Path in the Woods,Van_Gogh_-_Waldweg.jpeg,1887,"Van Gogh Museum, Amsterdam (F309)"
+416,Trees and Undergrowth,Van_Gogh_-_Bäume_und_Unterholz2.jpeg,1887,"Van Gogh Museum, Amsterdam (F309a)"
+417,Wheat Field with a Lark,Van_Gogh_-_Getreidefeld_mit_Mohnblumen_und_Lerche.jpeg,1887," reportedly at Van Gogh Museum, Amsterdam (F310)"
+418,Edge of a Wheatfield with Poppies,Van_Gogh_-_Rand_eines_Weizenfeldes_mit_Mohnblumen.jpeg,1887,Private collection (image shown illustratively is the black/white drawing) (F310a)
+419,Bathing Float on the Seine at Asnieres,Van_Gogh_-_Badeboot_an_der_Seine_bei_Asnières.jpeg,1887,"Virginia Museum of Fine Arts, Richmond, Virginia (F311)"
+420,"The Restaurant de la Sirène, Asnières",Van_Gogh_-_Das_Restaurant_de_la_Sirène_in_Asnières.jpeg,1887,"Ashmolean Museum, Oxford, England (F312)"
+421,The Restaurant de la Sirène at Asnières,Van_Gogh_-_Das_Restaurant_de_la_Siréne_in_Asniéres.jpeg,1887,"Musée d'Orsay, Paris (F313)"
+422,Couples in the Voyer d'Argenson park at Asnieres,WLANL_-_artanonymous_-_Verliefde_paartjes_in_het_park_Voyer_d'Argenson_te_Asnières.jpg,1887,"Van Gogh Museum, Amsterdam (F314)"
+423,Corner of Voyer d'Argenson Park at Asnieres,Van_Gogh_-_Winkel_im_Park_Voyer_d'_Argeson_in_Asnières.jpeg,1887,Private collection (F315)
+424,Vegetable Gardens in Montmartre: La Butte Montmartre,Van_Gogh_-_Gemüsegärten_am_Montmartre.jpeg,1887,"Van Gogh Museum, Amsterdam (F316)"
+425,Factories at Asnieres Seen from the Quai de Clichy,"Vincent_van_Gogh_-_Factories_at_Asnières,_Seen_from_the_Quai_de_Clichy.jpg",1887,"Saint Louis Art Museum, St. Louis, Missouri (F317)"
+426,The Factory at Asnieres,Van_Gogh_The_Factory_at_Asnieres.jpg,1887,"Barnes Foundation, Merion, Pennsylvania (F318)"
+427,Self-Portrait with a Japanese Print,Van_Gogh_-_Selbstbildnis_mit_japanischen_Druck.jpeg,1887,"Kunstmuseum Basel, Switzerland (F319)"
+428,Self-Portrait,Van_Gogh_Self-Portrait_Autumn_1887.jpg,1887,"Musée d'Orsay, Paris (F320)"
+429,Exterior of a Restaurant at Asnieres,Van_Gogh_-_Eingang_eines_Restaurants_in_Asnières.jpeg,1887,"Van Gogh Museum, Amsterdam (F321)"
+430,"Vase with Lilacs, Daisies and Anemones","Van_Gogh_-_Vase_mit_Flieder,_Margeriten_und_Anemonen.jpeg",1887,Musée d'Art et d'Histoire (Geneva) (F322)
+431,Vase with Daisies and Anemones,Van_Gogh_-_Vase_mit_Margeriten_und_Anemonen.jpeg,1887,"Kröller-Müller Museum, Otterlo (F323)"
+432,Vase with Cornflowers and Poppies,Vase-with-Cornflowers-and-Poppies_F324.jpg,1887,Private collection (F324)
+433,Nude Woman Reclining (Recumbent Nude),Van_Gogh_-_Weiblicher_Rückenakt.jpeg,1887,"Kröller-Müller Museum, Otterlo, Netherlands (F328)"
+434,"Nude Woman Reclining, Seen from the Back",Van_Gogh_-_Liegender_weiblicher_Akt.jpeg,1887,Private collection (F329)
+435,Nude Woman on a Bed,Van_Gogh_Nude_Woman_on_a_Bed.jpg,1887,"Barnes Foundation, Merion, Pennsylvania (F330)"
+436,A Pair of Boots,Van_Gogh_-_Ein_Paar_Schuhe1.jpeg,1887,"Baltimore Museum of Art, Baltimore, Maryland (F333)"
+437,Still Life with a Basket of Crocuses,Van_Gogh_-_Stillleben_mit_Krokussen_in_einem_Korb.jpeg,1887,"Van Gogh Museum, Amsterdam (F334)"
+438,Still Life with Three Books,Van_Gogh_-_Stillleben_mit_drei_Büchern.jpeg,1887,"Van Gogh Museum, Amsterdam (F335)"
+439,Basket of Sprouting Bulbs,Van_Gogh_-_Korb_mit_Blumenzwiebeln.jpeg,1887,"Van Gogh Museum, Amsterdam (F336)"
+440,Flowerpot with Chives,Van_Gogh_-_Blumentopf_mit_Schnittlauch.jpeg,1887,"Van Gogh Museum, Amsterdam (F337)"
+441,Still Life with Lemons on a plate,Van_Gogh_-_Stillleben_mit_Zitronen_auf_einem_Teller.jpeg,1887,"Van Gogh Museum, Amsterdam (F338)"
+442,Still Life with Glass of Absinthe and a Carafe,Van_Gogh_-_Still_Life_with_Absinthe.jpg,1887,"Van Gogh Museum, Amsterdam (F339)"
+443,Still Life with Decanter and Lemons on a Plate,Van_Gogh_-_Stillleben_mit_Flasche_und_Zitronen_auf_einem_Teller.jpeg,1887,"Rijksmuseum, Amsterdam (F340)"
+444,View of Paris from Vincent's Room in the Rue Lepic,Zicht_op_Parijs_vanuit_Vincents_kamer_in_de_rue_Lepic.jpg,1887,"Van Gogh Museum, Amsterdam (F341)"
+445,View from Vincent's Window,Van_Gogh_-_Blick_auf_Paris_aus_Vincents_Zimmer_in_der_Rue_Lepic1.jpeg,1887,Private collection (F341a)
+446,Interior of a Restaurant,Van_Gogh_-_Interieur_eines_Restaurants.jpeg,1887,"Kröller-Müller Museum, Otterlo, Netherlands (F342)"
+447,Portrait of the Art Dealer Alexander Reid,Van_Gogh_-_Bildnis_des_Kunsthändlers_Alexander_Reid.jpeg,1887,"Kelvingrove Art Gallery and Museum, Glasgow, Scotland (F343)"
+448,Self-Portrait,VanGogh_1887_Selbstbildnis.jpg,1887,Art Institute of Chicago (F345)
+449,Vegetable Gardens in Montmartre: La Butte Montmartre,Van_Gogh_-_Gemüsegärten_auf_dem_Montmartre.jpeg,1887,"Van Gogh Museum, Amsterdam (F346)"
+450,Street Scene in Montmartre: Le Moulin a Poivre,Vincent_Willem_van_Gogh_133.jpg,1887,"Van Gogh Museum, Amsterdam (F347)"
+451,Le Moulin de la Galette,Van_Gogh_-_Le_Moulin_de_la_Galette8.jpeg,1887,"Carnegie Museum of Art, Pittsburgh, Pennsylvania (F348a)"
+452,Vegetable Gardens in Montmartre: La Butte Montmartre,Vincent_Willem_van_Gogh_045.jpg,1887,"Stedelijk Museum, Amsterdam (F350)"
+453,On the Outskirts of Paris,Van_Gogh_-_Am_Stadtrand_von_Paris1.jpeg,1887,Private Collection (F351)
+454,River Bank in Springtime also Banks of the Seine with the Pont de Clichy,Van_Gogh_-_Seineufer_im_Frühling_an_der_Pont_de_Clichy.jpeg,1887,"Dallas Museum of Art, Dallas, Texas (F352)"
+455,The Banks of the Seine with Boats (b/w copy),Van_Gogh_-_Seineufer_mit_Booten.jpeg,1887,Private collection (F353)
+456,"Fishing in Spring, the Pont de Clichy (Asnières)",Van_Gogh_-_Angler_und_Boote_an_der_Pont_de_Clichy.jpeg,1887,Art Institute of Chicago (F354)
+457,The Rispal Restaurant at Asnières,Van_Gogh_-_Das_Restaurant_Rispal_in_Asniéres.jpeg,1887,"Nelson-Atkins Museum of Fine Art, Kansas City (F355) "
+458,Self-Portrait,Self-Portrait4.jpg,1887,"Van Gogh Museum, Amsterdam (F356)"
+459,Still Life with Piles of French Novels and a Glass with a Rose (Romans Parisiens),Libri_Vincent_van_Gogh.jpg,1887,"Private Collection, Switzerland (F359)"
+460,"Still Life with Plaster Statuette, a Rose and Two Novels","Van_Gogh_-_Stillleben_mit_Gipstorso,_einer_Rose_und_zwei_Romanen.jpeg",1887,"Kröller-Müller Museum, Otterlo (F360)"
+461,Outskirts of Paris: Road with Peasant Shouldering a Spade,Van_Gogh_-_Straße_am_Stadtrand_von_Paris_mit_Männlicher_Figur_mit_Spaten.jpeg,1887,Private collection (F361)
+462,Park at Asnieres in Spring,Van_Gogh_-_Park_in_Asnières_im_Frühling.jpeg,1887,Private collection (F362)
+463,Portrait of Pére Tanguy,Van_Gogh_-_Portrait_of_Pere_Tanguy_1887-8.JPG,1887,"Musée Rodin, Paris, France (F363)"
+464,Woman Sitting in the Grass,"Van_Gogh_-_Frau,_im_Gras_sitzend.jpeg",1887,Private collection (F367)
+465,A Woman Walking in a Garden,Vangogh_femme-dans-un-jardin.jpg,1887,Private collection (F368)
+466,"Mother by a Cradle, Portrait of Leonie Rose Davy-Charbuy","Van_Gogh_-_Frau,_neben_einer_Wiege_sitzend.jpeg",1887,"Van Gogh Museum, Amsterdam (F369)"
+467,Agostina Segatori Sitting in the Café du Tambourin,Vincent_van_Gogh_-_In_the_café_-_Agostina_Segatori_in_Le_Tambourin_-_Google_Art_Project_2.jpg,1887,"Van Gogh Museum, Amsterdam (F370)"
+468,Japonaiserie: Flowering Plum Tree after Hiroshige's Plum Park in Kameido,Vincent_van_Gogh_-_Bloeiende_pruimenboomgaard-_naar_Hiroshige_-_Google_Art_Project.jpg,1887,"Van Gogh Museum, Amsterdam (F371)"
+469,Japonaiserie: Bridge in the Rain after Hiroshige's Sudden Shower over Shin-Ōhashi bridge and Atake,Van_Gogh_-_Die_Brücke_im_Regen_(nach_Hiroshige).jpeg,1887,"Van Gogh Museum, Amsterdam (F372)"
+470,The Courtesan (after Eisen) and Copy after Eisen,Van_Gogh_-_la_courtisane.jpg,1887,"Van Gogh Museum, Amsterdam (F373)"
+471,Still Life with Red Cabbages and Onions,WLANL_-_artanonymous_-_Still_Life_with_Red_Cabbages_and_Onions.jpg,1887,"Van Gogh Museum, Amsterdam (F374)"
+472,Two Cut Sunflowers,Vincent_van_Gogh_-_Sunflowers_(Metropolitan_Museum_of_Art).jpg,1887,"Metropolitan Museum of Art, New York (F375)"
+473,Two Cut Sunflowers,Van_Gogh_-_Zwei_abgeschnittene_Sonnenblumen1.jpeg,1887,"Kunstmuseum Bern, Switzerland (F376)"
+474,Two Cut Sunflowers,Van_Gogh_-_Zwei_abgeschnittene_Sonnenblumen.jpeg,1887,"Van Gogh Museum, Amsterdam (F377)"
+475,Still Life with Basket of Apples (to Lucien Pissarro),Van_Gogh_-_Stillleben_mit_Apfelkorb_(Lucien_Pissarro_gewidmet).jpeg,1887,"Kröller-Müller Museum, Otterlo, Netherlands (F378)"
+476,Still Life with Basket of Apples,Van_Gogh_-_Stillleben_mit_Apfelkorb4.jpeg,1887–88,"Saint Louis Art Museum, St Louis, Missouri (F379)"
+477,Self-Portrait,Self-Portrait3.jpg,1887,"Kröller-Müller Museum, Otterlo, Netherlands (F380)"
+478,Italian Woman (Agostina Segatori),L'italiana.jpg,1887,"Musée d'Orsay, Paris (F381)"
+479,"Still Life with Apples, Pears, Lemons and Grapes","Van_Gogh_-_Stillleben_mit_Trauben,_Äpfeln,_Zitronen_und_Birne.jpeg",1887,Art Institute of Chicago (F382)
+480,"Still Life with Grapes, Pears and Lemons","Van_Gogh_-_Stillleben_mit_Trauben,_Birnen_und_Zitronen.jpg",1887,"Van Gogh Museum, Amsterdam (F383)"
+481,Garden with Sunflowers,Van_Gogh_-_Garten_mit_Sonnenblume_und_weiblicher_Figur.jpeg,1887,"Van Gogh Museum, Amsterdam (F388v)"
+482,Four Sunflowers Gone to Seed,Four_Withered_Sunflowers.jpg,1887,"Kröller-Müller Museum, Otterlo, Netherlands (F452)"
+483,Self-Portrait with Straw Hat,Vincent_van_Gogh_-_Zelfportret_-_Google_Art_Project.jpg,1887,"Van Gogh Museum, Amsterdam, Netherlands (F469)"
+484,Self-Portrait with Straw Hat and Pipe,Vincent_Willem_van_Gogh_110.jpg,1887,"Van Gogh Museum, Amsterdam (F524)"
+485,Self-Portrait with Straw Hat,Van_Gogh_Self-Portrait_with_Straw_Hat_1887-Detroit.jpg,1887,"Detroit Institute of Arts, Michigan (F526)"
+486,Pasture in Bloom,Van_Gogh_-_Blühende_Wiese.jpeg,1887,"Kröller-Müller Museum, Otterlo, Netherlands (F583)"
+487,Chrysanthemums and Wild Flowers in a Vase,Van_Gogh_-_Vase_mit_Chrysanthemen_und_Feldblumen.jpeg,1887,"Metropolitan Museum of Art, New York (F588)"
+488,Still Life with Quince Pears,Van_Gogh_-_Stillleben_mit_Birnen.jpeg,1887,"Galerie Neue Meister, Dresden, Germany (F602)"
+489,Still Life with Grapes,Van_Gogh_-_Stillleben_mit_Weintrauben.jpeg,1887,"Van Gogh Museum, Amsterdam (F603)"
+490,House with Sunflowers (b/w copy),Van_Gogh_-_Haus_mit_Sonnenblumen.jpeg,1887,Private collection (F810)
+491,Self-Portraits (pencil and ink),Van_Gogh_-_Selbstbildnisse.jpeg,1887,"Van Gogh Museum, Amsterdam (F1378r)"
+492,Street Scene in Montmartre,Van_Gogh_-_Straßenszene_auf_dem_Montmartre.jpeg,1887,"Private collection (No F number, JH1240)"
+493,"The Fortifications of Paris with Houses or The Ramparts of Paris, watercolor",The_Fortifications_of_Paris_with_Houses_or_The_Ramparts_of_Paris_f_1403.jpg,1887,"Whitworth Art Gallery, Manchester, England (F1403)"
+494,"Outskirts of Paris near Montmartre, watercolor",Van_Gogh_-_Am_Stadtrand_von_Paris_nahe_Montmartre.jpeg,1887," Stedelijk Museum, Amsterdam (F1410)"
+495,Flowers in a Blue Vase,Van_Gogh_-_Flowers_in_a_blue_vase_-_June_1887.jpg,1887,"Private collection (no F#, Add20)  "
+496,Portrait of Père Tanguy,Van_Gogh_-_Bildnis_Père_Tanguy1.jpeg,1887-88,"Private collection of Philip Niarchos or Tate Gallery, London (F364)"
+497,Self-Portrait with Felt Hat,Vincent_Willem_van_Gogh_107.jpg,1887-1888,"Van Gogh Museum, Amsterdam, Netherlands (F344)"
+498,Self-Portrait with Straw Hat,Van_Gogh_Self-Portrait_with_Straw_Hat_1887-Metropolitan.jpg,1887–88,"Metropolitan Museum of Art, New York (F365v)"
+499,Self-Portrait,Van_Gogh_-_Selbstbildnis_29.jpeg,1887-88,"Foundation E.G. Bührle Collection, Zürich (F366)"
+500,Landscape with Snow,Van_Gogh_-_Landschaft_im_Schnee.jpg,1888,"Solomon R. Guggenheim Museum, New York (F290)"
+501,Boats at Saintes-Maries,GUGG_Boats_at_Saintes-Maries.jpg,1888,"Solomon R. Guggenheim Museum, New York"
+502,Still Life: French Novels,Van_Gogh_-_Stillleben_mit_französischen_Romanen.jpeg,1888,"Van Gogh Museum, Amsterdam (F358)"
+503,"Still Life: Bottle, Oranges, and a Basket of Lemons","Van_Gogh_-_Stillleben_mit_Flasche,_Zitronen_und_Orangen.jpeg",1888,"Kröller-Müller Museum, Otterlo, Netherlands (F384)"
+504,Still Life: Potatoes in a Yellow Dish,Van_Gogh_-_Stillleben_mit_Kartoffeln_in_gelber_Schüssel.jpeg,1888,"Kröller-Müller Museum, Otterlo, Netherlands (F386)"
+505,A Pork-Butcher's Shop Seen from a Window,"Van_Gogh_-_Metzgerei,_durch_ein_Fenster_gesehen.jpeg",1888,"Van Gogh Museum, Amsterdam, Netherlands (F389)"
+506,An Old Woman of Arles,Van_Gogh_-_Alte_Frau_aus_Arles.jpeg,1888,"Van Gogh Museum, Amsterdam, Netherlands (F390)"
+507,Snowy Landscape with Arles in the Background,Van_Gogh_-_Landschaft_im_Schnee_mit_Arles_im_Hintergrund.jpeg,1888,"Private Collection, London (F391)"
+508,Blossoming Almond Branch in a Glass,Van_Gogh_-_Blühender_Mandelbaumzweig_in_einem_Glas.jpeg,1888,"Van Gogh Museum, Amsterdam, Netherlands (F392)"
+509,Blossoming Almond Branch in a Glass with a Book,Vincent_van_Gogh_-_Blossoming_Almond_Branch_in_a_Glass_with_a_Book.jpg,1888,Private collection (F393) 
+510,Pink Peach Tree in Blossom (Souvenir de Mauve),Vincent_Willem_van_Gogh_113.jpg,1888,"Kröller-Müller Museum, Otterlo, Netherlands (F394)"
+511,Still Life with Basket and Six Oranges,Van_Gogh_-_Stillleben_mit_Apfelsinenkorb.jpeg,1888,Private collection (F395)
+512,The Gleize Bridge over the Vigueirat Canal,Van_Gogh_-_Pont_de_Gleize_bei_Arles.jpeg,1888,Private collection (F396)
+513,The Langlois Bridge at Arles with Women Washing,Van_Gogh_-Die_Brücke_von_Langlois_in_Arles_mit_Wäscherinnen.jpeg,1888,"Kröller-Müller Museum, Otterlo, Netherlands (F397)"
+514,Avenue of Plane Trees near Arles Station,"Le_Train_Bleu,_by_Vincent_van_Gogh,_from_C2RMF.jpg",1888,"Musée Rodin, Paris, France (F398)"
+515,Apricot Trees in Blossom,Van_Gogh_-_Blühender_Obstgarten_mit_Aprikosenbäumen.jpeg,1888,"Collection Continental Art Holdings, Ltd., Johannesburg (F399)"
+516,The Langlois Bridge at Arles with Road Alongside the Canal,Van_Gogh_-Die_Brücke_von_Langlois_in_Arles.jpeg,1888,"Van Gogh Museum, Amsterdam (F400)"
+517,The White Orchard,Van_Gogh_-_Obstgarten_mit_blühenden_Pflaumenbäumen.jpg,1888,"Van Gogh Museum, Amsterdam (F403)"
+518,Peach Tree in Blossom,Vincent_Willem_van_Gogh_014.jpg,1888,"Van Gogh Museum, Amsterdam, Netherlands (F404)"
+519,Blossoming Pear Tree,WLANL_-_artanonymous_-_Bloeiend_perenboompje.jpg,1888,"Van Gogh Museum, Amsterdam (F405)"
+520,Orchard and House with Orange Roof (Orchard in Blossom),Van_Gogh_-_Blühender_Obstgarten2.jpeg,1888,"Private Collection, Switzerland (F406)"
+521,"Path Through a Field with Willows, b/w copy",Van_Gogh_-_Pfad_durch_eine_Wiese_mit_Weiden.jpeg,1888,Private collection (F407)
+522,Farmhouse in a Wheat Field,Farmhouses_in_a_Wheat_Field.jpg,1888,"reportedly at Van Gogh Museum, Amsterdam (F408)"
+523,View of Arles with Irises in the Foreground (Field with Flowers),VanGogh-View_of_Arles_with_Irises.jpg,1888,"Van Gogh Museum, Amsterdam (F409)"
+524,"Still Life: Coffeepot, Earthenware and Fruit","Van_Gogh_-_Stillleben_mit_Kaffeekanne,_Geschirr_und_Früchten.jpeg",1888,"Collection Basil P. and Elise Goulandris, Lausanne, Switzerland (F410)"
+525,Wheat Field also Wheat Field with the Alpilles Foothills in the Background,Van_Gogh_-_Weizenfeld_mit_Hügeln_der_Alpilles_im_Hintergrund.jpeg,1888,"Van Gogh Museum, Amsterdam, Netherlands (F411)"
+526,"The Harvest also Harvest at La Crau, with Montmajour in the Background",Vincent_Van_Gogh_0019.jpg,1888,"Van Gogh Museum, Amsterdam, Netherlands (F412)"
+527,Fishing Boats on the Beach at Saintes-Maries,Van_Gogh_-_Fischerboote_am_Strand_von_Saintes-Maries1.jpeg,June 1888,"Van Gogh Museum, Amsterdam, Netherlands (F413)"
+528,The Sea at Les Saintes-Maries-de-la-Mer,Van_Gogh_-_Fischerboote_bei_Saintes-Maries.jpeg,1888,"Van Gogh Museum, Amsterdam (F415)"
+529,View of Saintes-Maries,Van_Gogh_-_Blick_auf_Saites-Maries1.jpeg,1888,"Kröller-Müller Museum, Otterlo, Netherlands (F416)"
+530,Seascape at Saintes-Maries (Fishing Boats at Sea),Van_Gogh_-_Fischerboote_bei_Saintes-Maries1.jpeg,1888,"Pushkin Museum, Moscow, Russia (F417)"
+531,Three White Cottages in Saintes-Maries,Van_Gogh_-_Drei_weiße_Hütten_in_Saintes-Maries.jpeg,1888,Kunsthaus Zürich (F419)
+532,Street in Saintes-Maries,Van_Gogh_-_Gasse_in_Saintes-Maries2.jpeg,1888,Private Collection (F420)
+533,The Sower with Setting Sun (Sower upper right quadrant),The_Sower.jpg,1888,"Kröller-Müller Museum, Otterlo, Netherlands (F422)"
+534,The Zouave (Half-Figure),Van_Gogh_-_Der_Zuave_(Halbfigur).jpeg,1888,"Van Gogh Museum, Amsterdam, Netherlands (F423)"
+535,The Seated Zouave,Vincent_Willem_van_Gogh_026.jpg,1888,Private collection (F424)
+536,Wheat Stacks in Provence or Haystacks in Provence,Wheat_stacks_in_Provence.jpg,"June, 1888","Kröller-Müller Museum, Otterlo, Netherlands (F425)"
+537,"The Trinquetaille Bridge over the Rhone (View of a River, Quay, and Bridge)",Van_Gogh_-_Die_Brücke_von_Triquetaille.jpeg,1888,"Collection Joseph Hackmey, Israel (F426)"
+538,Rubin du Roi Canal with Women Washing,Van_Gogh_-_Der_Kanal_-La_Roubine_du_Roi-_mit_Waschfrauen.jpeg,1888,"Private Collection, New York (F427)"
+539,Sunny Lawn in a Public Park (Newly Mowed Lawn with Weeping Tree),Van_Gogh_-_Wiese_mit_Trauerweide.jpeg,1888,"Private Collection, Zürich, Switzerland (F428)"
+540,Flowering Garden,Van_Gogh_-_Blühender_Garten_mit_Pfad.jpeg,1888,Private Collection (F429)
+541,Flowering Garden with Path,Van_Gogh_-_Blumengarten.jpeg,1888,"Gemeentemuseum Den Haag, The Hague, Netherlands (F430)"
+542,La Mousmé,Vangogh_mousme.jpg,1888,"National Gallery of Art, Washington, D.C. (F431)"
+543,"Portrait of the Postman Joseph Roulin, Sitting in a Cane Chair, Three-Quarter-Length",Vincent_van_Gogh_-_Portret_van_de_postbode_Joseph_Roulin.jpg,early August 1888,"Museum of Fine Arts, Boston, Massachusetts (F432)"
+544,Portrait of Postman Roulin,Portrait_of_the_Postman_Joseph_Roulin_(1888)_van_Gogh_DIA.jpg,early August 1888,"Detroit Institute of Arts, Michigan (F433)"
+545,Portrait of the Postman Joseph Roulin,Portrait_of_the_Postman_Joseph_Roulin_(1888)_van_Gogh_Winterthur.jpg,1888,"Kunstmuseum Winterthur, Switzerland (F434)"
+546,Postman Joseph Roulin,Van_Gogh_Portrait_of_the_Postman_Joseph_Roulin.jpg,April 1888,"Barnes Foundation, Merion Station, Pennsylvania (F435)"
+547,Portrait of the Postman Joseph Roulin,Vincent_van_Gogh_-_Portrait_of_Joseph_Roulin.jpg,April 1888,"Museum of Modern Art, New York, New York (F436)"
+548,Coal Barges,Van_Gogh_-_Kohlenkähne.jpeg,1888,"Private collection, Maryland (F437)"
+549,Coal Barges also The Unloaders in Arles,Van_Gogh_-_Hafenarbeiter_in_Arles.jpeg,1888,"Museo Thyssen, Madrid Spain (F438)"
+550,Portrait of Joseph Roulin,Portrait_of_the_Postman_Joseph_Roulin_(1889)_van_Gogh_Kroller.jpg,1888,"Kröller-Müller Museum, Otterlo, Netherlands (F439)"
+551,Roulin's Baby,Van_Gogh_-_Marcelle_Roulin_als_Baby.jpeg,1888,"National Gallery of Art, Washington D.C. (F440)"
+552,Portrait of Marcelle Roulin,Van_Gogh_-_Marcelle_Roulin_als_Baby1.jpeg,1888,"Van Gogh Museum, Amsterdam (F441)"
+553,The Baby Marcelle Roulin,Van_Gogh_-_Marcelle_Roulin_als_Baby2.jpeg,1888,"Fondation Socindec, Vaduz, Liechtenstein (F441a)"
+554,Portrait of Patience Escalier (The Old Peasant),Vincent_van_Gogh_Portrait_of_a_Peasant.jpg,1888,"Norton Simon Museum, Pasadena, California (F443)"
+555,Portrait of Patience Escalier; Shepherd in Provence,Vincent_Willem_van_Gogh_086.jpg,1888,"Niarchos Collection, Zürich (F444)"
+556,Encampment of Gypsies with Caravans,Vincent_van_Gogh-_The_Caravans_-_Gypsy_Camp_near_Arles.JPG,1888,"Musée d'Orsay, Paris, France (F445)"
+557,"Railway Carriages, (b/w copy)",Van_Gogh_-_Eisenbahnwagons.jpeg,1888,"Musée Angladon, Avignon, France (F446)"
+558,Thistles,Van_Gogh_-_Disteln.jpeg,1888,"Tate Gallery, London (F447)"
+559,Two Thistles,Van_Gogh_-_Disteln1.jpeg,1888,Private collection (F447a)
+560,The Painter on His Way to Work on the Road to Tarascon,Vincent_Van_Gogh_0013.jpg,1888,"Destroyed by Fire in World War II; Formerly in the Kaiser Friedrich-Museum, Magdeburg, Germany (F448)"
+561,The Rhônebarken also Quay with Men Unloading Sand Barges,Vincent_Van_Gogh_0015.jpg,1888,"Folkwang Museum, Essen, Germany (F449)"
+562,The Sower with Setting Sun (with diagonal tree trunk) (on burlap),Vincent_Willem_van_Gogh_024.jpg,1888,"Foundation E.G. Bührle Collection, Zurich, Switzerland (F450)"
+563,The Sower with Setting Sun (with diagonal tree trunk)(on canvas),Van_Gogh_-_Sämann_bei_untergehender_Sonne3.jpeg,1888,"Van Gogh Museum, Amsterdam, Netherlands (F451)"
+564,Three Sunflowers in a Vase,Van_Gogh_Vase_with_Three_Sunflowers.jpg,1888,Private Collection (F453)
+565,Still Life: Vase with Fifteen Sunflowers,Vincent_Willem_van_Gogh_127.jpg,1888,"National Gallery, London, England (F454)"
+566,Still Life: Vase with Twelve Sunflowers,Vincent_Willem_van_Gogh_128.jpg,1888,"Neue Pinakothek, Munich (F456)"
+567,Five Sunflowers in a Vase,Van_Gogh_Vase_with_Six_Sunflowers.jpg,1888,"Destroyed by Fire in World War II in Ashiya, Japan, 6 August 1945 (F459)[6]"
+568,A Pair of Old Shoes,Van_Gogh_-_Ein_Paar_Schuhe4.jpeg,1888,"Metropolitan Museum of Art, New York, New York (F461)"
+569,Portrait of Eugene Boch,Van_Gogh_Portrait_Eugene_Boch.jpg,1888,"Musée d'Orsay, Paris, France[7] (F462)"
+570,The Night Café,Vincent_Willem_van_Gogh_076.jpg,1888,"Yale University Art Gallery, New Haven, Connecticut (F463)"
+571,The Yellow House,Vincent_van_Gogh_-_The_yellow_house_('The_street').jpg,1888,"Van Gogh Museum, Amsterdam (F464)"
+572,Sunset: Wheat Fields Near Arles,Van_Gogh_-_Weizenfeld_bei_Sonnenuntergang.jpeg,1888,"Kunstmuseum Winterthur, Switzerland (F465)"
+573,Rocks with Oak Tree,ChrisLitherlandRocksVanGogh.jpg,1888,"Museum of Fine Arts, Houston, Texas (F466)"
+574,Cafe Terrace at Night,Vincent_Willem_van_Gogh_-_Cafe_Terrace_at_Night_(Yorck).jpg,1888,"Kröller-Müller Museum, Otterlo, Netherlands (F467)"
+575,Poet's Garden with Round Clipped Shrub and Weeping Tree,Van_Gogh_-_Lichtung_in_einem_Park_-_Der_Garten_des_Dichters_I.jpeg,1888,"Art Institute of Chicago, Chicago, Illinois (F468)"
+576,A Lane in the Public Garden at Arles,Van_Gogh_-_Weg_im_Park_von_Arles_mit_Spaziergängern.jpeg,1888,"Kröller-Müller Museum, Otterlo, Netherlands (F470) "
+577,The Park at Arles with the Entrance Seen through the Trees,Van_Gogh_-_Eingang_zum_Park_in_Arles_mit_zwei_Figuren.jpeg,1888,Destroyed during fire World War II (F471) 
+578,The Public Park at Arles,Van_Gogh_-_Weg_im_Park_von_Arles.jpeg,1888,Private collection (F472)
+579,Portrait of Milliet; Second Lieutenant of the Zouaves,Vincent_Willem_van_Gogh_094.jpg,1888,"Kröller-Müller Museum, Otterlo, Netherlands (F473)"
+580,Starry Night Over the Rhone,Starry_Night_Over_the_Rhone.jpg,1888,"Collection Mr. and Mrs. R. Kahn-Sriber (on loan to the Musée d'Orsay, Paris) (F474)"
+581,The Green Vineyard,Van_Gogh_-_Der_grüne_Weinberg.jpeg,1888,"Kröller-Müller Museum, Otterlo, Netherlands (F475)"
+582,Self-Portrait (Dedicated to Paul Gauguin),VanGogh-self-portrait-dedicated_to_gaugin.jpg,1888,"Harvard Art Museums, Cambridge, Massachusetts (F476)"
+583,Portrait of the Artist's Mother,Van_Gogh_-_Bildnis_der_Mutter_des_Künstlers.jpeg,1888,"Norton Simon Museum, Pasadena, California (F477)"
+584,"The Brothel, (b/w copy)",Van_Gogh_-_Das_Bordell.jpeg,1888,"Barnes Foundation, Merion, Pennsylvania (F478)"
+585,Tarascon Diligence (The Tarascon Stagecoach),Van_Gogh_-_Die_Postkutsche_nach_Tarascon.jpeg,1888,"The Henry and Rose Pearlman Foundation, Inc., New York (F478a)"
+586,Poet's Garden with a Couple and a Blue Fir Tree (Poet's Garden III),Vincent_Willem_van_Gogh_081.jpg,1888,Private Collection (F479)
+587,"The Railway Bridge over Avenue Montmajour, Arles (with Pedestrians and Horse-drawn Cart)",Vincent_Willem_van_Gogh_039.jpg,1888,Private Collection (F480)
+588,The Trinquetaille Bridge,Vincent_Willem_van_Gogh_030.jpg,1888,Private Collection (F481)
+589,Bedroom in Arles,VanGogh_Bedroom_Arles1.jpg,October 1888,"Van Gogh Museum, Amsterdam (F482)"
+590,The Lovers: The Poet's Garden IV,Van_Gogh_-_Zypressenweg_mit_Liebespaar_-_Der_Garten_des_Dichters_IV.jpeg,1888,"Location unknown, stolen in 1937 (F485)"
+591,Falling Autumn Leaves (Les Alyscamps),Alyscamps_van_gogh.jpg,1888,"Kröller-Müller Museum, Otterlo, Netherlands (F486)"
+592,Falling Autumn Leaves (Les Alyscamps),"Van_Gogh_-_Les_Alyscamps,_Allee_in_Arles.jpeg",1888,Private collection (F487)
+593,L'Arlesienne: Madame Ginoux with Books,LArlesienneWithBooks.jpg,1888,"Metropolitan Museum of Art, New York, New York (F488)"
+594,L'Arlesienne: Portrait of Madame Ginoux,Vincent_Willem_van_Gogh_059.jpg,1888,"Musée d'Orsay, Paris, France (F489)"
+595,Portrait of Madame Augustine Roulin and Baby Marcelle,Van_Gogh_-_Madame_Augustine_Roulin_mit_Baby.jpeg,1888,"Philadelphia Museum of Art, Pennsylvania (F490)"
+596,Mother Roulin with Her Baby,Van_Gogh_-_Madame_Augustine_Roulin_mit_Baby1.jpeg,1888,"Metropolitan Museum of Art, New York, New York (F491)"
+597,Portrait of Armand Roulin,Vincent_Willem_van_Gogh_088.jpg,1888,"Museum Folkwang, Essen (F492)"
+598,Portrait of Armand Roulin,Vincent_Willem_van_Gogh_087.jpg,1888,"Museum Boijmans Van Beuningen, Rotterdam (F493)"
+599,The Sower (van Gogh),Van_Gogh_-_Der_Sämann3.jpeg,1888,"Villa Flora, Winterthur, Switzerland (F494)"
+600,The Red Vineyard,Red_vineyards.jpg,1888,"Pushkin Museum, Moscow, only painting sold during the artist's liftetime, former collection Anna Boch (F495)"
+601,Memory of the Garden at Etten (Ladies of Arles),Vincent_Willem_van_Gogh_098.jpg,1888,"Hermitage, St. Petersburg, Russia (F496)"
+602,The Novel Reader,Vincent_Willem_van_Gogh_035.jpg,1888,Private collection (F497)
+603,Van Gogh's Chair,Vincent_Willem_van_Gogh_138.jpg,1888,"National Gallery, London, England (F498)"
+604,Paul Gauguin's Armchair,Vincent_van_Gogh_-_De_stoel_van_Gauguin_-_Google_Art_Project.jpg,1888,"Van Gogh Museum, Amsterdam (F499)"
+605,"Self-Portrait (Green Background, 3/4 Profile)",Van_Gogh_-_Selbstbildnis34.jpeg,1888,Private Collection (F501)
+606,Portrait of Madame Augustine Roulin,Portrait_of_Madame_Augustine_Roulin_1888_van_Gogh_Winterthur.jpg,1888,"Oskar Reinhart Collection, Winterthur, Switzerland (F503)"
+607,La Berceuse (Augustine Roulin),La_Berceuse_Augustine_Roulin_Otterlo.jpg,December 1888,"Kröller-Müller Museum, Otterlo, Netherlands (F504)"
+608,Orchard in Blossom,Van_Gogh_-_Blühender_Obstgarten3.jpeg,1888,"Van Gogh Museum, Amsterdam (F511)"
+609,Orchard Bordered by Cypresses,"Van_Gogh_-_Blühender_Obstgarten,_von_Zypressen_umgeben.jpeg",1888,"Kröller-Müller Museum, Otterlo, Netherlands (F513)"
+610,Self-Portrait as an Artist,Vincent_van_Gogh_-_Zelfportret_als_schilder_(1888).jpg,1888,"Van Gogh Museum, Amsterdam (F522)"
+611,Self-Portrait with Pipe and Straw Hat,Van_Gogh_-_Selbstbildnis_mit_Strohhut_und_Pfeife2.jpeg,1888,"Van Gogh Museum, Amsterdam, Netherlands (F524)"
+612,Portrait of a One-Eyed Man,Van_Gogh_-_Bildnis_eines_einäugigen_Mannes.jpeg,1888,"Van Gogh Museum, Amsterdam (F532)"
+613,Portrait of Joseph-Michel Ginoux also Portrait of a Man,Van_Gogh_-_Bildnis_eines_Mannes1.jpeg,1888,"Kröller-Müller Museum, Otterlo, Netherlands (F533)"
+614,The Smoker,Van_Gogh_The_Smoker.jpg,1888,"Barnes Foundation, Merion, Pennsylvania (F534)"
+615,Girl with Ruffled Hair (The Mudlark),Van_Gogh_-_Kopf_eines_Mädchens.jpg,1888,"Musée des Beaux-Arts, La-Chaux-de-Fonds, Switzerland (F535)"
+616,Young Man with a Cap (Armand Roulin),Vincent_Willem_van_Gogh_055.jpg,1888,"Private Collection, Zürich, Switzerland (F536)"
+617,Portrait of Camille Roulin,Van_Gogh_-_Bildnis_Camile_Roulin.jpeg,1888,"Philadelphia Museum of Art, Pennsylvania (F537)"
+618,Portrait of Camille Roulin,Portrait_of_Camille_Roulin_1888_Vincent_van_Gogh.jpg,1888,"Van Gogh Museum, Amsterdam (F538)"
+619,Two Lovers (Fragment),"Van_Gogh_1888-03,_Arles_-_Two_Lovers_(Fragment)_F_544_JH_1369.jpg",1888,Location Unknown (F544)
+620,Arles: View from the Wheat Fields (Wheat Field with Sheaves and Arles in the Background),Van_Gogh_-_Weizenfeld_mit_Blick_auf_Arles.jpeg,1888,"Musée Rodin, Paris, France (F545)"
+621,Paul Gauguin (Man in a Red Beret),Vincent_van_Gogh_-_Paul_Gauguin_(Man_in_a_Red_Beret).jpg,1888,"Van Gogh Museum, Amsterdam (F546)"
+622,The Dance Hall in Arles,Van_Gogh_-_Tanzsaal_in_Arles.jpg,1888,"Musée d'Orsay, Paris, France (F547)"
+623,Les Arènes (Spectators in the Arena at Arles),Vincent_Willem_van_Gogh_028.jpg,1888,"Hermitage, St. Petersburg, Russia (F548)"
+624,Interior of the Restaurant Carrel in Arles,Van_Gogh_-_Das_Restaurant_Carrel_in_Arles.jpeg,1888,Private collection (F549)
+625,Interior of a Restaurant in Arles,Van_Gogh_-_Interieur_eines_Restaurants_in_Arles.jpeg,1888,Private collection (F549a)
+626,"The Old Mill, 1888",Vincent_van_Gogh_(1853-1890)_-_The_Old_Mill_(1888).jpg,1888,"Albright-Knox Art Gallery, Buffalo, New York (F550)"
+627,Orchard with Peach Trees in Blossom,Vincent_Willem_van_Gogh_077.jpg,1888,Private collection (F551)
+628,The Flowering Orchard (Cherry Tree),Vincent_Van_Gogh_0021.jpg,1888,"Metropolitan Museum of Art, New York (F552)"
+629,Orchard in Blossom (Plum Trees),Vincent_Willem_van_Gogh_012.jpg,1888,"National Gallery of Scotland, Edinburgh, Scotland (F553)"
+630,"Orchard in Blossom, Bordered by Cypresses",Van_Gogh_-_Blühender_Obstgarten_von_Zypressen_umgeben1.jpeg,1888,"Private Collection, New York (F554)"
+631,Apricot Trees in Bloom also Pink Trees,WLANL_-_artanonymous_-_De_roze_boomgaard.jpg,1888,"Van Gogh Museum, Amsterdam, Netherlands (F555)"
+632,Apricot Trees in Blossom,Van_Gogh_-_Blühender_Obstgarten_mit_Aprikosenbäumen1.jpeg,1888,"Private collection, Johannesburg (F556)"
+633,Almond Tree in Blossom,Vincent_Willem_van_Gogh_013.jpg,1888,"Van Gogh Museum, Amsterdam (F557)"
+634,Harvest in Provence,Ernte_in_der_Provénce.jpeg,1888,"Israel Museum, Jerusalem (F558)"
+635,Wheat Stacks with Reaper,Van_Gogh_-_Weizenfeld_mit_Hocken_und_Schnitter1.jpeg,1888,"Toledo Museum of Art Toledo, Ohio (F559)"
+636,"Wheat Field with Sheaves, Arles","Vincent_van_Gogh,_Wheat_Field,_June_1888,_Oil_on_canvas.jpg",1888,"Honolulu Museum of Art, Honolulu, Hawaii (F561)"
+637,Green Ears of Wheat,Van_Gogh_-_Grüne_Kornhalme.jpg,1888,"Israel Museum, Jerusalem (F562)"
+638,Wheat Field,Van_Gogh_-_Weizenfeld.jpeg,1888,"P. and N. de Boer Foundation, Amsterdam (F564)"
+639,"Farmhouse in Provence, also Entrance Gate to a Farm with Haystacks","Farmhouse_in_Provence,_1888,_Vincent_van_Gogh,_NGA.jpg",1888,"National Gallery of Art, Washington, D.C. (F565)"
+640,Entrance to the Public Park in Arles (Man Reading a Newspaper in the Public Garden),Van_Gogh_Entrance_to_the_Public_Park_in_Arles.jpg,1888,"The Phillips Collection, Washington, D.C. (F566)"
+641,A Lane near Arles (Landscape with Edge of a Road),Van_Gogh_-_Allee_bei_Arles_mit_Häusern.jpeg,1888,"Pommersches Landesmuseum, Greifswald, Germany (F567)"
+642,Les Alyscamps,"Van_Gogh_-_Les_Alyscamps,_Allee_in_Arles3.jpeg",1888,"Collection Basil P. and Elise Goulandris, Lausanne, Switzerland (F568)"
+643,L'allée des Alyscamps,"Van_Gogh_-_Les_Alyscamps,_Allee_in_Arles1.jpeg",1888,"Niarchos Collection, Zürich (F569)"
+644,"Langlois Bridge at Arles, and Woman with an Umbrella",Van_Gogh_-_Die_Brücke_von_Langlois_in_Arles_mit_Dame_mit_Regenschirm.jpeg,1888,"Wallraf-Richartz Museum, Cologne, Germany (F570)"
+645,The Langlois Bridge at Arles,Van_Gogh_-_Die_Brücke_von_Langlois_in_Arles2.jpeg,1888,Private collection (F571)
+646,"Pollard Willows with Setting Sun, aka ""Willows at Sunset""",Willows_at_Sunset_1888_Vincent_van_Gogh.jpg,1888,"Kröller-Müller Museum, Otterlo, Netherlands (F572)"
+647,Trunk of an Old Yew Tree,Van_Gogh_-_Stamm_einer_alten_Eibe.jpeg,1888,Private Collection (F573)
+648,Ploughed Field,Vincent_van_Gogh_-_Geploegde_akkers_('De_voren')_-_Google_Art_Project.jpg,1888,"Van Gogh Museum, Amsterdam (F574)"
+649,Landscape Under a Stormy Sky,Van_Gogh_-_Wiese_mit_Blumen_unter_Gewitterhimmel.jpeg,1888,"Fondation Pierre Gianadda, Martigny, Switzerland (on loan) assume from Fondation Socindec, Vaduz, Liechtenstein (F575)"
+650,The Sower: Outskirts of Arles in the Background,Van_Gogh_-_Der_Sämann1.jpeg,1888,"Hammer Museum, Los Angeles (F575a)"
+651,Farmhouses in Wheat Field Near Arles,Van_Gogh_-_Bauernhäuser_in_einem_Weizenfeld_bei_Arles.jpeg,1888,"P. and N. de Boer Foundation, Amsterdam, Netherlands or Van Gogh Museum, Amsterdam, Netherlands (F576)"
+652,Garden with Flowers (Behind a House),Van_Gogh_-_Mittagsstunde_oder_Garten_hinter_einem_Haus.jpeg,1888,Private Collection (F578)
+653,Still Life: Bowl with Daisies (Pot with Flowering Plant) (b/w copy),Van_Gogh_-_Schale_mit_Gänseblümchen.jpeg,1888,"Virginia Museum of Fine Arts, Richmond, Virginia (F591)"
+654,Still Life: Vase with Zinnias,Van_Gogh_-_Vase_mit_Zinnien1.jpeg,1888,Private collection (F592)
+655,Still Life: Majolica Jar with Oleanders and Books,WLA_metmuseum_Oleanders_by_Vincent_van_Gogh.jpg,1888,"Metropolitan Museum of Art, New York, New York (F593)"
+656,Still Life: Vase with Oleanders,Still_Life_Vase_with_Oleanders_1888_van_Gogh.jpg,1888,"Location unknown, possibly stolen (F594)"
+657,Still Life: Majolica Jug with Wildflowers,Van_Gogh_Still_Life_Majolica_with_Wildflowers.jpg,1888,"Barnes Foundation, Merion, Pennsylvania (F600)"
+658,A Pair of Leather Clogs,Van_Gogh_-_Ein_Paar_Holzschuhe.jpeg,1888,"Van Gogh Museum, Amsterdam, Netherlands (F607)"
+659,The Schoolboy with Uniform Cap (Camille Roulin),Vincent_Willem_van_Gogh_100.jpg,1888,"São Paulo Museum of Art, São Paulo, Brazil (F665)"
+660,"Vincent's House in Arles, (The Yellow House), watercolor",Vincent's_House_in_Arles_(The_Yellow_House).jpg,1888,"Van Gogh Museum, Amsterdam (F1413)"
+661,"Breton Women and Children (after Émile Bernard, watercolor)",Breton_Women.jpg,November 1888,"Galleria d'Arte Moderna, Milano, Italy (F1422)"
+662,"Langlois Bridge at Arles, watercolor",Van_Gogh_-_Die_Brücke_von_Langlois_in_Arles1.jpeg,1888,Private collection (F1480)
+663,Wheat Fields with Stacks,Van_Gogh_-_Weizenfeld_mit_Hocken.jpeg,1888,"Private collection (no catalog F number, JH 1478)"
+664,Sunset at Montmajour,Sunset_at_Montmajour_1888_Van_Gogh.jpg,July 1888,"Van Gogh Museum, Amsterdam, Netherlands (no catalog F number)"
+665,Still Life: Plate with Two Red Herrings,Van_Gogh_-_Stillleben_mit_zwei_Bücklingen.jpeg,1889,Private Collection (F283a)
+666,Two White Butterflies,Van_Gogh_-_Zwei_weiße_Schmetterlinge.jpeg,1889,"Van Gogh Museum, Amsterdam (F402)"
+667,Still Life: Vase with Twelve Sunflowers,Van_Gogh_Twelve_Sunflowers.jpg,1889,"Philadelphia Museum of Art, Philadelphia, Pennsylvania (F455)"
+668,Still Life: Vase with Fifteen Sunflowers,Van_Gogh_-_Vierzehn_Sonnenblumen_in_einer_Vase1.jpeg,1889,"Sompo Japan Museum of Art, Tokyo, Japan (F457)"
+669,Still Life: Vase with Fifteen Sunflowers,Vincent_van_Gogh_-_Sunflowers_-_VGM_F458.jpg,1889,"Van Gogh Museum, Amsterdam, Netherlands (F458)"
+670,Grass and Butterflies,Van_Gogh_-_Rasenstück_mit_Schmetterlingen.jpeg,1889,Private collection (F460)
+671,Bedroom in Arles,"La_Chambre_à_Arles,_by_Vincent_van_Gogh,_from_C2RMF_frame_cropped.jpg",September 1889,"Musée d'Orsay, Paris (F483)"
+672,Bedroom in Arles,Vincent_Willem_van_Gogh_135.jpg,September 1889,Art Institute of Chicago (F484)
+673,Portrait of Doctor Felix Rey,Vincent_van_Gogh_-_Portrait_of_Doctor_Félix_Rey_(F500).jpg,1889,"Pushkin Museum, Moscow, Russia (F500)"
+674,Still Life: Blue Gloves and Basket with Oranges and Lemons,Still_Life_of_Oranges_and_Lemons_with_Blue_Gloves.JPG,1889,Private Collection (F502)
+675,La Berceuse (Woman Rocking a Cradle; Augustine-Alix Pellicot Roulin),La_Berceuse_-_1889.jpg,1889,"Metropolitan Museum of Art, New York (F505)"
+676,La Berceuse (Augustine Roulin),La_Berceuse_1889_van_Gogh_Stedelijk_Museum.jpg,1889,"Stedelijk Museum, Amsterdam (F507)"
+677,Madame Roulin Rocking the Cradle (La Berceuse),Van_Gogh_-_La_Berceuse_(Augustine_Roulin).jpeg,1889,Art Institute of Chicago (F508)
+678,Still Life: Bloaters on a Piece of Yellow Paper,Van_Gogh_Bloaters-on-a-Piece-of-Yellow-Paper-1889.jpg,1889,Private collection (F510)
+679,The Crau with Peach Trees in Bloom,Van_Gogh_-_Die_Ebene_-La_Crau-_bei_Arles_mit_blühenden_Pfirsichbäumen.jpg,1889,"The Courtauld Institute Galleries, London, England - former collection Anna Boch (F514)"
+680,View of Arles with Trees in Blossom (Orchard in Bloom with View of Arles),WLANL_-_artanonymous_-_View_of_Arles_with_Trees_in_Blossom.jpg,April 1889,"Van Gogh Museum, Amsterdam (F515, JH1683)"
+681,"View of Arles, Flowering Orchards",Vincent_Van_Gogh_0018.jpg,1889,"Neue Pinakothek, Munich, Germany (F516)"
+682,Red Chestnuts in the Public Park at Arles (b/w copy),Van_Gogh_-_Kastanienallee_im_Park_von_Arles.jpeg,1889,Private collection (F517)
+683,The Courtyard of the Hospital at Arles,Van_Gogh_-_Garten_des_Hospitals_in_Arles1.jpeg,1889,"The Oskar Reinhart Collection ‘Am Römerholz’, Winterthur, Switzerland (F519)"
+684,Pollard Willows,Van_Gogh_-_Weg_mit_beschnittenen_Weiden.jpeg,1889,"Tate Gallery, London (F520)"
+685,Self-Portrait without Beard also Portrait de l'artiste sans barbe †,Vincent_Willem_van_Gogh_102.jpg,1889,Private collection (F525)
+686,Self-Portrait with Bandaged Ear,Van_Gogh_-_Selbstbildnis_mit_verbundenem_Ohr.jpeg,1889,"Courtauld Institute of Art, London (F527)"
+687,Self-Portrait with Bandaged Ear and Pipe,Vincent_Willem_van_Gogh_106.jpg,1889,"Tate Gallery, London (F529)"
+688,Portrait of a Young Peasant,Vincent_Willem_van_Gogh_054.jpg,1889,"Museum of Modern Art, Rome, Italy (F531)"
+689,Lilacs,Van_Gogh_-_Fliederstrauch.jpeg,1889,"Hermitage, St. Petersburg, Russia (F579)"
+690,Roses,Van_Gogh_-_Blühender_Rosenbusch.jpeg,1889,"The National Museum of Western Art, Tokyo (F580)"
+691,Field with Poppies,Van_Gogh_-_Feld_mit_Mohnblumen.jpeg,1889,"Kunsthalle Bremen, Bremen, Germany (F581)"
+692,Clumps of Grass,Vincent_van_Gogh_-_Clumps_of_Grass.jpg,1889,Private collection (F582)
+693,A Field of Yellow Flowers,A_Field_of_Yellow_Flowers.jpg,1889,"Kunstmuseum Winterthur, Switzerland (F584)"
+694,Olive Orchard,Vincent_Willem_van_Gogh_079.jpg,"Mid-June, 1889","Kröller-Müller Museum, Otterlo, Netherlands (F585)"
+695,Olive Grove: Orange Sky,Van_Gogh_-_Olivenhain.jpeg,"November, 1889","Göteborgs Museum of Art, Gõteborg, Sweden (F586)"
+696,Olive Orchard with a Man and a Woman Picking Fruit,Van_Gogh_-_Oilvenhain_mit_pflückenden_Figuren.jpeg,"December, 1889","Kröller-Müller Museum, Otterlo, Netherlands (F587)"
+697,The Iris,Van_Gogh_-_Iris.jpeg,1889,"National Gallery of Canada, Ottawa, Canada (F601)"
+698,"Still Life: Drawing Board, Pipe, Plate with Onions, ""Annuaire de la Santé,"" and Sealing-Wax",Still_Life_Drawing_Board.jpg,1889,"Kröller-Müller Museum, Otterlo, Netherlands (F604)"
+699,Crab on its Back,"Crustacean,_lying_on_his_back_by_Vincent_van_Gogh_(Van_Gogh_museum_photogtaph).jpg",1888,"Van Gogh Museum, Amsterdam, Netherlands (F605)"
+700,Two Crabs,Van_Gogh_-_Zwei_Krebse.jpeg,1889,"Faggionato Fine Arts, London (F606)"
+701,Irises †,VanGoghIrises2.jpg,1889,"Getty Museum, Los Angeles (F608)"
+702,Ivy (A Corner in the Garden of Saint-Paul Hospital),Van-Gogh-Ivy.jpg,1889,Location unknown (F609)
+703,Great Peacock Moth (Death's-Head Moth on an Arum),WLANL_-_artanonymous_-_Nachtpauwoog.jpg,1889,"Van Gogh Museum, Amsterdam, Netherlands (F610)"
+704,Mountainous Landscape Behind Saint-Paul Hospital,Van_Gogh_-_Berglandschaft_hinter_dem_Hospital_Saint-Paul.jpeg,1889,"Ny Carlsberg Glyptotek, Copenhagen, Denmark (F611)"
+705,The Starry Night,VanGogh-starry_night.jpg,1889,"Museum of Modern Art, New York City (F612)"
+706,Cypresses,Van_Gogh_-_Zypressen.jpeg,1889,"Metropolitan Museum of Art, New York, New York (F613)"
+707,"A Wheat Field, with Cypresses",Vincent_Van_Gogh_0020.jpg,September 1889,"National Gallery, London, England (F615)"
+708,Wheat Field with Reaper and Sun also see Wheat Fields (Van Gogh series),Wheat_field_with_reaper_and_sun.jpg,June-Sept 1889,"Kröller-Müller Museum, Otterlo, Netherlands (F617)"
+709,Wheat Field with a Reaper,Van_Gogh_-_Weizenfeld_mit_Schnitter_bei_aufgehender_Sonne.jpeg,"September, 1889","Van Gogh Museum, Amsterdam, Netherlands (F618)"
+710,Wheat Field Behind Saint-Paul Hospital with a Reaper,Van_Gogh_-_Weizenfeld_hinter_dem_Hospital_Saint-Paul_(Die_Ernte).jpeg,"September, 1889","Museum Folkwang, Essen, Germany (F619)"
+711,Cypresses with Two Female Figures,Van_Gogh_-_Zypressen_mit_zwei_weiblichen_Figuren.jpeg,1889,"Kröller-Müller Museum, Otterlo, Netherlands (F620)"
+712,Mountains at Saint-Rémy,Van_Gogh_-_Berglandschaft_in_Saint-Rémy.jpeg,1889,"Solomon R. Guggenheim Museum, New York (F622)"
+713,Huts surrounded by olive trees and cypresses also Wooden Sheds,Van_Gogh_-_Hütten_zwischen_Olivenbäumen_und_Zypressen.jpeg,1889,"Van Gogh Museum, Amsterdam (F623)"
+714,Half Figure of an Angel (after Rembrandt),Van_Gogh_-_Halbfigur_eines_Engels_(nach_Rembrandt).jpeg,1889,Location unknown (F624)
+715,Enclosed Field with Ploughman,Van_Gogh_-_Acker_mit_pflügenden_Bauern.jpeg,1889,Private collection (F625)
+716,Self-Portrait,Vincent_van_Gogh_-_National_Gallery_of_Art.JPG,1889,"National Gallery of Art, Washington, D.C. (F626, JH1770)"
+717,Self-Portrait,Self-Portrait_(Van_Gogh_September_1889).jpg,1889,"Musée d'Orsay, Paris, France (F627)"
+718,Portrait of Trabuc; Chief Orderly at Saint-Paul Hospital,Vincent_Willem_van_Gogh_093.jpg,1889,"Kunstmuseum Solothurn, Solothrun, Switzerland (F629)"
+719,The Pietà (after Delacroix),Vincent_Willem_van_Gogh_083.jpg,1889,"Van Gogh Museum, Amsterdam, Netherlands (F630)"
+720,Portrait of Madame Trabuc (b/w copy),Van_Gogh_-_Bildnis_Madame_Trabuc.jpeg,1889,"Hermitage, St. Petersburg, Russia (F631)"
+721,The Sheep-Shearers (after Millet),WLANL_-_Minke_Wagenaar_-_Vincent_van_Gogh_1889_The_sheep_shearer_(after_Millet)-2-2.jpg,1889,"Van Gogh Museum, Amsterdam, Netherlands (F634)"
+722,Entrance to a Quarry near Saint-Remy,Van_Gogh_-_Eingang_zu_einem_Steinbruch1.jpeg,1889,Private Collection (F635)
+723,Mulberry Tree (Van Gogh),Van_Gogh_-_Maulbeerbaum.jpeg,1889,"Norton Simon Museum, Pasadena, California (F637)"
+724,Two Poplars on a Road Through the Hills,Van_Gogh_-_Zwei_Pappeln_an_einem_Weg_durch_die_Hügel.jpeg,1889,"Cleveland Museum of Art, Cleveland, Ohio (F638)"
+725,The Garden of Saint-Paul Hospital,Van_Gogh_-_Garten_des_Hospitals_Saint-Paul1.jpeg,"October, 1889",Private Collection (F640)
+726,Landscape at Saint-Rémy (Enclosed Field with Peasant),WLA_ima_Landscape_at_St_Remy.jpg,1889,"Indianapolis Museum of Art, Indianapolis, Indiana (F641)"
+727,The Courtyard of the Hospital at Arles,Van_Gogh_-_Bäume_im_Garten_des_Hospitals_Saint-Paul1.jpeg,1889,Private Collection (F642) 
+728,Trees in the Garden in Front of the Entrance to Saint-Paul Hospital,Van_Gogh_-_Bäume_im_Garten_des_Hospitals_Saint-Paul.jpeg,1889,"Hammer Museum, Los Angeles, California (F643)"
+729,The Man is at Sea (after Demont-Breton),Van_Gogh_-_Der_Mann_ist_auf_See_(nach_Demont-Breton).jpeg,1889,Private collection (F644)
+730,The Ravine (Les Peiroulets),Van_Gogh_-_Die_Schlucht_-Les_Peiroulets-.jpg,1889,"Van Gogh Museum, Amsterdam, Netherlands (F645)"
+731,Ward in the Hospital in Arles,Ward_in_the_Hospital_in_Arles.jpg,1889,"The Oskar Reinhart Collection 'Am Römerholz', Winterthur, Switzerland (F646)"
+732,Evening: The Watch (after Millet) and Copies of Millet,Van_Gogh_-_Abendstunde_(nach_Millet).jpeg,1889,"Van Gogh Museum, Amsterdam, Netherlands (F647)"
+733,Two Peasants Digging (after Millet),Van_Gogh_-_Zwei_Bauern_beim_Umgraben.jpeg,1889,"Stedelijk Museum, Amsterdam, Netherlands (F648)"
+734,Evening: The End of the Day (after Millet),"Vincent_van_Gogh_-_Evening,_The_End_of_the_Day_(after_Millet).jpg",1889,"Menard Museum of Art, Aichi, Japan (F649)"
+735,Enclosed Field in Rain,Van_Gogh_-_Weizenfeld_im_Regen.jpeg,1889,"Philadelphia Museum of Art, Philadelphia, Pennsylvania (F650)"
+736,Walk: Falling Leaves also Man Walking in a Wood with Falling Leaves,Van_Gogh_-_Spaziergänger_im_Park_mit_fallenden_Blättern.jpeg,1889,"Van Gogh Museum, Amsterdam, Netherlands (F651)"
+737,Weatherbeaten Pine Trees against a Red Sky with Setting Sun,Van_Gogh_-_Kiefern_mit_untergehender_Sonne_und_weiblicher_Figur.jpeg,1889,"Kröller-Müller Museum, Otterlo, Netherlands (F652)"
+738,Pine Trees with Figure in the Garden of Saint-Paul Hospital also Hospital at Saint-Remy,Hospital_in_Saint-Remy.jpg,1889,"Musée d'Orsay, Paris, France (F653)"
+739,Olive Picking,Van_Gogh_-_Olivenpflücker2.jpeg,"December, 1889",Location Unknown (F654)
+740,Women Picking Olives,Van_Gogh_-_Olivenpflücker1.jpg,"December, 1889","Metropolitan Museum of Art, New York (F655)"
+741,Women Picking Olives also Olive Pickers,Van_Gogh_-_Olivenpflücker.jpeg,"December, 1889","National Gallery of Art, Washington D.C. (F656)"
+742,Road Menders at Saint-Rémy also The Large Plane Trees,Vincent_Willem_van_Gogh_132.jpg,1889,"Cleveland Museum of Art, Ohio (F657)"
+743,The Road Menders,Van_Gogh_The_Road_Menders-1889-Phillips.jpg,1889,"The Phillips Collection, Washington, D.C. (F658)"
+744,A Corner of Saint-Paul Hospital,WLANL_-_artanonymous_-_De_tuin_van_de_inrichting_Saint_Paul.jpg,1889,"Van Gogh Museum, Amsterdam (F659)"
+745,"A Corner of Saint-Paul Hospital and the Garden with a Heavy, Sawed-Off Tree",Van_Gogh_-_Garten_des_Hospitals_Saint-Paul3.jpeg,1889,"Museum Folkwang, Essen, Germany (F660)"
+746,The Ravine (Les Peiroulets),Van_Gogh_-_Die_Schlucht_-Les_Peiroulets-2.jpeg,1889,"Kröller-Müller Museum, Otterlo, Netherlands (F661)"
+747,The Ravine (Les Peiroulets),Van_Gogh_-_Die_Schucht_-Les_Peiroulets-.jpeg,1889,"Museum of Fine Arts, Boston (F662)"
+748,Landscape with Olive Tree and Mountains in the Background,Van_Gogh_-_Landschaft_mit_Olivenbaum_und_Bergkette_im_Hintergrund.jpeg,"December, 1889",Location unknown (F663)
+749,The White Cottage Among the Olive Trees,Van_Gogh_-_Weißes_Bauernhaus_zwischen_Olivenbäumen.jpeg,"December, 1889","Private collection, Japan (F664)"
+750,The Reaper (after Millet),Van_Gogh_-_Der_Schnitter_(Nach_Millet).jpeg,1889,Private Collection (F688)
+751,The Sower (after Millet),Van_Gogh_-_Der_Sämann_(nach_Millet).jpeg,1889,"Kröller-Müller Museum, Otterlo, Netherlands (F689)"
+752,The Sower (after Millet),Vincent_Willem_van_Gogh_025.jpg,1889,"Niarchos Collection, Zurich (F690)"
+753,The Thresher (after Millet),Van_Gogh_-_Der_Drescher_(nach_Millet).jpeg,1889,"Van Gogh Museum, Amsterdam (F692)"
+754,The Sheaf-Binder (after Millet),Van_Gogh_-_Der_Garbenbinder_(nach_Millet).jpeg,1889,"Van Gogh Museum, Amsterdam, Netherlands (F693)"
+755,Woman Spinning (after Millet),Van_Gogh_-_Die_Spinnerin_(nach_Millet).jpeg,1889,"Collection Sara and Moshe Mayer, Geneva, Switzerland (F696)"
+756,Peasant Woman Cutting Straw (after Millet),Van_Gogh_-_Bäuerin_beim_Strohschneiden_(nach_Millet).jpeg,1889,"Van Gogh Museum, Amsterdam (F697)"
+757,Peasant Woman with a Rake (after Millet) (b/w copy),Van_Gogh_-_Bäuerin_mit_Harke.jpeg,1889,Private collection (F698)
+758,The Shepherdess (after Millet),Vincent_Willem_van_Gogh_032.jpg,1889,"Tel Aviv Museum of Art, Israel (F699)"
+759,Peasant Woman Binding Sheaves (after Millet),Van_Gogh_-_Die_Garbenbinderin_(nach_Millet).jpeg,1889,"Van Gogh Museum, Amsterdam, Netherlands (F700)"
+760,Two Diggers among Trees,Van_Gogh_-_Zwei_Männer_beim_Ausgraben_eines_Baumstumpfs.jpeg,1889,"Detroit Institute of Arts, Detroit, Michigan (F701)"
+761,Portrait of a Patient in Saint-Paul Hospital,Van_Gogh_-_Bildnis_eines_Patienten_im_Hospital_Saint-Paul.jpeg,1889,"Van Gogh Museum, Amsterdam, Netherlands (F703)"
+762,Enclosed Field with Ploughman,Van_Gogh_-_Acker_mit_plügenden_Bauern_und_Mühle.jpeg," October, 1889","Museum of Fine Arts, Boston, Massachusetts (F706)"
+763,Olive Orchard,Van_Gogh_-_Olivenhain3.jpg,"November, 1889","Van Gogh Museum, Amsterdam, Netherlands (F707)"
+764,Olive Orchard,Van_Gogh_-_Olivenhain2.jpeg,"November, 1889","Metropolitan Museum of Art, New York (F708)"
+765,Olive Trees: Bright Blue Sky,Van_Gogh_-_Olivenhain_mit_blauem_Himmel.jpeg,"June, 1889","Van Gogh Museum, Amsterdam, Netherlands (709)"
+766,Olive Trees,Vincent_van_Gogh_Olive_Trees_MIA_517.jpg,"November, 1889","Minneapolis Institute of Arts, Minnesota (F710)"
+767,Olive Trees,Van_Gogh_-_Olivenbäume.jpeg,1889,Private Collection (F711)
+768,Olive Trees in a Mountainous Landscape (with the Alpilles in the Background),Van_Gogh_The_Olive_Trees..jpg,"June, 1889","Museum of Modern Art, New York, New York (F712)"
+769,Olive Trees,Olive_Trees_(Van_Gogh).jpg,"November, 1889","National Gallery of Scotland, Edinburgh (F714)"
+770,Olive Orchard,Van_Gogh_-_Olvivenhain.jpeg,"June, 1889","Nelson-Atkins Museum of Art, Kansas City, Missouri (F715)"
+771,Olive Trees Against a Slope of a Hill,Van_Gogh_-_Olivenbäume_auf_einem_Hügel.jpeg,1889,"Van Gogh Museum, Amsterdam (F716)"
+772,Wheat Field with Cypresses also see Wheat Field with Cypresses,Vincent_van_Gogh_-_Wheat_Field_with_Cypresses_-_Google_Art_Project.jpg,1889,"Metropolitan Museum of Art, New York (F717)"
+773,Green Wheat Field,Van_Gogh_-_Grünes_Weizenfeld.jpeg,1889,Kunsthaus Zürich (F718)
+774,Green Wheat Field with Cypress,Vincent_van_Gogh_-_Green_Field_-_Google_Art_Project.jpg,1889,"Národní Gallery, Prague, Czech Republic (F719)"
+775,"Enclosed Wheat Field with Rising Sun also see Saint-Remy, The Wheat Field, Spring and Summer",Vincent_Willem_van_Gogh_007.jpg,1889,"Kröller-Müller Museum, Otterlo, Netherlands (F720)"
+776,"Wheat Fields in a Mountainous Landscape, also Meadow in the Mountains of Saint-Paul",A_Meadow_in_the_Mountains_Le_Mas_de_Saint-Paul_1889_Vincent_van_Gogh.jpg,1889,"Kröller-Müller Museum, Otterlo, Netherlands (F721)"
+777,"Wheat Field Behind Saint-Paul Hospital, San Rémy",Van_Gogh_-_Weizenfeld_hinter_dem_Hospital_Saint-Paul.jpeg,"November, 1889","Virginia Museum of Fine Arts, Richmond, Virginia (F722)"
+778,At the Foot of the Mountains also Field with Pollard Trees and Mountainous Background (b/w copy),Van_Gogh_-_Umfriedetes_Feld_mit_Blick_auf_eine_Berglandschaft.jpeg,1889,"Van Gogh Museum, Amsterdam (F723)"
+779,Le Mont Gaussier with the Mas de Saint-Paul (b/w copy),Van_Gogh_-_Blick_auf_den_Mont_Gaussier.jpeg,1889,Private collection (F725) (Attribution to Van Gogh doubtful)
+780,Landscape in the Neighbourhood of Saint-Rémy,Van_Gogh_-_Landschaft_mit_Bauernhaus_und_Bergkette_im_Hintergrund.jpeg,1889,"Location unknown, stolen in 1989 (F726)"
+781,Valley with Ploughman Seen from Above (b/w copy),Van_Gogh_-_Blick_auf_ein_Tal_mit_Haus_und_pflügenden_Bauern.jpeg,1889,"Hermitage Museum, St. Petersberg, Russia (F727)"
+782,A Road at Saint-Remy with Female Figure,Van_Gogh_-_Weg_in_Saint-Rémy_mit_weiblicher_Figur.jpeg,1889,"Kasama Nichido Museum of Art, Ibaraki, Japan (F728)"
+783,The Garden of Saint-Paul Hospital,Van_Gogh_-_Garten_des_Hospitals_Saint-Paul2.jpeg,"October, 1889 ", Private Collection (F730)
+784,Trees in the Garden of Saint-Paul Hospital,Van_Gogh_-_Bäume_und_Figur_vor_dem_Hospital_Saint-Paul.jpeg,"October, 1889 ", Private Collection (F731)
+785,Stone Bench in the Garden of Saint-Paul Hospital,Van_Gogh_-_Banco_de_Pedra_no_Asilo_de_Saint_Remy.jpg,1889,"São Paulo Museum of Art, Brazil (F732)"
+786,Path in Pine Trees with Figure in the Garden of Saint-Paul Hospital,Van_Gogh_-_Garten_des_Hospitals_Saint-Paul_mit_Figur.jpeg,1889,"Kröller-Müller Museum, Otterlo, Netherlands (F733)"
+787,The Garden of Saint-Paul Hospital,Van_Gogh_-_Garten_des_Hospitals_Saint-Paul.jpeg,"May, 1889","Kröller-Müller Museum, Otterlo (F734)"
+788,Landscape with Wheat Sheaves and Rising Moon,Landscape_with_wheat_sheaves_and_rising_moon.jpg,1889,"Kröller-Müller Museum, Otterlo, Netherlands (F735)"
+789,"Enclosed Field with Rising Sun also see Saint-Remy, The Wheat Field, Fall and Winter",Vincent_Willem_van_Gogh_063.jpg,1889,Private Collection (F737)
+790,Field with Two Rabbits,Van_Gogh_-_Zwei_Kaninchen_auf_einer_Wiese.jpeg,1889,"Van Gogh Museum, Amsterdam (F739)"
+791,Study of Pine Trees in the Garden of Saint-Paul Hospital,Van_Gogh_-_Studie_mit_Fichten_im_Herbst.jpeg,1889,"Kröller-Müller Museum, Otterlo, Netherlands (F742)"
+792,Wheat Field with Cypresses,Van_Gogh_-_Weizenfeld_mit_Zypressen4.jpeg,September 1889,"Tate Gallery,  London, England (F743)"
+793,Entrance to a Quarry,Van_Gogh_-_Eingang_zu_einem_Steinbruch.jpeg,1889,"Van Gogh Museum, Amsterdam, Netherlands (F744)"
+794,Undergrowth with Ivy,Van_Gogh_-_Unterholz_mit_Efeu1.jpeg,1889,"Van Gogh Museum, Amsterdam (F745)"
+795,Undergrowth with Ivy,WLANL_-_artanonymous_-_Kreupelhout.jpg,1889,"Van Gogh Museum, Amsterdam (F746)"
+796,Tree Trunks with Ivy,Van_Gogh_-_Unterholz_mit_Efeu2.jpeg,1889,"Kröller-Müller Museum, Otterlo, Netherlands (F747)"
+797,"The Pietà (after Delacroix), first version",Vincent_van_Gogh_-_Pietà_(after_Delacroix).jpg,1889,"Vatican Collection of Modern Religious Art, Vatican City (F757)"
+798,View of the Asylum and Chapel of Saint-Rémy,View_of_the_Asylum_and_Chapel_at_Saint_Remy.jpg,1889,Collection of Elizabeth Taylor (F803)
+799,Landscape with Trees and Figures,Van_Gogh_-_Landschaft_mit_Bäumen_und_Figuren.jpeg,1889,"Baltimore Museum of Art, Baltimore, Maryland (F818)"
+800,Flowering Rosebushes in the Asylum Garden (also Flowering Shrubs),Flowering_Rosebushes_in_the_Asylum_Garden_(also_Flowering_Shrubs).jpg,1889,"Kröller-Müller Museum, Otterlo, Netherlands (F1527)"
+801,"Corridor in Saint-Paul Hospital, Oil color and essence over black chalk on pink laid (""Ingres"") paper",Vincent_van_Gogh_-_Corridor_in_the_Asylum.JPG, 1889 ," Metropolitan Museum of Art, New York City (F1529) "
+802,"Entrance Hall of Saint-Paul Hospital, Black chalk, brush and thinned oil on pink paper",Vincent_Van_Gogh_0012.jpg,1889,"Van Gogh Museum, Amsterdam (F1530)"
+803,Lullaby: Madame Augustine Roulin Rocking a Cradle (La Berceuse),Vincent_Willem_van_Gogh_084.jpg,1889,"Museum of Fine Arts, Boston, Massachusetts (F unk)"
+804,Still Life: Red Poppies and Daisies,Van_Gogh_-_Vase_mit_Kornblumen_und_Klatschmohn.jpeg,1890,Private Collection (F280)
+805,The Little Arlesienne (Head of a Girl),Van_Gogh_-_Die_kleine_Arlésienne.jpeg,1890,"Kröller-Müller Museum, Otterlo, Netherlands (F518)"
+806,L'Arlesienne (Madame Ginoux),Vincent_van_Gogh_-_L'Arlesienne_(Madame_Ginoux).jpg,1890,"Museum of Modern Art, Rome, Italy (F540)"
+807,L'Arlesienne (Portrait of Madame Ginoux),LArlesienne_Madame_Ginoux1.jpg,1890,"Kröller-Müller Museum, Otterlo, Netherlands (F541)"
+808,L'Arlesienne (Madame Ginoux),Van_Gogh_-_A_Arlesiana.jpg,1890,"São Paulo Museum of Art, Brazil (F542)"
+809,"L'Arlesienne, Madame Ginoux",LArlesienne_Madame_Ginoux4.jpg,1890,Private collection (F543)
+810,Wheat Stacks with Reaper,Van_Gogh_Wheat_Stacks_with_Reaper.jpg,1890,"Toledo Museum of Art, Toledo, Ohio (F559)"
+811,Wheat Stack Under Clouded Sky,Van_Gogh_-_Heuschober_an_einem_Regentag.jpeg,July 1890,"Kröller-Müller Museum, Otterlo, Netherlands (F563)"
+812,Still Life: Glass with Wild Flowers,Van_Gogh_-_Glas_mit_Feldblumen.jpeg,1890,Private collection (F589)
+813,Still Life: Pink Roses,Van_Gogh_-_Rosenbusch.jpeg,1890,"Ny Carlsberg Glyptotek, Copenhagen (F595)"
+814,Wild Roses,Van_Gogh_-_Wilde_Rosen.jpeg,1890,"Van Gogh Museum, Amsterdam (F597)"
+815,Still Life: Glass with Carnations,Van_Gogh_-_Glas_mit_Nelken.jpeg,1890,Private collection (F598)
+816,Still Life: Vase with Flower and Thistles,Van_Gogh_-_Vase_mit_Blumen_und_Disteln.jpeg,1890,Private collection (F599)
+817,Cypresses and Two Women,Van_Gogh_-_Zypressen_und_zwei_Frauen.jpeg,1890,"Van Gogh Museum, Amsterdam, Netherlands (F621)"
+818,Plough and the Harrow (after Millet),Van_Gogh_-_Pflug_und_Egge_(nach_Millet).jpeg,1890,"Van Gogh Museum, Amsterdam, Netherlands (F632)"
+819,The Good Samaritan (after Delacroix),Vincent_Willem_van_Gogh_022.jpg,1890,"Kröller-Müller Museum, Otterlo, Netherlands (F633)"
+820,Field with Poppies,Van_Gogh_-_Feld_mit_Mohnblumen1.jpeg,1890,"Gemeentemuseum Den Haag, The Hague, Netherlands (F636)"
+821,Men Drinking (after Daumier),Van_Gogh_-_Die_Trinker_(nach_Daumier).jpeg,1890,"Art Institute of Chicago, Chicago, Illinois (F667)"
+822,The First Steps (after Millet) and Copies after Millet,"Vincent_van_Gogh_-_First_Steps,_after_Millet.jpg",1890,"Metropolitan Museum of Art, New York, New York (F668)"
+823,Prisoners' Round (Exercising)(after Gustave Doré),Vincent_Willem_van_Gogh_037.jpg,1890,"Pushkin Museum, Moscow, Russia (F669)"
+824,The Woodcutter (after Millet),Van_Gogh_-_Der_Holzhacker_(nach_Millet).jpeg,1890,"Van Gogh Museum, Amsterdam, Netherlands (F670)"
+825,Almond Blossoms,Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg,1890,"Van Gogh Museum, Amsterdam (F671)"
+826,Field of Grass with Butterflies and Flowers,Van_Gogh_-_Wiese_im_Garten_des_Hospitals_Saint-Paul.jpeg,1890,"National Gallery, London, England (F672)"
+827,Cottages: Reminiscence of the North,Van_Gogh_-_Bauernhäuser_(Erinnerung_an_den_Norden).jpeg,"March - April, 1890",Private collection (F673)
+828,Thatched Cottages in the Sunshine: Reminiscence of the North,Van_Gogh_Thatched_Cottages_in_the_Sunshine.jpg,1890,"Barnes Foundation, Merion, Pennsylvania (F674)"
+829,Cottages and Cypresses: Reminiscence of the North,Van_Gogh_-_Erinnerung_an_den_Norden.jpeg,"March - April, 1890","Van Gogh Museum, Amsterdam (F675)"
+830,Pine Tree Trunks and Dandelions in the Garden of Saint-Paul Hospital,Van_Gogh_-_Blühende_Wiese_mit_Baumstämmen_und_Löwenzahn.jpeg,1890,"Kröller-Müller Museum, Otterlo, Netherlands (F676)"
+831,The Raising of Lazarus (after Rembrandt),The-raising-of-lazarus-after-rembrandt-1890.jpg,1890,"Van Gogh Museum, Amsterdam, Netherlands (F677)"
+832,Still Life: Vase with Violet Irises Against a Yellow Background,Vincent_van_Gogh_-_Irises_-_Google_Art_Project.jpg,1890,"Van Gogh Museum, Amsterdam, Netherlands (F678)"
+833,Vase with Violet Irises Against a Pink Background,Van_Gogh_-_Vase_mit_Schwertlilien.jpeg,1890,"Metropolitan Museum of Art, New York, New York (F680)"
+834,"Vase with Pink Roses, also Roses",Roses_-_Vincent_van_Gogh.JPG,1890,"National Gallery of Art, Washington, D.C. (F681)"
+835,Vase with Pink Roses,Van_Gogh_-_Vase_mit_Rosen1.jpeg,1890,"Metropolitan Museum of Art, New York, New York (F682)"
+836,Road with Cypress and Star,Van_Gogh_-_Country_road_in_Provence_by_night.jpg,1890,"Kröller-Müller Museum, Otterlo, Netherlands (F683)"
+837,Morning: Peasant Couple Going to Work (after Millet),Van_Gogh_-_Auf_dem_Weg_zum_Feld_(nach_Millet).jpeg,1890,"Hermitage Museum, St. Petersberg, Russia (F684)"
+838,Noon: Rest from Work (after Millet) or Siesta,Noon_–_Rest_from_Work_(after_Millet).jpg,1890,"Musée d'Orsay, Paris, France (F686)"
+839,Peasants Lifting Potatoes,Van_Gogh_-_Bauern_beim_Kartoffellesen.jpeg,1890,Private collection (F694)
+840,Two Peasant Women Digging in a Snow-Covered Field at Sunset,Van_Gogh_-_Zwei_grabende_Bäuerinnen_auf_schneebedecktem_Feld.jpeg,1890,"Foundation E.G. Bührle Collection, Zurich, Switzerland (F695)"
+841,"Old Man with His Head in His Hands (after the lithograph ""At Eternity's Gate"")",Vincent_Willem_van_Gogh_002.jpg,1890,"Kröller-Müller Museum, Otterlo, Netherlands (F702)"
+842,Couple Walking among Olive Trees in a Mountainous Landscape with Crescent Moon,Van_Gogh_-_Passeio_ao_Crepúsculo.jpg,"May, 1890","São Paulo Museum of Art, São Paulo, Brazil (F704)"
+843,The Little Stream Black-and-white image of color painting,Van_Gogh_-_Bachlandschaft.jpeg,1890,Private collection (F740)
+844,Poppies and Butterflies,Van_Gogh_-_Klatschmohn_und_Schmetterlinge.jpeg,1890,"Van Gogh Museum, Amsterdam, Netherlands (F748)"
+845,Roses and Beetle,Van_Gogh_-_Wilde_Rosen_und_Käfer.jpeg,1890,"Van Gogh Museum, Amsterdam (F749)"
+846,Cottages also Thatched Cottages,"Gogh,_Vincent_van_-_Cottages.jpg",1890,"Hermitage Museum, St. Petersberg, Russia (F750)"
+847,Landscape with Cottages,Vincent_van_Gogh_-_Landscape_with_Cottages.jpg,1890,"Van Gogh Museum, Amsterdam, Netherlands (F1640)"
+848,Chestnut Trees in Blossom,Van_Gogh_-_Blühende_Kastanienbäume.jpeg,1890,Private collection (F751)
+849,Blossoming Chestnut Trees,Van_Gogh_-_Blühende_Kastanienbäume1.jpeg,1890,"Kröller-Müller Museum, Otterlo, Netherlands (F752)"
+850,Portrait of Dr. Gachet †,Portrait_of_Dr._Gachet.jpg,1890,Private Collection (F753)
+851,Portrait of Dr. Gachet,Vincent_van_Gogh_-_Dr_Paul_Gachet_-_Google_Art_Project.jpg,1890,"Musée d'Orsay, Paris (F754)"
+852,Doctor Gachet's Garden in Auvers,Doctor_Gachet's_Garden_in_Auvers.jpg,1890,"Musée d'Orsay, Paris, France (F755)"
+853,Marguerite Gachet in the Garden,Marguerite_Gachet_in_the_garden.jpg,1890,"Musée d'Orsay, Paris, France (F756)"
+854,Thatched Cottages in Jorgus,Van_Gogh_-_Bauernhäuser_in_Jorgus_mit_Figuren.jpeg,1890,Private collection (F758)
+855,Houses at Auvers,Van_Gogh_-_Häuser_in_Auvers1.jpeg,1890,"Toledo Museum of Art, Toledo, Ohio (F759)"
+856,Landscape with a Carriage and a Train,Vincent_van_Gogh_-_Landscape_with_Carriage_and_Trains_(F760).jpg,1890,"Pushkin Museum, Moscow (F760)"
+857,The Fields,Van_Gogh_-_Weizenfeld_mit_Gewitterhimmel.jpeg, July 1890 , Private Collection (F761)
+858,Vineyards with a View of Auvers,Van_Gogh_-_Weinberge_mit_Blick_auf_Auvers.jpeg,1890,"Saint Louis Art Museum, St. Louis, Missouri (F762)"
+859,Wild Flowers and Thistles in a Vase,Van_Gogh_-_Feldblumen_und_Disteln_in_einer_Vase.jpeg,"June, 1890",Private collection (F763)
+860,Still Life: Japanese Vase with Roses and Anemones,"Van_Gogh_-_Stillleben_mit_japanischer_Vase,_Rosen_und_Anemonen.jpeg",1890,"Musée d'Orsay, Paris (F764)"
+861,Still Life: Vase with Rose-Mallows,Van_Gogh_-_Vase_mit_Rosenmalven1.jpeg,1890,"Van Gogh Museum, Amsterdam (F764a)"
+862,Daubigny's Garden,WLANL_-_artanonymous_-_Daubigny's_Garden.jpg,1890,"Van Gogh Museum, Amsterdam (F765)"
+863,The White House at Night,Whitehousenight.jpg,1890,"Hermitage Museum, Saint Petersburg (F766)"
+864,Ears of Wheat,Van_Gogh_-_Weizenhalme.jpeg,1890,"Van Gogh Museum, Amsterdam, Netherlands (F767)"
+865,Portrait of Adeline Ravoux (Half-Figure),Vincent_Willem_van_Gogh_085.jpg,1890,Private Collection (F768)
+866,Portrait of Adeline Ravoux,Van_Gogh_-_Bildnis_Adeline_Ravoux2.jpeg,1890,Private collection (F769)
+867,Landscape at Twilight also Landscape with the Chateau of Auvers at Sunset,Van_Gogh_-_Landschaft_mit_Schloss_Auvers_bei_Sonnenuntergang.jpeg,1890,"Van Gogh Museum, Amsterdam (F770)"
+868,Sheaves of Wheat,Wheatfield_-_Van_Gogh.jpg,"July, 1890","Dallas Museum of Art, Dallas, Texas (F771)"
+869,Marguerite Gachet at the Piano,Vincent_Willem_van_Gogh_073.jpg,1890,"Kunstmuseum Basel, Basel, Switzerland (F772)"
+870,Undergrowth with Two Figures,Vincent_Willem_van_Gogh_080.jpg,1890," Cincinnati Art Museum, Cincinnati, Ohio (F773)"
+871,Peasant Woman Against a Background of Wheat,"Van_Gogh_-_Junge_Bäuerin_mit_Strohhut,_vor_einem_Weizenfeld_sitzend.jpeg",1890,Private collection (Steven A. Cohen) (F774)
+872,Wheat Fields near Auvers,Vincent_Willem_van_Gogh_038.jpg,1890,"Österreichische Galerie Belvedere, Vienna (F775)"
+873,Daubigny's Garden,Vincent_Willem_van_Gogh_021.jpg,1890,"Hiroshima Museum of Art, Hiroshima, Japan (F776)"
+874,Daubigny's Garden with Black Cat,VanGogh_Daubigny.jpg,1890,"Kunstmuseum Basel, Basel, Switzerland on extended loan from The Rudolf Staechelin Family Foundation (F777)"
+875,Wheat Field Under Clouded Skies,Vincent_Willem_van_Gogh_041.jpg,1890,"Van Gogh Museum, Amsterdam, Netherlands (F778)"
+876,Wheat Field with Crows also see Auvers Wheat Harvest Series,Vincent_van_Gogh_(1853-1890)_-_Wheat_Field_with_Crows_(1890).jpg,1890,"Van Gogh Museum, Amsterdam (F779)"
+877,Thatched Roofs in Chaponval,Van_Gogh_-_Strohgedeckte_Hütten_in_Chaponval.jpeg,1890,Kunsthaus Zürich (F780)
+878,Wheat Fields After the Rain (The Plain of Auvers),Wheat_Fields_at_Auvers_Under_Clouded_Sky_1890_Vincent_van_Gogh.jpg,"July, 1890","Carnegie Museum of Art, Pittsburgh, Pennsylvania (F781)"
+879,Plain Near Auvers,Van_Gogh_-_Ebene_bei_Auvers_mit_Regenwolken.jpeg,"July, 1890","Neue Pinakothek, Munich, Germany (F782)"
+880,Two Girls,Van_Gogh_-_Zwei_Kinder.jpeg,1890,"Musée d'Orsay, Paris (F783)"
+881,Two Children,Van_Gogh_-_Zwei_Kinder1.jpeg,1890,Private collection (F784)
+882,Child with Orange,Van_Gogh_Kind_mit_Orange.jpeg,1890,Private collection (F785)
+883,Portrait of Adeline Ravoux,Adeline_Ravoux.jpg,1890,Cleveland Museum of Art (F786)
+884,Young Man with Cornflower,Van_Gogh_-_Bildnis_eines_jungen_Mannes_mit_Kornblume.jpeg,1890,Private collection (F787)
+885,Girl in White also Young Girl Standing Against a Background of Wheat,Girl_in_White_by_Vincent_Van_Gogh_-_NGA.jpg,1890,"National Gallery of Art, Washington, D.C. (F788)"
+886,The Church at Auvers,"Vincent_van_Gogh_-_The_Church_in_Auvers-sur-Oise,_View_from_the_Chevet_-_Google_Art_Project.jpg",1890,"Musée d'Orsay, Paris (F789)"
+887,The Town Hall in Auvers on Bastille Day,Van_Gogh_-_Das_Rathaus_in_Auvers_am_14._Juli_1890.jpeg,1890,"Private collection, Chicago (F790)"
+888,The House of Pere Pilon,Van_Gogh_-_Das_Haus_von_Père_Pilon.jpeg,1890,"Niarchos Collection, Zürich (F791)"
+889,Thatched Cottages at Cordeville,Van_Gogh_-_Thatched_Cottages_at_Cordeville.jpg,1890,"Musée d'Orsay, Paris, France (F792)"
+890,Farms near Auvers also Thatched Cottages by a Hill,VanGoghThatchedCottagesByAHill.jpg,1890,"Tate Gallery, London (F793)"
+891,The House of Père Eloi also Vineyard and Houses,Van_Gogh_-_Das_Haus_von_Père_Eloi.jpeg,1890,"Private collection, Switzerland (F794)"
+892,Village Street and Steps in Auvers with Five Figures,Van_Gogh_-_Dorfstraße_und_Treppe_in_Auvers_mit_Figuren.jpeg,1890,"Saint Louis Art Museum, St. Louis, Missouri (F795)"
+893,Village Street and Steps in Auvers with Two Figures,Van_Gogh_-_Treppe_in_Auvers_mit_zwei_Figuren.jpeg,1890,Private collection (F796)
+894,View of Vessenots Near Auvers,Vincent_van_Gogh_-_Les_Vessenots_à_Auvers_-_Google_Art_Project.jpg,1890,"Museo Thyssen-Bornemisza, Madrid, Spain (F797)"
+895,Bank of the Oise at Auvers,Bank_of_the_Oise_at_Auvers.jpg,1890,"Detroit Institute of Arts, Detroit, Michigan (F798)"
+896,View of Auvers,WLANL_-_artanonymous_-_View_of_Auvers.jpg,1890,"Van Gogh Museum, Amsterdam (F799)"
+897,Wheat Fields with Auvers in the Background,Van_Gogh_-_Weizenfelder_mit_Blick_auf_Auvers.jpeg,July 1890,Musée d'Art et d'Histoire (Geneva) (F801)
+898,Village Street in Auvers,Vincent_Willem_van_Gogh_130.jpg,1890,"Finnish National Gallery, Helsinki (F802)"
+899,Wheat Field at Auvers with White House,Van_Gogh_Wheat_Field_at_Auvers_with_House.jpg,1890,"The Phillips Collection, Washington D.C. (F804)"
+900,Houses in Auvers,Van_Gogh_-_Häuser_in_Auvers.jpeg,1890,"Museum of Fine Arts, Boston (F805)"
+901,Farmhouse with Two Figures,Van_Gogh_-_Bauernhaus_mit_zwei_Figuren.jpeg,1890,"Van Gogh Museum, Amsterdam (F806)"
+902,Field with Green Wheat,Van_Gogh_-_Grünes_Weizenfeld1.jpeg,1890,"National Gallery of Art, Washington, D.C. (F807)"
+903,Wheat Field with Cornflowers,Vincent_van_Gogh_-_Wheat_Field_with_Cornflowers.jpg,"July, 1890","Beyeler Foundation, Riehen, Switzerland (F808)"
+904,"Auvers Wheat Harvest, Field with Wheat Stacks",Van_Gogh_-_Feld_mit_Korngarben.jpeg,"July, 1890","Beyeler Foundation, Riehen, Switzerland (F809)"
+905,Landscape at Auvers in the Rain,Van_Gogh_-_Landschaft_bei_Auvers_im_Regen.jpeg,1890,"National Museum of Wales, Cardiff, Wales (F811)"
+906,Wheat Fields,Van_Gogh_-_Weizenfelder.jpeg,1890,"Private collection, possibly Schweiz (F812)"
+907,Garden in Auvers,Van_Gogh_-_Garten_in_Auvers.jpeg,June–July 1890,Private collection (F814)
+908,Tree Roots,Vincent_van_Gogh_-_Tree_Roots_and_Trunks_(F816).jpg,1890,"Van Gogh Museum, Amsterdam (F816)"
+909,The Grove,Van_Gogh_-_Wäldchen.jpeg,1890,Private collection (F817)
+910,Two Women Crossing the Fields,Van_Gogh_-_Zwei_Mädchen_beim_Spaziergang_entlang_der_Felder.jpeg,1890,"McNay Art Museum, San Antonio, Texas (F819)"
+911,Blossoming Chestnut Branches,Blossoming_Chestnut_Branches.jpg,1890,"Foundation E.G. Bührle Collection, Zurich, Switzerland (F820)"
+912,Blossoming Acacia Branches,Van_Gogh_Blossoming-Acacia-Branches-1890.jpeg,1890,"Nationalmuseum, Stockholm (F821)"
+913,Cows (after Jordaens),Van_Gogh_-_Kühe_(nach_Jordaens).jpeg,1890,"Palais des Beaux-Arts de Lille, Lille, France (F822)"
