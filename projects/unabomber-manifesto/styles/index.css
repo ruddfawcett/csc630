@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:300,400');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: white;
+  font-family: 'Times New Roman', serif;
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+  border-top: 10px solid black;
+}
+
+/* Page wide text styling... */
+
+h1,h2,h3,h4,h5,h6 {
+  font-weight: 300;
+  font-family: 'Playfair Display', serif;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+h3 {
+  text-transform: uppercase;
+  font-size: 28px;
+  letter-spacing: 1.5px;
+}
+
+p {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+p.subtitle {
+  color: gray;
+  font-size: 12px;
+}
+
+a {
+  text-decoration: none;
+  border-bottom: 1px solid gray;
+}
+
+sup a {
+  border-bottom: none;
+  color: black;
+}
+
+/* General section work... */
+
+header {
+  padding-top: 100px;
+}
+
+section {
+  margin-bottom: 10vw;
+  height: 100vh;
+  /*min-height: 800px;*/
+}
+
+section:first-child {
+  text-align: center;
+}
+
+section.side-by-side, section.full {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  overflow: visible;
+}
+
+section.no-border {
+  border: none;
+}
+
+section.full {
+  border: none;
+  min-height: 100px;
+  height: auto;
+  border-top: 1px solid black;
+  margin-bottom: 0;
+}
+
+section.side-by-side .container {
+  width: 50vw;
+  box-sizing: border-box;
+  height: 100%;
+  display: -webkit-flex;
+  position: relative;
+}
+
+.text-container {
+  padding: 4vw 6vw;
+  box-sizing: border-box;
+}
+
+section.full .text-container .text {
+  -moz-column-count: 2;
+  -webkit-column-count: 2;
+  column-count: 2;
+}
+
+.visualization-container {
+  height: 100%;
+  box-sizing: border-box;
+  overflow: scroll;
+}
+
+div.overlay {
+  background-color: white;
+  position: absolute;
+  bottom: 5vw;
+  border-bottom: 5px solid black;
+  width: 40vw;
+  height: 150px;
+  box-shadow: 0 6px 15px 0 rgba(36,37,38,0.08);
+  left: 50%;
+  transform: translate(-50%, 0);
+  padding: 25px;
+  box-sizing: border-box;
+}
+
+div.overlay p {
+  margin-top: 10px;
+  line-height: 24px;
+}
+
+div.container .visualization {
+  padding: 0;
+  width: 50vw;
+  overflow: scroll;
+}
+
+div.container .visualization svg {
+  width: 100%;
+  height: 100%;
+  overflow: scroll;
+}
+
+section:first-child .visualization {
+  margin: 3vw auto;
+}
+
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
+}
+
+.text .head-by-line {
+  margin-bottom: 35px;
+}
+
+.text .head-by-line h2 {
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+}
+
+.text .head-by-line hr {
+  width: 15%;
+  margin: 25px auto 25px auto;
+  display: block;
+  height: 1px;
+  border: none;
+  background-color: black;
+  color: black;
+}
+
+.text .head-by-line h4 {
+  font-weight: 500;
+  text-align: center;
+}
+
+.text .head-by-line span.up {
+  text-transform: uppercase;
+}
+
+.text p {
+  line-height: 32px;
+  /*text-indent: 30px;*/
+  margin-bottom: 15px;
+}
+
+.text a {
+  margin-top: 50px;
+  color: black;
+}
+
+#instructions {
+  display: none;
+}
