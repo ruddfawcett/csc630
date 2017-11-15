@@ -105,6 +105,7 @@ function draw_africa(countries, languages) {
   var container = d3.select('#africa');
   var svg = container.append('svg');
   svg.attr('width', width).attr('height', height);
+  svg.classed('water', true);
 
   var graticule = d3.geoGraticule().step([10, 10]);
 
@@ -119,6 +120,7 @@ function draw_africa(countries, languages) {
   var land = svg.selectAll('path.land').data(countries).enter().append('path').classed('land', true).attr('d', path);
   land.on('click', clickAndZoom).on('mouseover', showTooltip).on('mouseout',  function(d) {
     d3.select(this).classed('focused', false);
+    tooltip.classed('hidden', true);
   });
 
   var offsetL = document.getElementById('africa').offsetLeft+10;
@@ -170,11 +172,33 @@ function draw_africa(countries, languages) {
       return {
         type: 'Point',
         coordinates: [+d.Longitude, +d.Latitude],
-        speakers: +d['Number of speakers']
+        data: d
       }
     }).attr('d', path.pointRadius(function(d) {
       return 5;
-    }));
+    })).on('click', pointClicked);
+
+  function pointClicked(d) {
+    var english_name = d.data['Name in English'];
+    var endangerment = d.data['Degree of endangerment'].toLowerCase();
+    var speakers = d.data['Number of speakers'];
+    var countries = d.data['Countries'];
+
+    var article = 'aeiou'.indexOf(endangerment.charAt(0)) > -1 ? 'an' : 'a';
+    speakers = parseInt(speakers) > 0 ? `Around ${parseInt(speakers).toLocaleString()} people speak` : 'No one speaks';
+
+    d3.select('#african-language-label').text(english_name);
+
+    var description = `${english_name} is ${article} ${endangerment} language found in ${countries}. ${speakers} the language.`;
+
+    d3.select('#african-language-description').text(description);
+  }
+
+  var zoom = d3.zoom().scaleExtent([1, 1]).on('zoom', function() {
+    svg.selectAll('path').attr('transform', d3.event.transform);
+  });
+
+  svg.call(zoom);
 
   return svg;
 }

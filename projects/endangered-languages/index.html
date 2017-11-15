@@ -6,7 +6,6 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-
       gtag('config', 'UA-37510758-2');
     </script>
     <meta charset='utf-8' />
@@ -34,8 +33,11 @@
         <div class='content-container'>
           <div class='text-container container left'>
             <div class='text'>
-              <h2>Introduction</h2>
-              <hr />
+              <div class='head-by-line'>
+                <h2>Introduction</h2>
+                <hr />
+                <h4>By <span class='up'>Rudd Fawcett</span></h4>
+              </div>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
               <p>Nulla facilisi. Etiam a erat iaculis, eleifend velit et, pharetra augue. Proin quis ex eu nunc vulputate fermentum. Duis mauris nibh, tincidunt convallis dui quis, imperdiet rutrum lectus. Ut scelerisque dictum magna in tincidunt. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam at consequat mi. Morbi ornare eros vitae lorem viverra, vel eleifend dui auctor. Donec pretium, dolor at ultricies volutpat, eros ante vestibulum elit, in cursus risus magna a nisl. Nulla neque urna, interdum a rutrum in, tristique quis est. Quisque a sodales velit. Morbi ornare, nibh eu tempus blandit, justo justo porttitor ipsum, at tempor enim odio non sem.</p>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
@@ -44,25 +46,34 @@
         </div>
       </section>
       <section class='side-by-side'>
-        <div class='text-container container right'>
-          <div class='text'>
-            <h2>Dying African Languages</h2>
-            <hr />
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            <p>Nulla facilisi. Etiam a erat iaculis, eleifend velit et, pharetra augue. Proin quis ex eu nunc vulputate fermentum. Duis mauris nibh, tincidunt convallis dui quis, imperdiet rutrum lectus. Ut scelerisque dictum magna in tincidunt. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam at consequat mi. Morbi ornare eros vitae lorem viverra, vel eleifend dui auctor. Donec pretium, dolor at ultricies volutpat, eros ante vestibulum elit, in cursus risus magna a nisl. Nulla neque urna, interdum a rutrum in, tristique quis est. Quisque a sodales velit. Morbi ornare, nibh eu tempus blandit, justo justo porttitor ipsum, at tempor enim odio non sem.</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          </div>
-        </div>
         <div class='visualization-container container left'>
+          <div class='overlay'>
+            <h3 id='african-language-label'>Africa</h3>
+            <p id='african-language-description'><em>The Guardian</em> data tabulates 331 endangered languages on mainland Africa. Drag the map and click countries to zoom. Click on a point to learn more about that language.</p>
+          </div>
           <div class='visualization' id='africa'></div>
         </div>
-      </section>
-
-      <section class='map'>
-        <div class='visualization-container' id='full-map-container'>
-          <div class='visualization'></div>
+        <div class='text-container container right'>
+          <div class='text'>
+            <div class='head-by-line'>
+              <h2>Africa&rsquo;s Disappearing Languages</h2>
+              <hr />
+              <h4>By <span class='up'>Lynette Mukami</span></h4>
+            </div>
+            <p>Africa comprises 54 countries, slightly over one billion people (2012 projections) and an estimated over 2,000 different spoken languages, making it the most linguistically diverse continent in the world. Other experts put the number at around 2,500 languages.</p>
+            <p>Linguists have noted that some languages are critically endangered and are disappearing, mainly through increasing assimilation by bigger language groups. According to Professor Okoth Okombo, a professor of Linguistics and Communication Skills at the University of Nairobi, Africa should worry when this happens.</p>
+            <p>“Language is like a reservoir of culture. Most of the cultural wealth of a community is stored in its language: their philosophy of life, their stories, their medicinal practices," said Prof Okombo.</p>
+            <p>“The death of a language is like the burning of a library.”</p>
+            <p>The expert adds that especially where there’s little or no literacy in the community, all the knowledge of its culture lies within the language.</p>
+            <p>Language death, however, does not mean that the ethnic speakers of the language have disappeared. It simply means that its speakers have shifted to speaking another (usually more dominant) language.</p>
+            <p>So what does it mean when a language is endangered?</p>
+            <a href='http://www.africareview.com/special-reports/Africas-endangered-languages/979182-2008252-3d6e3wz/index.html'>Read more from the Africa Review. →</a>
+          </div>
         </div>
       </section>
+      <footer>
+
+      </footer>
     </main>
     <script src='scripts/d3.min.js'></script>
     <script src='scripts/d3-geo.min.js'></script>
