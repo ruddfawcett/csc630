@@ -1,19 +1,10 @@
-import json
-import string
-
 import numpy as np
 import pandas as pd
-import requests
-
-from collections import Counter
 
 import nltk
 from nltk import RegexpTokenizer
-from nltk import WhitespaceTokenizer
 from nltk.corpus import stopwords
-from nltk.probability import FreqDist
 
-tokenizer = WhitespaceTokenizer()
 punctuation = string.punctuation + '“”’.,'
 text = open('manifesto.txt').read()
 
@@ -38,6 +29,7 @@ for paragraph in paragraphs:
     if break_next:
         break
 
+    # we want to skip the ones after 232 because they appear in the "final notes" section which I cut.
     if '232. ' in paragraph[0]:
         break_next = True
 

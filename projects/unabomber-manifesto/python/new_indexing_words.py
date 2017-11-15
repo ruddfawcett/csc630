@@ -8,11 +8,9 @@ from collections import Counter
 
 import nltk
 from nltk import RegexpTokenizer
-from nltk import WhitespaceTokenizer
 from nltk.corpus import stopwords
 from nltk.probability import FreqDist
 
-tokenizer = WhitespaceTokenizer()
 punctuation = string.punctuation + '“”’.,'
 text = open('manifesto.txt').read()
 
@@ -25,6 +23,7 @@ for row in csv.DictReader(open('most_common_words.csv')):
 
 word_indices = []
 
+# https://stackoverflow.com/a/14307628/6669540
 def all_occurences(file, str):
     initial = 0
     while True:
