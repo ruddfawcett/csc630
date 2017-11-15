@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang='en'>
   <head>
     <script async src='https://www.googletagmanager.com/gtag/js?id=UA-37510758-2'></script>
     <script>
@@ -11,7 +11,6 @@
     </script>
     <meta charset='utf-8'>
     <meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1' />
-    <link rel='stylesheet' type='text/css' href='assets/styles/index.css'></link>
     <title>Van Gogh&rsquo;s Palettes</title>
     <meta name='description' content='The five most dominant colors from 913 of Vincent van Gogh&rsquo;s oil and watercolor paintings.'>
     <meta name='keywords' content='d3.js, van gogh, art, color study'>
@@ -27,26 +26,40 @@
     <meta name='twitter:title' content='Van Gogh&rsquo;s Palettes' />
     <meta name='twitter:description' content='The five most dominant colors from 913 of Vincent van Gogh&rsquo;s oil and watercolor paintings.' />
     <meta name='twitter:image' content='http://csc630.rudd.io/projects/van-goghs-palettes/assets/images/social-card.jpg' />
+    <meta charset='utf-8' />
+    <title>Unabomber Manifesto</title>
+    <link rel='stylesheet' href='styles/index.css' type='text/css'></link>
+    <link rel='stylesheet' href='styles/svg.css' type='text/css'></link>
   </head>
   <body>
-    <h1>Van Gogh&rsquo;s Palettes</h1>
-    <p>The five most dominant colors from 913 of Vincent van Gogh&rsquo;s oil and watercolor paintings. Images and metadata were sourced from <a href='https://en.wikipedia.org/wiki/List_of_works_by_Vincent_van_Gogh' target='_blank'>this Wikipedia list</a>, which is available under a <a href='https://en.wikipedia.org/wiki/Wikipedia:Copyrights' target='_blank'>Creative Commons Attribution-ShareAlike 3.0 Unported License</a> license. Data was scraped and processed using Python, with help from <a href='http://blog.zeevgilovitz.com/detecting-dominant-colours-in-python/' target='_blank'>this blog post on finding dominant image colors</a>. The algorithm uses <a href='http://charlesleifer.com/blog/using-python-and-k-means-to-find-the-dominant-colors-in-images/' target='_blank'>K-Means clustering</a> in order to extract the <em>n</em>-most dominant colors (I ran it for the top five).</p>
-    <p>This was an initial data exploration into the <b>possible</b> trends and/or associations between van Gogh&rsquo;s color in his work and <a href='https://www.brainpickings.org/2014/06/05/van-gogh-and-mental-illness/' target='_blank'>&ldquo;anguishing mental illness — frequent episodes of depression, paralyzing anxiety and, according to some accounts, the symptoms of bipolar disorder.&rdquo;</a> This data could be used to tell a story through the conceivable subconscious evolution of his work. Click on a work&rsquo;s title to open the processed image. Project <a href='https://github.com/ruddfawcett/csc630/tree/master/projects/van-goghs-palettes'>available on GitHub</a>.</p>
-    <h3>Disclaimers</h3>
-    <ol>
-      <li>Reproductions were not high quality and were not taken under similar lighting conditions.</li>
-      <li>This is more of a proof of concept than an analytical piece of work.</li>
-      <li>This page is incredibly long (~120k pixels).</li>
-    </ol>
-    <h3>Ideas</h3>
-    <ul>
-      <li>Plot average hues, saturations, red, green, and blue values over time.</li>
-      <li>Plot color analysis in relation to linguistics processing from letters sent to his brother.</li>
-    </ul>
-    <hr />
-    <div class='visualization-container' id='swatches'></div>
+    <main>
+      <section>
+        <div class='content-container'>
+          <header>
+            <h3>Color Chronology of</h3>
+            <h1>Van Gogh's Palettes</h1>
+            <br />
+            <p>The five most dominant colors from 913 of Vincent van Gogh&rsquo;s oil and watercolor paintings.</p>
+            <p>Hover over a row to find out more about the image.</p>
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />  
+          </header>
+          <div class='visualization-container'>
+            <div class='visualization' id='swatches'></div>
+          </div>
+        </div>
+      </section>
+    </main>
+    <script src='scripts/d3.min.js'></script>
+    <script src='scripts/visualizations.js'></script>
   </body>
-
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.min.js' type='text/javascript'></script>
-  <script src='scripts/index.js' type='text/javascript'></script>
 </html>
